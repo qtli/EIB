@@ -1,0 +1,707 @@
+-----------0-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a function of a leaf? (A) Carrying nutrients throughout the plant (B) Converting solar energy into sugar (C) Creating shade for the plant (D) Absorbing water from the ground
+sample_out: The answer is (B) Converting solar energy into sugar.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a leaf is a part of a plant. a leaf is a part of a plant. photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy. a leaf is a part of a plant.
+expl_opt: A leaf is a part of a plant.  The main functions of a leaf are photosynthesis and gas exchange.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  Sunlight means solar energy. 
+prediction_x: A leaf is a part of a plant.  A leaf is a part of a plant.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  A leaf is a part of a plant.
+vinfo: 956.6810302734375
+-----------1-----------
+sample_in: This is a science exam question and answer.<|exp|>Earth makes a complete revolution around the Sun about once every (A) day (B) year (C) season (D) minute
+sample_out: The answer is (B) year.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A year is the time it takes the Earth to orbit the sun once.  The moon reflects sunlight towards the Earth.  Orbiting something means revolving around something. 
+expl_opt: A year is the time it takes the Earth to orbit the sun once.  Orbiting something means revolving around something. 
+prediction_x: A year is the time it takes the Earth to orbit the sun once.  The moon reflects sunlight towards the Earth.  The sun is a kind of star.
+vinfo: 637.7705078125
+-----------2-----------
+sample_in: This is a science exam question and answer.<|exp|>Which item is designed to change electrical energy into heat energy? (A) Alarm clock (B) Hand dryer (C) Fan (D) Telephone
+sample_out: The answer is (B) Hand dryer.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A hand dryer is an electrical appliance.  A hand dryer produces heat.  An electrical appliance uses electrical energy.  Heat is a kind of energy.  An electrical appliance can convert electrical energy into different kinds of energy.In addition, the results suggest that the level of expression of CXCR4 may be associated with the prognosis of patients with esophageal squamous cell carcinoma.
+expl_opt: A hand dryer is an electrical appliance.  A hand dryer produces heat.  An electrical appliance uses electrical energy.  Heat is a kind of energy.  An electrical appliance can convert electrical energy into different kinds of energy. 
+prediction_x: A hand dryer is an electrical appliance.  A hand dryer produces heat.  An electrical appliance uses electrical energy.  Heat is a kind of energy.  An electrical appliance can convert electrical energy into different kinds of energy.
+vinfo: 730.81884765625
+-----------3-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is most likely harmful to an ecosystem? (A) Building new homes in a wetland (B) Taking away airplanes from an airport (C) Planting trees in an orchard (D) Adding floors to an office building
+sample_out: The answer is (A) Building new homes in a wetland.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A wetland is a kind of ecosystem.  A wetland is a kind of habitat.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.humans changing ecosystems usually causes harm to the living organisms in an ecosystem .  Harming something is having a negative impact.  Leaving something alone means not changing it.  Building something is a kind of change. 
+expl_opt: A wetland is a kind of ecosystem.  A wetland is a kind of habitat.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Harming something is having a negative impact.  Leaving something alone means not changing it.  Building something is a kind of change. 
+prediction_x: A wetland is a kind of ecosystem.  A wetland is a kind of habitat.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Harming something is having a negative impact.  Leaving something alone means not changing it.  Building something is a kind of change.
+vinfo: 1009.8574829101562
+-----------4-----------
+sample_in: This is a science exam question and answer.<|exp|>Tony is studying ladybugs in a garden. Which of these would BEST help Tony to count the spots on a ladybug? (A) Stopwatch (B) Thermometer (C) Measuring cup (D) Magnifying glass
+sample_out: The answer is (D) Magnifying glass.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a magnifying glass is a tool that can be used to make things appear bigger, so that they can be seen better. a ladybug has spots. a ladybug is small. a ladybug has spots. a ladybug is small. seeing small things is easier with a magnifying glass. seeing small things is easier if they can be made to appear bigger.
+expl_opt: A magnifying glass is a tool that can be used to make things appear bigger, so that they can be seen better.  A ladybug is a kind of insect.  A ladybug is small.  A ladybug has spots.  Counting something visually requires that you can see it well.  Seeing small things is easier with a magnifying glass.  Seeing small things is easier if they can be made to appear bigger.
+prediction_x: A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots.  A ladybug has spots
+vinfo: 943.3052368164062
+-----------5-----------
+sample_in: This is a science exam question and answer.<|exp|>A paper bag is ripped into pieces. Which of these BEST describes the pieces of the bag? (A) Stronger than the whole bag (B) Thicker than the whole bag (C) Smaller than the whole bag (D) Darker than the whole bag
+sample_out: The answer is (C) Smaller than the whole bag.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A piece is a smaller part of a whole something.A fragment is a piece of an object is a smaller part of a whole object .  A paper bag is an object.  A piece of a paper bag is smaller than a whole bag.
+expl_opt: A piece is a smaller part of a whole something.  A piece of an object is a smaller part of a whole object.  A paper bag is an object.  A piece of a paper bag is smaller than a whole bag.
+prediction_x: A piece is a smaller part of a whole something.  A piece is a smaller part of a whole object.  A paper bag is an object.  A piece of a paper bag is smaller than a whole bag.
+vinfo: 1076.274658203125
+-----------6-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of the following is the best observation of the refraction of light? (A) Looking at oneself in a mirror (B) Looking at a shadow of an object (C) Viewing an object through an open window (D) Viewing an object partially in water
+sample_out: The answer is (D) Viewing an object partially in water.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>refraction is the bending of light. refraction happens when light passes from one medium to another medium. refraction happens when light passes from one medium to another medium. refraction happens when light passes from one medium to another medium. when an object is partially in water, it is also partially in air. refraction happens when light passes from one medium to another medium. water is a kind of medium for light. air is a kind of medium for light. viewing is observing light. refraction is the bending of light. refraction happens when light passes from one medium to another medium. when an object is partially in water, it is also partially in air.
+expl_opt: Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  Water is a kind of medium for light.  Air is a kind of medium for light.  When an object is partially in water, it is also partially in air.  Viewing is observing light. 
+prediction_x: Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Water is a kind of medium for light.  When an object is partially in water, it is also partially in air.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.
+vinfo: 1089.4267578125
+-----------7-----------
+sample_in: This is a science exam question and answer.<|exp|>Which part of a bicycle BEST moves in a circle? (A) Seat (B) Frame (C) Foot pedal (D) Kickstand
+sample_out: The answer is (C) Foot pedal.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Speed is a measure of how fast an object is moving.  A bicycle contains two pedals.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward. 
+expl_opt: A bicycle contains two pedals.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward.
+prediction_x: A bicycle contains two pedals.  A bicycle contains two pedals.  A bicycle contains two pedals.
+vinfo: 677.6699829101562
+-----------8-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these activities is most likely to have a positive impact on the environment of Earth? (A) Expanding neighborhoods (B) Building factories (C) Constructing highways (D) Creating nature preserves
+sample_out: The answer is (D) Creating nature preserves.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A nature preserve is a protected area where plants and animals are left undisturbed by humans. A nature preserve is a kind of habitat. Habitats support animals. Habitats support plants. This is because humans changing a living thing's habitat usually causes that living , thing harm. It is important to remember that harming something has a negative impact. In other words, the opposite of a negative impact is a positive impact. Protecting something means preventing harm. Leaving something undisturbed means not changing it. The environment includes forests, rivers, grasslands, and oceans. Forests contain plants.
+expl_opt: A nature preserve is a protected area where plants and animals are left undisturbed by humans.  A nature preserve is a kind of habitat.  Habitats support animals. Habitats support plants. Humans changing a living thing's habitat usually causes that living thing harm.  Harming something has a negative impact.  The opposite of a negative impact is a positive impact. Protecting something means preventing harm. Leaving something undisturbed means not changing it.  The environment includes forests, rivers, grasslands, and oceans.  Forests contain plants. 
+prediction_x: A nature preserve is a protected area where plants and animals are left undisturbed by humans.  A nature preserve is a kind of habitat.  Habitats support animals.  Habitats support plants.  In other words, the opposite of a negative impact is a positive impact.  Protecting something means preventing harm.  Leaving something undisturbed means not changing it.  The environment includes forests, rivers, grasslands, and oceans.  Forests contain plants.
+vinfo: 849.0908813476562
+-----------9-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a nonliving part of a forest? (A) Tree (B) Soil (C) Worm (D) Mushroom
+sample_out: The answer is (B) Soil.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a tree is a living thing. a worm is a living thing. a tree is a living thing. a mushroom is a living thing. a tree is a living thing. a worm is a living thing.
+expl_opt: A tree is a living thing.  A worm is a living thing.  A mushroom is a living thing.  
+prediction_x: A tree is a living thing.  A worm is a living thing.  A worm is a living thing.
+vinfo: 677.6705322265625
+-----------10-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities most relies on high-quality soil? (A) Hiking (B) Hunting (C) Coal mining (D) Growing crops
+sample_out: The answer is (D) Growing crops.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>All plants require soil to survive. Soil contains nutrients that plants absorb through their roots. The amount of nutrients in soil are one factor that determines plant growth and soil quality. Crops are a kind of plant. Plants require nutrients from the soil in order to grow.
+expl_opt: Plants require soil to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow. 
+prediction_x: All plants require soil to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines plant growth and soil quality.  Plants require nutrients from the soil in order to grow.
+vinfo: 717.4999389648438
+-----------11-----------
+sample_in: This is a science exam question and answer.<|exp|>Which part of a plant cell is responsible for controlling the activities of the other parts of the cell? (A) Vacuole (B) Nucleus (C) Cell wall (D) Chloroplast
+sample_out: The answer is (B) Nucleus.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A cell nucleus is a part of a cell.  The cell nucleus controls many of the functions of the cell.  A cell membrane is around the cell of all living things.  When you have a function to do, you have an activity. 
+expl_opt: A cell nucleus is a part of a cell.  The cell nucleus controls many of the functions of the cell.  When you have a function to do, you have an activity. 
+prediction_x: A cell nucleus is a part of a cell.  The cell nucleus controls many of the functions of the cell.  A cell membrane is around the cell of all living things.  When you have a function to do, you have an activity.
+vinfo: 890.2718505859375
+-----------12-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these can be mined from Earth and used as an energy source? (A) Coal (B) Gravel (C) Granite (D) Limestone
+sample_out: The answer is (A) Coal.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Coal is a kind of fuel that comes from under the ground.  The ground is part of the Earth.Mining is when rocks and minerals are dug up and taken from the ground.  Coal is a kind of rock.  A fuel is a kind of energy source.  A fuel is used to make energy.  If an object makes something, it is a source of that something. 
+expl_opt: Coal is a kind of fuel that comes from under the ground.  The ground is part of the Earth.  Mining is when rocks and minerals are taken from the ground.  Coal is a kind of rock.  A fuel is a kind of energy source.  A fuel is used to make energy.  If an object makes something, it is a source of that something. 
+prediction_x: Coal is a kind of fuel that comes from under the ground.  Coal is a kind of rock.  A fuel is a kind of energy source.  A fuel is used to make energy.  If an object makes something, it is a source of that something.
+vinfo: 730.8175048828125
+-----------13-----------
+sample_in: This is a science exam question and answer.<|exp|>Mold is often found growing on old bread. In a food chain, mold is a (A) decomposer (B) producer (C) consumer (D) scavenger
+sample_out: The answer is (A) decomposer.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Decomposers are living things. Decomposers are bacteria and emits. Mold is a cruel of fungus. A decomposer is a part of the food chain process.
+expl_opt: Decomposers are living things.  Decomposers are bacteria and fungi.  Mold is a kind of fungus.  A decomposer is a part of the food chain process. 
+prediction_x: Mold is a kind of food.  A decomposer is a part of the food chain process.  A decomposer is a part of the food chain process.
+vinfo: 797.2582397460938
+-----------14-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities most relies on high-quality soil? (A) Hiking (B) Hunting (C) Coal mining (D) Growing crops
+sample_out: The answer is (D) Growing crops.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Plants require soil nutrients such as nitrogen, phosphorus and potassium to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow. 
+expl_opt: Plants require soil to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow. 
+prediction_x: Plants require soil nutrients such as nitrogen, phosphorus and potassium to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow.
+vinfo: 717.5300903320312
+-----------15-----------
+sample_in: This is a science exam question and answer.<|exp|>Max is doing an experiment on tomato plants. His hypothesis is, "A tomato plant will not grow in a shady area."� On which of these relationships did Max base his hypothesis? (A) Warm temperature causes plant growth. (B) Sunlight causes plant growth. (C) Tall plants cause shade. (D) New plants need fresh water.
+sample_out: The answer is (B) Sunlight causes plant growth..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Plants require sunlight to photosynthesize and grow.  Shade is the absence of sunlight.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object. 
+expl_opt: Plants require sunlight to grow.  Shade is the absence of sunlight.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object. 
+prediction_x: Plants require sunlight to photosynthesize and grow.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object.
+vinfo: 1288.888671875
+-----------16-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these BEST describes the way a feather feels? (A) Colorful (B) Soft (C) Low (D) Bright
+sample_out: The answer is (B) Soft.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>vaned feathers have a stiff center with soft barbs on the side. down is a small feather found on young birds. down is very soft. the feeling of something being soft is just a kind of touch sensation.
+expl_opt: Vaned feathers have a stiff center with soft barbs on the side.  Down is a small feather found on young birds.  Down is very soft.   Soft is a kind of touch sensation. 
+prediction_x: vaned feathers have a stiff center with soft barbs on the side.  Down is a small feather found on young birds.  Down is very soft.  The feeling of something being soft is just a kind of touch sensation.
+vinfo: 651.0953369140625
+-----------17-----------
+sample_in: This is a science exam question and answer.<|exp|>Which causes the GREATEST change in a grassy field over time? (A) The time of day (B) Amount of yearly rainfall (C) Number of birds nesting (D) Seasonal migration of animals
+sample_out: The answer is (B) Amount of yearly rainfall.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>grass is a kind of plant. rainfall is the amount of rain an area receives. a field is a kind of area. rain is a form of water. plants require water to plants require water to grow. growth is a kind of a kind of change. generally, the more rain a plant receives, the more it will grow, up until a threshold. to little water and a plant will not grow. too much water and a plant will and a plant will not grow.
+expl_opt: Grass is a kind of plant.  Rainfall is the amount of rain an area receives.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.  Growth is a kind of change.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  To little water and a plant will not grow.  Too much water and a plant will not grow.
+prediction_x: Grass is a kind of plant.  Rain is a form of water.  Plants require water to grow.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.
+vinfo: 890.27099609375
+-----------18-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is the main function of a cell wall? (A) To make food (B) To store water (C) To provide support (D) To make the plant green
+sample_out: The answer is (C) To provide support.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a cell wall is a part of a plant cell. plant stems transport water and food between the roots and the rest of the plant. the purpose of a cell wall is to make the cell strong, and keep it's shape. the cell wall gives support and protection to the cell membrane.
+expl_opt: A cell wall is a part of a plant cell.  The purpose of a cell wall is to make the cell strong, and keep it's shape.  The cell wall gives support and protection to the cell membrane. 
+prediction_x: A cell wall is a part of a plant cell.  A cell wall is a part of a plant cell.  A cell wall is a part of a plant cell.  A cell wall is a part of a plant cell.
+vinfo: 810.546630859375
+-----------19-----------
+sample_in: This is a science exam question and answer.<|exp|>People can help keep a forest a good place for birds to live by (A) dumping garbage in a small part of the forest (B) building a road through the middle of the forest (C) burning dead trees to make smoke in the air (D) preventing too many trees from being cut down
+sample_out: The answer is (D) preventing too many trees from being cut down.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a forest is a habitat where birds live. a forest is a kind of ecosystem a kind of ecosystem. a bird is a kind of is a kind of animal. a bird is a kind of is a kind of living thing. a good place to live is a place that is not negative. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area place or area. humans changing ecosystems usually causes harm to the living organisms in an ecosystem. cutting down trees causes harm to the living organisms in an ecosystem. preventing something means making it not happen.
+expl_opt: A forest is a habitat where birds live.  A forest is a kind of ecosystem.  A bird is a kind of animal.  A bird is a kind of living thing.  A good place to live is a place that is not negative.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Cutting down trees causes harm to the living organisms in an ecosystem.  Preventing something means making it not happen. 
+prediction_x: A forest is a habitat where birds live.  A forest is a kind of ecosystem.  A bird is a kind of is a kind of living thing.  A good place to live is a place that is not negative.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Cutting down trees causes harm to the living organisms in an ecosystem.  Preventing something means making it not happen.
+vinfo: 1182.5899658203125
+-----------20-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a way the people of Virginia can help restore a natural ecosystem? (A) Burn their trash (B) Plant native plants (C) Feed leftover meals to deer (D) Drain automobile oil into the grass
+sample_out: The answer is (B) Plant native plants.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. a natural ecosystem is an ecosystem that contains native living things. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. planting something increases the amount of something. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. a native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, increasing the amount of something native helps restore the thing it is a part of. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. a natural ecosystem is an ecosystem that contains native living things. not human change. planting something increases the amount of something.
+expl_opt: An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  A natural ecosystem is an ecosystem that contains native living things.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, not human change.  Planting something increases the amount of something.  Increasing the amount of something native helps restore the thing it is a part of. 
+prediction_x: An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Plants, animals, and microbes, are native.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, increasing the amount of something native helps restore the thing it is a part of.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, increasing the amount of something native helps restore the thing it is a part of.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, increasing the amount of something native helps restore the thing it is a part of.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, increasing the amount of something native helps restore the thing it is a part of.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, increasing the amount of something native helps restore the thing it is a part of.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, increasing the amount of something nativ
+vinfo: 916.8463134765625
+-----------21-----------
+sample_in: This is a science exam question and answer.<|exp|>Early scientists most likely saw a discharge of electricity for the first time when observing a (A) waterfall (B) rainbow (C) lightning storm (D) volcano erupting
+sample_out: The answer is (C) lightning storm.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Lightning is a kind of electricity.Lightning is an electrostatic discharge, while thunder is an electrical discharge.
+expl_opt: Lightning is a kind of electricity.  Lightning is an electrical discharge.
+prediction_x: Lightning is a kind of electricity.  Thunder is an electrical discharge.
+vinfo: 757.3892822265625
+-----------22-----------
+sample_in: This is a science exam question and answer.<|exp|>People can help keep a forest a good place for birds to live by (A) dumping garbage in a small part of the forest (B) building a road through the middle of the forest (C) burning dead trees to make smoke in the air (D) preventing too many trees from being cut down
+sample_out: The answer is (D) preventing too many trees from being cut down.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a forest is a habitat where birds live. a forest is a kind of ecosystem. a bird is a kind of animal. a bird is a kind of living thing. a good place to live is a place that is not negative. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. cutting down trees causes harm to the living organisms in an ecosystem. preventing something means making it not happen.
+expl_opt: A forest is a habitat where birds live.  A forest is a kind of ecosystem.  A bird is a kind of animal.  A bird is a kind of living thing.  A good place to live is a place that is not negative.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Cutting down trees causes harm to the living organisms in an ecosystem.  Preventing something means making it not happen. 
+prediction_x: A forest is a habitat where birds live.  A forest is a kind of ecosystem.  A bird is a kind of living thing.  A good place to live is a place that is not negative.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Cutting down trees causes harm to the living organisms in an ecosystem.  Preventing something means making it not happen.
+vinfo: 1182.3226318359375
+-----------23-----------
+sample_in: This is a science exam question and answer.<|exp|>The surface of the Moon is made up of (A) craters, highlands, and flat areas (B) swirling gases (C) large bodies of water (D) a mixture of gases and water
+sample_out: The answer is (A) craters, highlands, and flat areas.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>The moon's surface has many craters.
+expl_opt: The moon's surface has many craters. 
+prediction_x: Craters are formed when rocks and other objects move in a direction.  Craters are formed when rocks and other objects move in a direction.  Craters are formed when rocks and other objects move in a direction. <|bos|> Craters are formed when rocks and other objects move in a direction.  Craters are formed when rocks and other objects move in a direction.
+vinfo: 943.421875
+-----------24-----------
+sample_in: This is a science exam question and answer.<|exp|>Earth makes a complete revolution around the Sun about once every (A) day (B) year (C) season (D) minute
+sample_out: The answer is (B) year.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a year is the time it takes the earth to orbit the sun once. the moon's surface has many craters.
+expl_opt: A year is the time it takes the Earth to orbit the sun once.  Orbiting something means revolving around something. 
+prediction_x: Earth is a kind of planet.  The sun is the closest star to the earth.  The sun is the closest star to the earth.  The sun is the closest star to the earth. <|bos|> Earth is a kind of planet.  The sun is the closest star to the Earth.  The sun is the closest star to the Earth.
+vinfo: 637.7774658203125
+-----------25-----------
+sample_in: This is a science exam question and answer.<|exp|>Which part of a bicycle BEST moves in a circle? (A) Seat (B) Frame (C) Foot pedal (D) Kickstand
+sample_out: The answer is (C) Foot pedal.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A bicycle contains two pedals.  Motion is when an object moves in a direction.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward. 
+expl_opt: A bicycle contains two pedals.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward.
+prediction_x: A bicycle contains two pedals.  Motion is when an object moves in a direction.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward.
+vinfo: 677.669189453125
+-----------26-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is the main function of a cell wall? (A) To make food (B) To store water (C) To provide support (D) To make the plant green
+sample_out: The answer is (C) To provide support.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a cell wall is a part of a plant cell. the purpose of a cell wall is to make the cell strong, and keep it's shape. the cell floor gives support and sun to the cell membrane.
+expl_opt: A cell wall is a part of a plant cell.  The purpose of a cell wall is to make the cell strong, and keep it's shape.  The cell wall gives support and protection to the cell membrane. 
+prediction_x: A cell wall is a part of a plant cell.  The purpose of a cell wall is to make the cell strong, and keep it's shape.  The cell floor gives support and sun to the cell membrane.
+vinfo: 810.526611328125
+-----------27-----------
+sample_in: This is a science exam question and answer.<|exp|>A company plants trees on a bare hillside. Which of these is the BEST reason for planting the trees? (A) The trees provide oxygen for the soil. (B) The trees prevent soil from washing away. (C) The trees make shade for animals living there. (D) The trees cause animals to move to other places.
+sample_out: The answer is (B) The trees prevent soil from washing away..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>The process of soil erosion is the loss of soil from water or wind.  Soil erosion means soil is moved away, usually by water or wind. Washing away means being moved by water.  Erosion is harmful.  The roots of plants can prevent erosion by helping hold soil in place.  A tree is a kind of plant.  Preventing something means making it not happen. 
+expl_opt: Soil erosion is the loss of soil from water or wind.  Soil erosion means soil is moved away, usually by water or wind. Washing away means being moved by water.  Erosion is harmful.  The roots of plants can prevent erosion by helping hold soil in place.  A tree is a kind of plant.  Preventing something means making it not happen. 
+prediction_x: The process of soil erosion is the loss of soil from water or wind. Soil erosion means soil is moved away, usually by water or wind.  Erosion is harmful.  The roots of plants can prevent erosion by helping hold soil in place.  A tree is a kind of plant.  Preventing something means making it not happen.
+vinfo: 1275.6104736328125
+-----------28-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is the most responsible for the changes of the seasons on Earth? (A) Position of the Moon (B) Tilt of Earth on its axis (C) Temperature of the Sun (D) Distance to Mars
+sample_out: The answer is (B) Tilt of Earth on its axis.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>the summer solstice is on june 21st. seasons are caused by the tilt of the earth's axis.
+expl_opt: Seasons are caused by the tilt of the Earth's axis. 
+prediction_x: The summer solstice is on July 21st.  The season is caused by the tilt of the earth's axis.
+vinfo: 969.9854736328125
+-----------29-----------
+sample_in: This is a science exam question and answer.<|exp|>Both hurricanes and tornadoes always (A) cause flooding (B) are hundreds of miles wide (C) have high winds (D) produce light snow
+sample_out: The answer is (C) have high winds.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a hurricane is a kind of storm with high winds. a cyclonic tornado is a strong wind storm that moves in a circle. high means a lot of something. strong means a lot of something.
+expl_opt: A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  High means a lot of something.  Strong means a lot of something.
+prediction_x: A hurricane is a kind of storm with high winds.  A cyclonic tornado is a strong wind storm that moves in a circle.  High means a lot of something.  Strong means a lot of something.
+vinfo: 717.5249633789062
+-----------30-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these BEST describes the way a feather feels? (A) Colorful (B) Soft (C) Low (D) Bright
+sample_out: The answer is (B) Soft.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>vaned feathers have a stiff center with soft barbs on the side. down is a small feather found on young birds. lava is magma that flows onto the earth's surface.
+expl_opt: Vaned feathers have a stiff center with soft barbs on the side.  Down is a small feather found on young birds.  Down is very soft.   Soft is a kind of touch sensation. 
+prediction_x: vaned feathers have a stiff center with soft barbs on the side.  A soft barbs is a kind of barrier.  A soft barbs is a kind of barrier.  A soft barbs is a kind of barrier. <|bos|> vaned feathers have a stiff center with soft barbs on the side.  A soft barbs is a kind of barrier.  A soft barbs is a kind of barrier.
+vinfo: 651.0936279296875
+-----------31-----------
+sample_in: This is a science exam question and answer.<|exp|>A paper bag is ripped into pieces. Which of these BEST describes the pieces of the bag? (A) Stronger than the whole bag (B) Thicker than the whole bag (C) Smaller than the whole bag (D) Darker than the whole bag
+sample_out: The answer is (C) Smaller than the whole bag.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A piece is a smaller part of a whole something.  A piece of an object is a smaller part of a whole object.  A paper bag is an object.A piece of a paper bag is smaller and lighter than a whole bag .
+expl_opt: A piece is a smaller part of a whole something.  A piece of an object is a smaller part of a whole object.  A paper bag is an object.  A piece of a paper bag is smaller than a whole bag.
+prediction_x: A piece is a smaller part of a whole something.  A piece of an object is a smaller part of a whole object.  A paper bag is an object.
+vinfo: 1076.28369140625
+-----------32-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these can be mined from Earth and used as an energy source? (A) Coal (B) Gravel (C) Granite (D) Limestone
+sample_out: The answer is (A) Coal.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a year is the time it takes the earth to orbit the sun once. orbiting something means revolving around something. orbiting something means revolving around something. orbiting something means revolving around something. a fuel is used to make energy. orbiting something means revolving around something. coal is a kind of fuel that comes from under the ground. mining is when rocks and minerals are taken from the ground. a fuel is a kind of energy source. the ground is part of the earth. it is a source of that something. coal is a kind of rock. if an object makes something, a fuel is used to make energy.
+expl_opt: Coal is a kind of fuel that comes from under the ground.  The ground is part of the Earth.  Mining is when rocks and minerals are taken from the ground.  Coal is a kind of rock.  A fuel is a kind of energy source.  A fuel is used to make energy.  If an object makes something, it is a source of that something. 
+prediction_x: A year is the time it takes the Earth to orbit the sun once.  Orbit is when rocks and minerals are taken from the ground.  Mining is when rocks and minerals are taken from the ground.  A fuel is a kind of energy source.  The ground is part of the Earth.  Mining is when rocks and minerals are taken from the ground.  A fuel is a kind of energy source.  If an object makes something, a fuel is used to make energy.  If an object makes something, a fuel is used to make energy.
+vinfo: 730.8179321289062
+-----------33-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities in a forest has a positive effect on the ecosystem? (A) Clearing the land to build new homes (B) Planting new trees where old ones were cut down (C) Building a new highway through the area (D) Cutting down trees to make farmland
+sample_out: The answer is (B) Planting new trees where old ones were cut down.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a tornado is a strong wind storm that moves in a circle. a hurricane is a kind of storm with high winds. a hurricane is a kind of storm with high winds. a tornado is a strong wind storm that moves in a circle. high means a lot of something. helping means have a positive effect. humans changing ecosystems usually causes harm to the living organisms in an ecosystem. cutting down trees causes harm to the living organisms in an ecosystem. an ecosystem is a large community of living organisms, planting trees is the opposite of cutting down trees. a forest is a kind of ecosystem. at a particular place or area. planting trees helps an ecosystem. including plants, animals, and microbes, helping means have a positive effect.
+expl_opt: A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem. Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect. 
+prediction_x: A tornado is a strong wind storm that moves in a circle.  A hurricane is a kind of storm with high winds.  A hurricane is a kind of storm with high winds.  A hurricane is a kind of storm with high winds.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosystem.  A forest is a kind of ecosyste
+vinfo: 1182.593017578125
+-----------34-----------
+sample_in: This is a science exam question and answer.<|exp|>Earth makes a complete revolution around the Sun about once every (A) day (B) year (C) season (D) minute
+sample_out: The answer is (B) year.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a year is the time it takes the earth to orbit the sun once. orbiting something means that you are revolving around something.
+expl_opt: A year is the time it takes the Earth to orbit the sun once.  Orbiting something means revolving around something. 
+prediction_x: a year is the time it takes the earth to orbit the sun once.  A year is the time it takes the earth to orbit the sun once.  A year is the time it takes the earth to orbit the sun once. <|bos|> A year is the time it takes the Earth to orbit the sun once.  A year is the time it takes the Earth to orbit the sun once.
+vinfo: 637.77734375
+-----------35-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities in a forest has a positive effect on the ecosystem? (A) Clearing the land to build new homes (B) Planting new trees where old ones were cut down (C) Building a new highway through the area (D) Cutting down trees to make farmland
+sample_out: The answer is (B) Planting new trees where old ones were cut down.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A forest is a kind of ecosystem.  An animal is a kind of living thing.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect. 
+expl_opt: A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem. Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect. 
+prediction_x: A forest is a kind of ecosystem.  An animal is a kind of living thing.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect.
+vinfo: 1182.5908203125
+-----------36-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is most likely harmful to an ecosystem? (A) Building new homes in a wetland (B) Taking away airplanes from an airport (C) Planting trees in an orchard (D) Adding floors to an office building
+sample_out: The answer is (A) Building new homes in a wetland.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a wetland is a kind of ecosystem. a wetland is a kind of habitat. a wetland is a kind of ecosystem. humans changing ecosystems usually causes harm to the living organisms in an ecosystem. a wetland is a kind of ecosystem. leaving something alone means not changing it. a wetland is a kind of ecosystem. an ecosystem is a large community of living organisms, harming something is having a negative impact. at a particular place or area. building something is a kind of change. a wetland is a kind of ecosystem. a wetland is a kind of habitat. including plants, animals, and microbes, humans changing ecosystems usually causes harm to the living organisms in an ecosystem. leaving something alone means not changing it.
+expl_opt: A wetland is a kind of ecosystem.  A wetland is a kind of habitat.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Harming something is having a negative impact.  Leaving something alone means not changing it.  Building something is a kind of change. 
+prediction_x: A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  Leaving something alone means not changing it.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of ecosystem.
+vinfo: 1009.8584594726562
+-----------37-----------
+sample_in: This is a science exam question and answer.<|exp|>When it rains, some animals will (A) hibernate for the season (B) migrate to warmer climates (C) change their body covering (D) move to seek shelter
+sample_out: The answer is (D) move to seek shelter.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>The best kind of shelter is a place that can protect someone from the rain and sun.  Animals need shelter.  Animals need to move to find shelter.  Seeking something means trying to find it.
+expl_opt: Shelter is a place that can protect someone from the rain and sun.  Animals need shelter.  Animals need to move to find shelter.  Seeking something means trying to find it.
+prediction_x: The best kind of shelter is a place that can protect someone from the rain and sun.  Animals need shelter.  Animals need to move to find shelter.  Seeking something means trying to find it.
+vinfo: 810.545166015625
+-----------38-----------
+sample_in: This is a science exam question and answer.<|exp|>Which tools are best used to determine the speed of a turtle as it walks along a path? (A) Meter stick and graduated cylinder (B) Stopwatch and meter stick (C) Balance and metric ruler (D) Balance and stopwatch
+sample_out: The answer is (B) Stopwatch and meter stick.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>speed is a measure of how fast an object is moving. the speed of an object is the distance that an object moves in a given amount of time. speed is measured in km/h or m/s or mph. a meter stick is a measuring tool used to measure distance and angle. a stopwatch is a tool used to measure time. walking is a kind of moving.
+expl_opt: Speed is a measure of how fast an object is moving.  Speed is the distance that an object moves in a given amount of time.  Speed is measured in km/h or m/s or mph.  A meter stick is a tool used to measure distance.  A stopwatch is a tool used to measure time.  Walking is a kind of moving. 
+prediction_x: Speed is a measure of how fast an object is moving.  The speed of an object is the distance that an object moves in a given amount of time.  A meter stick is a measuring tool used to measure distance and angle.  A stopwatch is a tool used to measure time.  Walking is a kind of moving.
+vinfo: 983.2831420898438
+-----------39-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these organisms has cells with cell walls? (A) bluebird (B) A pine tree (C) A ladybug (D) A fox squirrel
+sample_out: The answer is (B) A pine tree.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Squirrels are a kind of animal.  A pine tree is a kind of plant.  A cell wall is a part of a plant cell. 
+expl_opt: A pine tree is a kind of plant. A cell wall is a part of a plant cell.  
+prediction_x: Squirrels are a kind of animal.  A pine tree is a kind of plant.  A cell wall is a part of a plant cell.
+vinfo: 744.1047973632812
+-----------40-----------
+sample_in: This is a science exam question and answer.<|exp|>Which structure surrounds and protects an animal cell? (A) Nucleus (B) Vacuole (C) Cytoplasm (D) Cell membrane
+sample_out: The answer is (D) Cell membrane.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>The fact is that a cell membrane is around the cell of all living things .  Being around something means surrounding it. 
+expl_opt: A cell membrane is around the cell of all living things.  Being around something means surrounding it. 
+prediction_x: Cell membranes are a kind of barrier.  A cell is a kind of barrier.  A cell is a kind of barrier.  A cell is a kind of barrier. <|bos|> Cell membranes are a kind of barrier.  A cell is a kind of barrier.  A cell is a kind of barrier.
+vinfo: 730.81787109375
+-----------41-----------
+sample_in: This is a science exam question and answer.<|exp|>Which tools are best used to determine the speed of a turtle as it walks along a path? (A) Meter stick and graduated cylinder (B) Stopwatch and meter stick (C) Balance and metric ruler (D) Balance and stopwatch
+sample_out: The answer is (B) Stopwatch and meter stick.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>speed is a measure of how fast an object is moving. the speed is the distance that an object moves in a given amount of time. the speed is measured in km/h or m/s or mph. a meter stick or meter stick is a tool used to measure distance. a stopwatch or stopwatch is a tool used to measure time. in fact, walking is a kind of moving meditation.
+expl_opt: Speed is a measure of how fast an object is moving.  Speed is the distance that an object moves in a given amount of time.  Speed is measured in km/h or m/s or mph.  A meter stick is a tool used to measure distance.  A stopwatch is a tool used to measure time.  Walking is a kind of moving. 
+prediction_x: Speed is a measure of how fast an object is moving.  The speed is measured in km/h or m/s or mph.  A meter stick or meter stick is a tool used to measure distance.  A stopwatch or stopwatch is a tool used to measure time.  Walking is a kind of moving meditation.
+vinfo: 983.2862548828125
+-----------42-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these BEST describes the way a feather feels? (A) Colorful (B) Soft (C) Low (D) Bright
+sample_out: The answer is (B) Soft.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Vaned feathers have a stiff center with soft barbs on the side.  Down is a small feather found on young birds.  Down is very soft.   Soft is a kind of touch sensation.Therefore, there is a need in the art for an improved method and apparatus for detecting the presence of a fluid in a container.
+expl_opt: Vaned feathers have a stiff center with soft barbs on the side.  Down is a small feather found on young birds.  Down is very soft.   Soft is a kind of touch sensation. 
+prediction_x: Vaned feathers have a stiff center with soft barbs on the side.  Down is a small feather found on young birds.  Down is very soft.   Soft is a kind of touch sensation.Therefore, there is a need in the art for an improved method and apparatus for detecting the presence of a fluid in a container.
+vinfo: 651.0950927734375
+-----------43-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a nonliving part of a forest? (A) Tree (B) Soil (C) Worm (D) Mushroom
+sample_out: The answer is (B) Soil.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A tree is a living thing.A worm is not a living thing. A worm is a living thing.  A mushroom is a living thing.  
+expl_opt: A tree is a living thing.  A worm is a living thing.  A mushroom is a living thing.  
+prediction_x: A worm is a living thing.  A worm is a living thing.
+vinfo: 677.67138671875
+-----------44-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these most likely has the GREATEST mass? (A) Chicken (B) Puppy (C) Lizard (D) Horse
+sample_out: The answer is (D) Horse.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>an object's weight varies with that object's mass. weight is measured in grams, kilograms, or pounds. heating an object does not change it's mass unless part of the object boils away. hours is a unit used for measuring time. mass is measured in grams, kilograms, or pounds. an average chicken weighs 2 kilograms. a puppy is a kind of dog. when an animal sheds, it's hair or fur becomes less dense. in the stomach, food is broken down by digestive enzymes. an average dog may weigh 32kg. an average lizard weighs 0 5kg. an average horse weighs between 400kg and 550kg. if an object makes something, it is a source of that something. harming something has a negative impact. something being the greatest means it has the highest value. an object's weight varies with that object's mass. weight is measured in grams, kilograms, or pounds. mass is measured in grams, an average chicken weighs 2 kilograms. a puppy is a kind of dog. an average dog may weigh 32kg.
+expl_opt: An object's weight varies with that object's mass.  Weight is measured in grams, kilograms, or pounds.  Mass is measured in grams, kilograms, or pounds.  An average chicken weighs 2 kilograms.  A puppy is a kind of dog.  An average dog may weigh 32kg.  An average lizard weighs 0.5kg.  An average horse weighs between 400kg and 550kg.  Something being the greatest means it has the highest value. 
+prediction_x: An average chicken weighs 2 kilograms.  An average horse weighs between 400kg and 550kg.  If an object makes something, it is a source of that something. Harming something has a negative impact.  Something being the greatest means it has the highest value.  An object's weight varies with that object's mass.  An object's weight may be 0.  An average chicken weighs 2 kilograms.  An average horse weighs between 400kg and 550kg.  If an object makes something, it is a source of that something.  Harming something has a negative impact.  Something being the greatest means it has the highest value.  An object's weight may be 0.  An average chicken weighs 2 kilograms.  An average horse weighs between 400kg and 550kg.  If an object makes something, it is a source of that something.  Harming something has a negative impact.  Something being the greatest means it has the highest value.  An object's weight may be 0.  An average chicken weighs 2 kilograms.  An average horse weighs between 400kg and 550kg.  If an object makes something, it is a source of that something.  Harming something has a negative impact.  Something being the greatest means it has the highest value.  An object's weight may be 0.  An average chicken weighs 2 kilograms.  An average horse weighs between 400kg and 550kg.  If an object makes something, it is
+vinfo: 651.0902099609375
+-----------45-----------
+sample_in: This is a science exam question and answer.<|exp|>When ice cream is left out of a freezer, the ice cream changes from a ___. (A) solid to a gas (B) gas to a liquid (C) solid to a liquid (D) liquid to a gas
+sample_out: The answer is (C) solid to a liquid.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>changing from a solid to a liquid is called melting. melting happens when solids are heated. heating means adding heat. a freezer makes things cold. it's common knowledge that a freezer takes away heat from frozen objects. taking something out of a freezer causes it to increase temperature. increasing temperature meand adding heat. ice cream is a kind of solid.
+expl_opt: Changing from a solid to a liquid is called melting.  Melting happens when solids are heated.  Heating means adding heat.  A freezer makes things cold.  A freezer takes away heat from objects.  Taking something out of a freezer causes it to increase temperature.  Increasing temperature meand adding heat.   Ice cream is a kind of solid. 
+prediction_x: Changing from a solid to a liquid is called melting.  Melting happens when solids are heated.  Adding heat.  A freezer makes things cold.  Taking something out of a freezer causes it to increase temperature.  Increasing temperature means adding heat.  Ice cream is a kind of solid.
+vinfo: 930.1362915039062
+-----------46-----------
+sample_in: This is a science exam question and answer.<|exp|>Which item is designed to change electrical energy into heat energy? (A) Alarm clock (B) Hand dryer (C) Fan (D) Telephone
+sample_out: The answer is (B) Hand dryer.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A hand dryer is an electrical appliance.  A hand dryer produces heat.  An electrical appliance uses electrical energy.  NEGATIVE: Insulators are not conductors.  Heat is a kind of energy.  An electrical appliance can convert electrical energy into different kinds of energy. 
+expl_opt: A hand dryer is an electrical appliance.  A hand dryer produces heat.  An electrical appliance uses electrical energy.  Heat is a kind of energy.  An electrical appliance can convert electrical energy into different kinds of energy. 
+prediction_x: A hand dryer is an electrical appliance.  A hand dryer produces heat.  An electrical appliance uses electrical energy.  NEGATIVE: Insulators are not conductors.  Heat is a kind of energy.  An electrical appliance can convert electrical energy into different kinds of energy.
+vinfo: 730.8203125
+-----------47-----------
+sample_in: This is a science exam question and answer.<|exp|>What tool is used to determine the mass of an object? (A) Balance (B) Meter stick (C) Thermometer (D) Graduated cylinder
+sample_out: The answer is (A) Balance.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a balance is an instrument used to determine the energy of an object. an instrument is similar to a tool.
+expl_opt: A balance is an instrument used to determine the mass of an object.  An instrument is similar to a tool.
+prediction_x: A balance is an instrument used to determine the energy of an object.  An instrument is similar to a tool.
+vinfo: 717.515869140625
+-----------48-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is most likely harmful to an ecosystem? (A) Building new homes in a wetland (B) Taking away airplanes from an airport (C) Planting trees in an orchard (D) Adding floors to an office building
+sample_out: The answer is (A) Building new homes in a wetland.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>humans changing ecosystems usually causes harm to the living organisms in an ecosystem. a wetland is a kind of habitat. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. harming something is having a negative impact. a forest is a kind of ecosystem. humans changing ecosystems usually causes harm to the living organisms in an ecosystem. leaving something alone means not changing it. building something is a kind of change. a wetland is a kind of ecosystem. a wetland is a kind of habitat. an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. humans changing ecosystems usually causes harm to the living organisms in an ecosystem. harming something is having a negative impact.
+expl_opt: A wetland is a kind of ecosystem.  A wetland is a kind of habitat.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Harming something is having a negative impact.  Leaving something alone means not changing it.  Building something is a kind of change. 
+prediction_x: Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of habitat.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Harming something is having a negative impact.  A forest is a kind of ecosystem.  A wetland is a kind of ecosystem.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat.  A wetland is a kind of habitat
+vinfo: 1009.85888671875
+-----------49-----------
+sample_in: This is a science exam question and answer.<|exp|>Pumice is formed when lava from a volcano cools. Which rock type is pumice? (A) Gaseous rock (B) Igneous rock (C) Sedimentary rock (D) Metamorphic rock
+sample_out: The answer is (B) Igneous rock.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>pumice is a kind of igneous rock. a sea turtle is a kind of animal. water is a kind of liquid. igneous rocks are formed from magma. weathering is a process that breaks down rocks and other surface materials into smaller pieces. lava is magma that flows onto the earth's surface.
+expl_opt: Pumice is a kind of Igneous rock.  Igneous rocks are formed from magma.  Lava is magma that flows onto the Earth's surface. 
+prediction_x: Pumice is a kind of igneous rock.  A sea turtle is a kind of animal.  A sea turtle is a kind of liquid.
+vinfo: 956.709228515625
+-----------50-----------
+sample_in: This is a science exam question and answer.<|exp|>What tool is used to determine the mass of an object? (A) Balance (B) Meter stick (C) Thermometer (D) Graduated cylinder
+sample_out: The answer is (A) Balance.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a balance is an instrument used to determine the mass of an object. strong means a lot of something.
+expl_opt: A balance is an instrument used to determine the mass of an object.  An instrument is similar to a tool.
+prediction_x: A balance is an instrument used to determine the mass of an object.  A balance is an instrument used to determine the mass of an object.
+vinfo: 717.4921875
+-----------51-----------
+sample_in: This is a science exam question and answer.<|exp|>Mold is often found growing on old bread. In a food chain, mold is a (A) decomposer (B) producer (C) consumer (D) scavenger
+sample_out: The answer is (A) decomposer.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Decomposers are living things. Decomposers are a group of microorganisms that include bacteria and fungi. Mold is a kind of spore-forming fungus. The use of a decomposer is a part of the food chain process.
+expl_opt: Decomposers are living things.  Decomposers are bacteria and fungi.  Mold is a kind of fungus.  A decomposer is a part of the food chain process. 
+prediction_x: Mold is a kind of spore-forming fungus.  Decomposers are a group of microorganisms that include bacteria and fungi.  Mold is a kind of spore-forming fungus.  The use of a decomposer is a part of the food chain process.
+vinfo: 797.2579345703125
+-----------52-----------
+sample_in: This is a science exam question and answer.<|exp|>Which tools are best used to determine the speed of a turtle as it walks along a path? (A) Meter stick and graduated cylinder (B) Stopwatch and meter stick (C) Balance and metric ruler (D) Balance and stopwatch
+sample_out: The answer is (B) Stopwatch and meter stick.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>speed is a measure of how fast an object is moving. motion is when an object moves in a direction. time is measured using a watch, clock, or stopwatch. speed is the distance that an object moves in a given amount of time. a roller skate is a vehicle that moves on wheels. hours is a unit used for measuring time. speed is measured in km/h or m/s or mph. a meter stick is a tool used to measure distance. orbit is the time it takes for a planet to revolve around a star. a stopwatch is a tool used to measure time. walking is a kind of moving.
+expl_opt: Speed is a measure of how fast an object is moving.  Speed is the distance that an object moves in a given amount of time.  Speed is measured in km/h or m/s or mph.  A meter stick is a tool used to measure distance.  A stopwatch is a tool used to measure time.  Walking is a kind of moving. 
+prediction_x: Speed is a measure of how fast an object is moving.  Motion is when an object moves in a direction.  Time is measured using a watch, clock, or stopwatch.  A meter stick is a tool used to measure distance.  A roller skate is a vehicle that moves on wheels.  A time is measured in hours.  A meter stick is a tool used to measure distance.  A stopwatch is a tool used to measure time.  Walking is a kind of moving.  Orbit is the time it takes for a planet to revolve around a star.  A stopwatch is a tool used to measure time.  A meter stick is a tool used to measure distance.  A stopwatch is a tool used to measure time.  A stopwatch is a tool used to measure time.
+vinfo: 983.2816162109375
+-----------53-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these activities is most likely to have a positive impact on the environment of Earth? (A) Expanding neighborhoods (B) Building factories (C) Constructing highways (D) Creating nature preserves
+sample_out: The answer is (D) Creating nature preserves.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a nature preserve is a protected area where plants and animals are left undisturbed by humans. a nature preserve is a kind of habitat. habitats support animals. habitats oppose plants. humans changing a living thing's habitat usually causes that living thing harm. harming something has a negative impact. the opposite of a negative impact is a positive impact. protecting something means preventing harm. leaving something undisturbed means not changing it. the environment includes forests, rivers, grasslands, and oceans. forests contain plants.
+expl_opt: A nature preserve is a protected area where plants and animals are left undisturbed by humans.  A nature preserve is a kind of habitat.  Habitats support animals. Habitats support plants. Humans changing a living thing's habitat usually causes that living thing harm.  Harming something has a negative impact.  The opposite of a negative impact is a positive impact. Protecting something means preventing harm. Leaving something undisturbed means not changing it.  The environment includes forests, rivers, grasslands, and oceans.  Forests contain plants. 
+prediction_x: A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.  A nature preserve is a kind of habitat.
+vinfo: 845.17578125
+-----------54-----------
+sample_in: This is a science exam question and answer.<|exp|>When it rains, some animals will (A) hibernate for the season (B) migrate to warmer climates (C) change their body covering (D) move to seek shelter
+sample_out: The answer is (D) move to seek shelter.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Shelter is a place that can protect someone from the elements such as wind, rain and sun. Animals need shelter. Animals need to move to find shelter. In the end, seeking something means trying to find it.
+expl_opt: Shelter is a place that can protect someone from the rain and sun.  Animals need shelter.  Animals need to move to find shelter.  Seeking something means trying to find it.
+prediction_x: Shelter is a place that can protect someone from the elements such as wind, rain and sun.  Animals need shelter.  In the end, seeking something means trying to find it.
+vinfo: 810.5438232421875
+-----------55-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is the most responsible for the changes of the seasons on Earth? (A) Position of the Moon (B) Tilt of Earth on its axis (C) Temperature of the Sun (D) Distance to Mars
+sample_out: The answer is (B) Tilt of Earth on its axis.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>in the northern hemisphere, seasons are caused by the tilt of the earth's axis.
+expl_opt: Seasons are caused by the tilt of the Earth's axis. 
+prediction_x: In the northern hemisphere, seasons are caused by the tilt of the earth's axis.  In the northern hemisphere, seasons are caused by the tilt of the earth's axis.
+vinfo: 969.992919921875
+-----------56-----------
+sample_in: This is a science exam question and answer.<|exp|>Which part of a plant cell is responsible for controlling the activities of the other parts of the cell? (A) Vacuole (B) Nucleus (C) Cell wall (D) Chloroplast
+sample_out: The answer is (B) Nucleus.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A cell nucleus is a part of a cell.  A vibration is a kind of motion similar to a wave.  The cell nucleus controls many of the functions of the cell.  When you have a function to do, you have an activity. 
+expl_opt: A cell nucleus is a part of a cell.  The cell nucleus controls many of the functions of the cell.  When you have a function to do, you have an activity. 
+prediction_x: A cell nucleus is a part of a cell.  A vibration is a kind of motion similar to a wave.  The cell nucleus controls many of the functions of the cell.  When you have a function to do, you have an activity.
+vinfo: 890.2708740234375
+-----------57-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these can be mined from Earth and used as an energy source? (A) Coal (B) Gravel (C) Granite (D) Limestone
+sample_out: The answer is (A) Coal.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>coal, or bituminous coal is a kind of fuel that comes from under the ground. the ground is part of the earth 's crust.  earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth earth mining is when rocks and minerals are taken from the ground to be used for various purposes. coal is a kind of fuel made from coal, a form of rock. a fuel is a kind of energy source. it is a fuel that is used to make energy. if an object makes something, it is a source of that something ,
+expl_opt: Coal is a kind of fuel that comes from under the ground.  The ground is part of the Earth.  Mining is when rocks and minerals are taken from the ground.  Coal is a kind of rock.  A fuel is a kind of energy source.  A fuel is used to make energy.  If an object makes something, it is a source of that something. 
+prediction_x: coal is a kind of fuel made from coal, a form of rock.  Earth Earth Earth Earth Earth Earth Earth Earth Earth Earth Earth Earth Earth mining is when rocks and minerals are taken from the ground to be used for various purposes.  Coal is a kind of fuel made from coal, a form of rock.  A fuel is a kind of energy source.  If an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  if an object makes something, it is a source of that something,  i
+vinfo: 730.8178100585938
+-----------58-----------
+sample_in: This is a science exam question and answer.<|exp|>Both hurricanes and tornadoes always (A) cause flooding (B) are hundreds of miles wide (C) have high winds (D) produce light snow
+sample_out: The answer is (C) have high winds.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  High means a lot of something.  Strong means a lot of something.  Requiring something means needing something. 
+expl_opt: A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  High means a lot of something.  Strong means a lot of something.
+prediction_x: A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  High means a lot of something.  Requiring something means needing something.
+vinfo: 717.52490234375
+-----------59-----------
+sample_in: This is a science exam question and answer.<|exp|>Earth makes a complete revolution around the Sun about once every (A) day (B) year (C) season (D) minute
+sample_out: The answer is (B) year.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A year is the time it takes the Earth to orbit the sun once.  A moon is a satellite.  Orbiting something means revolving around something. 
+expl_opt: A year is the time it takes the Earth to orbit the sun once.  Orbiting something means revolving around something. 
+prediction_x: A year is the time it takes the Earth to orbit the sun once.  A moon is a satellite.  Orbit is a kind of motion.  A year is the time it takes the Earth to complete one orbit around the Sun.  A year is the time it takes the Earth to complete one orbit around the Sun.  A year is the time it takes the Earth to complete one orbit around the Sun.  A year is the time it takes the Earth to complete one orbit around the Sun.  A year is the time it takes the Earth to complete one orbit around the Sun. <|bos|> A year is the time it takes the Earth to orbit the Sun once.  A moon is a satellite.  Orbit is a kind of motion.  A year is the time it takes the Earth to complete one orbit around the Sun.  A year is the time it takes the Earth to complete one orbit around the Sun.  A year is the time it takes the Earth to complete one orbit around the Sun.
+vinfo: 637.7816162109375
+-----------60-----------
+sample_in: This is a science exam question and answer.<|exp|>Where will a sidewalk feel hottest on a warm, clear day? (A) Under a picnic table (B) In direct sunlight (C) Under a puddle (D) In the shade
+sample_out: The answer is (B) In direct sunlight.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Sunlight is light from the sun.  Sunlight is the radiation and heat from the sun.  Absorbing sunlight causes objects to heat.  When objects are in shade, some object blocks direct sunlight, so the sunlight can not reach the spot.  A flashlight is a kind of tool that emits light.  When light can not reach an object, it can not be absorbed by that object.  When an object is in direct light, it is not shaded. 
+expl_opt: Sunlight is light from the sun.  Sunlight is the radiation and heat from the sun.  Absorbing sunlight causes objects to heat.   When objects are in shade, some object blocks direct sunlight, so the sunlight can not reach the spot.  When light can not reach an object, it can not be absorbed by that object.  When an object is in direct light, it is not shaded.
+prediction_x: Sunlight is light from the sun.  Sunlight is the radiation and heat from the sun.  Absorbing sunlight causes objects to heat.  When objects are in shade, some object blocks direct sunlight, so the sunlight can not reach the spot.  A flashlight is a kind of tool that emits light.  When light can not reach an object, it can not be absorbed by that object.  When an object is in direct light, it is not shaded.
+vinfo: 823.8311767578125
+-----------61-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is the main function of a cell wall? (A) To make food (B) To store water (C) To provide support (D) To make the plant green
+sample_out: The answer is (C) To provide support.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>in general, a cell wall is a part of a plant cell. the purpose of a cell wall is to make the cell strong, and keep it's shape. the cell wall gives support and protection to the cell membrane.
+expl_opt: A cell wall is a part of a plant cell.  The purpose of a cell wall is to make the cell strong, and keep it's shape.  The cell wall gives support and protection to the cell membrane. 
+prediction_x: A cell wall is a part of a plant cell.  A cell wall is a part of a plant cell.  A cell wall is a part of a plant cell.
+vinfo: 810.5411987304688
+-----------62-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these most likely has the GREATEST mass? (A) Chicken (B) Puppy (C) Lizard (D) Horse
+sample_out: The answer is (D) Horse.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>plants require soil to survive. the amount of nutrients in soil are one factor that determines soil quality. an average chicken weighs 2 kilograms. crops are a kind of plant. an average dog may weigh 32kg. an average lizard weighs 0 5kg. soil contains nutrients that plants absorb through their roots. the amount of nutrients in soil are one factor that determines soil quality. something being the greatest means it has the highest value. an object's weight varies with that object's mass. an average horse weighs between 400kg and 550kg. a puppy is a kind of dog. weight is measured in grams, mass is measured in grams, kilograms, or pounds. an average chicken weighs 2 kilograms. an average dog may weigh 32kg. an average lizard weighs 0. 5kg.
+expl_opt: An object's weight varies with that object's mass.  Weight is measured in grams, kilograms, or pounds.  Mass is measured in grams, kilograms, or pounds.  An average chicken weighs 2 kilograms.  A puppy is a kind of dog.  An average dog may weigh 32kg.  An average lizard weighs 0.5kg.  An average horse weighs between 400kg and 550kg.  Something being the greatest means it has the highest value. 
+prediction_x: An average chicken weighs 2 kilograms.  An average dog may weigh 32kg.  An average lizard weighs 0.  An average chicken weighs 2.  An average dog may weigh 32kg.  An average chicken weighs 2.  An average dog may weigh 32kg.  An average chicken weighs 2.
+vinfo: 651.084716796875
+-----------63-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these most likely has the GREATEST mass? (A) Chicken (B) Puppy (C) Lizard (D) Horse
+sample_out: The answer is (D) Horse.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>an object's weight varies with that object's mass. weight is measured in grams, kilograms, or pounds. mass is measured in grams, kilograms, or pounds. an average chicken weighs 2 kilograms. a puppy is a kind of dog. an average dog may weigh 32kg. an average lizard weighs 0 5kg. an animal requiring less energy means they require less food. a ladybug is a kind of insect. an average horse weighs between 400kg and 550kg. animals eat food to get the energy they need to survive. a skeletal system is a part of an animal. requiring something means needing something. a piece is a smaller part of a whole something. something being the greatest means it has the highest value. an object's weight varies with that object's mass. weight is measured in grams, kilograms, or pounds. mass is measured in grams, an average chicken weighs 2 kilograms. a puppy is a kind of dog. an average dog may weigh 32kg. an average lizard weighs 0. 5kg. an average horse weighs between 400kg and 550kg.
+expl_opt: An object's weight varies with that object's mass.  Weight is measured in grams, kilograms, or pounds.  Mass is measured in grams, kilograms, or pounds.  An average chicken weighs 2 kilograms.  A puppy is a kind of dog.  An average dog may weigh 32kg.  An average lizard weighs 0.5kg.  An average horse weighs between 400kg and 550kg.  Something being the greatest means it has the highest value. 
+prediction_x: An average chicken weighs 2 kilograms.  A puppy is a kind of dog.  An average dog may weigh 32kg.  An average lizard weighs 0. 5kg.  An average horse weighs between 400kg and 550kg.   Something being the greatest means it has the highest value.  An object's weight varies with that object's mass.   An object's mass is measured in grams, kilograms, or pounds.
+vinfo: 651.0900268554688
+-----------64-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a way the people of Virginia can help restore a natural ecosystem? (A) Burn their trash (B) Plant native plants (C) Feed leftover meals to deer (D) Drain automobile oil into the grass
+sample_out: The answer is (B) Plant native plants.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>an ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area. living in a habitat means being a part of that habitat. polluting is to cause harm to an environment by adding something harmful or poisonous to living things. a natural ecosystem is an ecosystem that contains native living things. a native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, not human change. green plants provide food for themselves and animals. planting something increases the amount of something. increasing the amount of something native helps restore the thing it is a part of.
+expl_opt: An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  A natural ecosystem is an ecosystem that contains native living things.  A native plant (also called an indigenous plant) is when a plant lives somewhere because of nature, not human change.  Planting something increases the amount of something.  Increasing the amount of something native helps restore the thing it is a part of. 
+prediction_x: An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Living in a habitat means being a part of that habitat.  Polluting is to cause harm to an environment by adding something harmful or poisonous to living things.  A natural ecosystem is an ecosystem that contains native living things.  Polluting is to cause harm to an environment by adding something harmful or poisonous to living things.  Plants provide food for themselves and animals.  Planting something increases the amount of something.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Polluting is to cause harm to an environment by adding something harmful or poisonous to living things.  Plants provide food for themselves and animals.  Planting something increases the amount of something.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.
+vinfo: 916.8475341796875
+-----------65-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a function of a leaf? (A) Carrying nutrients throughout the plant (B) Converting solar energy into sugar (C) Creating shade for the plant (D) Absorbing water from the ground
+sample_out: The answer is (B) Converting solar energy into sugar.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A leaf is a part of a plant.  The main functions of a leaf are photosynthesis and gas exchange.  A flower contains pollen.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  Sunlight means solar energy. 
+expl_opt: A leaf is a part of a plant.  The main functions of a leaf are photosynthesis and gas exchange.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  Sunlight means solar energy. 
+prediction_x: A leaf is a part of a plant.  The main functions of a leaf are photosynthesis and gas exchange.  A flower contains pollen.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  Sunlight means solar energy.
+vinfo: 956.6648559570312
+-----------66-----------
+sample_in: This is a science exam question and answer.<|exp|>Mold is often found growing on old bread. In a food chain, mold is a (A) decomposer (B) producer (C) consumer (D) scavenger
+sample_out: The answer is (A) decomposer.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Decomposers are living things.The primary decomposers are bacteria and fungi.  Mold is a kind of fungus.  A decomposer is a part of the food chain process. 
+expl_opt: Decomposers are living things.  Decomposers are bacteria and fungi.  Mold is a kind of fungus.  A decomposer is a part of the food chain process. 
+prediction_x: Mold is a kind of fungus.  A decomposer is a part of the food chain process.
+vinfo: 797.2433471679688
+-----------67-----------
+sample_in: This is a science exam question and answer.<|exp|>How are a tree and grass alike? (A) Both make wood. (B) Both have roots. (C) Both need moonlight. (D) Both have short lives.
+sample_out: The answer is (B) Both have roots..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>plants have roots. so, we can say that a tree is a kind of plant. gardener's grass is a kind of plant. the wood is used for making furniture and other products. trees contain wood. grass does not contain any insecticides, pesticides, herbicides, fungicides, or wood. but experts say it is still possible for them to grow back.  a tree can live for hundreds of years however, living for hundreds of years is considered a long life to a human. grass hoppers, unlike many other insects, are long-lived, and can live up to 35 years.
+expl_opt: Plants have roots. A tree is a kind of plant.  Grass is a kind of plant.  Trees contain wood.  Grass does not contain wood.  A tree can live for hundreds of years.  Living for hundreds of years is considered a long life to a human.  Grass can live up to 35 years.   
+prediction_x: Plants have roots.  So, we can say that a tree is a kind of plant.  Gardener's grass is a kind of plant.  The wood is used for making furniture and other products.  Trees contain wood.  Grass does not contain any insecticides, pesticides, herbicides, fungicides, or wood.  But experts say it is still possible for them to grow back.  A tree can live for hundreds of years however, living for hundreds of years is considered a long life to a human.
+vinfo: 810.5469360351562
+-----------68-----------
+sample_in: This is a science exam question and answer.<|exp|>Tony is studying ladybugs in a garden. Which of these would BEST help Tony to count the spots on a ladybug? (A) Stopwatch (B) Thermometer (C) Measuring cup (D) Magnifying glass
+sample_out: The answer is (D) Magnifying glass.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A magnifying glass is a tool that can be used to make things appear bigger, so that they can be seen better.  A ladybug is a kind of insect.a ladybug is small  A ladybug has spots.  Counting something visually requires that you can see it well.  Seeing small things is easier with a magnifying glass.  Seeing small things is easier if they can be made to appear bigger.
+expl_opt: A magnifying glass is a tool that can be used to make things appear bigger, so that they can be seen better.  A ladybug is a kind of insect.  A ladybug is small.  A ladybug has spots.  Counting something visually requires that you can see it well.  Seeing small things is easier with a magnifying glass.  Seeing small things is easier if they can be made to appear bigger.
+prediction_x: A magnifying glass is a tool that can be used to make things appear bigger, so that they can be seen better.  A ladybug is a kind of insect.  A ladybug has spots.  Counting something visually requires that you can see it well.  Seeing small things is easier with a magnifying glass.  Seeing small things is easier if they can be made to appear bigger.
+vinfo: 943.3750610351562
+-----------69-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities in a forest has a positive effect on the ecosystem? (A) Clearing the land to build new homes (B) Planting new trees where old ones were cut down (C) Building a new highway through the area (D) Cutting down trees to make farmland
+sample_out: The answer is (B) Planting new trees where old ones were cut down.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Storms and rain cause bodies of water to increase the amount of water they contain.  Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect. 
+expl_opt: A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem. Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect. 
+prediction_x: A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Storms and rain cause bodies of water to increase the amount of water they contain.  Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect.
+vinfo: 1182.4305419921875
+-----------70-----------
+sample_in: This is a science exam question and answer.<|exp|>Both hurricanes and tornadoes always (A) cause flooding (B) are hundreds of miles wide (C) have high winds (D) produce light snow
+sample_out: The answer is (C) have high winds.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  Cold means low in temperature.  High means a lot of something.  Strong means a lot of something. 
+expl_opt: A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  High means a lot of something.  Strong means a lot of something.
+prediction_x: A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  Cold means low in temperature.  High means a lot of something.  Strong means a lot of something.
+vinfo: 717.52685546875
+-----------71-----------
+sample_in: This is a science exam question and answer.<|exp|>How are a tree and grass alike? (A) Both make wood. (B) Both have roots. (C) Both need moonlight. (D) Both have short lives.
+sample_out: The answer is (B) Both have roots..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>but not all living things that have roots are plants. plants have roots. a tree is a kind of plant that has a trunk, branches, and flowers. grass is a kind of plant. trees contain wood. the grass can be used in the garden as long as the grass does not contain wood. the best part is that as long as it doesn't get too wet, a storm, the tree can live for hundreds of years. living for thousands of years or even hundreds of years is considered a long life to a human. grass can live up to 35 years.
+expl_opt: Plants have roots. A tree is a kind of plant.  Grass is a kind of plant.  Trees contain wood.  Grass does not contain wood.  A tree can live for hundreds of years.  Living for hundreds of years is considered a long life to a human.  Grass can live up to 35 years.   
+prediction_x: A tree is a kind of plant.  Grass is a kind of plant.  Trees contain wood.  The grass can be used in the garden as long as the grass does not contain wood.  The best part is that as long as it doesn't get too wet, a storm, the tree can live for hundreds of years.  Living for thousands of years or even hundreds of years is considered a long life to a human.
+vinfo: 810.5455322265625
+-----------72-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities in a forest has a positive effect on the ecosystem? (A) Clearing the land to build new homes (B) Planting new trees where old ones were cut down (C) Building a new highway through the area (D) Cutting down trees to make farmland
+sample_out: The answer is (B) Planting new trees where old ones were cut down.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Soil erosion is the loss of soil from water or wind.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect. 
+expl_opt: A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem. Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect. 
+prediction_x: A forest is a kind of ecosystem.  An ecosystem is a large community of living organisms, including plants, animals, and microbes, at a particular place or area.  Soil erosion is the loss of soil from water or wind.  Humans changing ecosystems usually causes harm to the living organisms in an ecosystem.  Cutting down trees causes harm to the living organisms in an ecosystem.  Planting trees is the opposite of cutting down trees.  Planting trees helps an ecosystem.  Helping means have a positive effect.
+vinfo: 1182.5830078125
+-----------73-----------
+sample_in: This is a science exam question and answer.<|exp|>Mold is often found growing on old bread. In a food chain, mold is a (A) decomposer (B) producer (C) consumer (D) scavenger
+sample_out: The answer is (A) decomposer.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>decomposers are living things. mold is a kind of fungus. decomposers are living things. a decomposer is a part of the food chain process. decomposers are bacteria and fungi. decomposers are living things. mold is a kind of fungus.
+expl_opt: Decomposers are living things.  Decomposers are bacteria and fungi.  Mold is a kind of fungus.  A decomposer is a part of the food chain process. 
+prediction_x: Mold is a kind of fungus.  Decomposers are living things.  A decomposer is a part of the food chain process.  A decomposer is a part of the food chain process.
+vinfo: 797.2579956054688
+-----------74-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these organisms has cells with cell walls? (A) bluebird (B) A pine tree (C) A ladybug (D) A fox squirrel
+sample_out: The answer is (B) A pine tree.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A pine tree is a kind of plant.  A pond is a kind of habitat.  A cell wall is a part of a plant cell. 
+expl_opt: A pine tree is a kind of plant. A cell wall is a part of a plant cell.  
+prediction_x: A pine tree is a kind of plant.  A pond is a kind of habitat.  A cell wall is a part of a plant cell.
+vinfo: 744.1035766601562
+-----------75-----------
+sample_in: This is a science exam question and answer.<|exp|>Where will a sidewalk feel hottest on a warm, clear day? (A) Under a picnic table (B) In direct sunlight (C) Under a puddle (D) In the shade
+sample_out: The answer is (B) In direct sunlight.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Sunlight is light from the sun.  Sunlight is the radiation and heat from the sun.  Absorbing sunlight causes objects to heat.   When objects are in shade, some object blocks direct sunlight, so the sunlight can not reach the spot.  When light can not reach an object, it can not be absorbed by that object.  When an object is in direct light, it is not shaded."The good news is that there's a lot of work to be done to make sure we're doing everything we can to make sure that we're able to provide a safe and healthy environment for all of our employees," she said.
+expl_opt: Sunlight is light from the sun.  Sunlight is the radiation and heat from the sun.  Absorbing sunlight causes objects to heat.   When objects are in shade, some object blocks direct sunlight, so the sunlight can not reach the spot.  When light can not reach an object, it can not be absorbed by that object.  When an object is in direct light, it is not shaded.
+prediction_x: The good news is that there's a lot of work to be done to make sure we're doing everything we can to make sure that we're able to provide a safe and healthy environment for all of our employees.
+vinfo: 823.8251342773438
+-----------76-----------
+sample_in: This is a science exam question and answer.<|exp|>Which causes the GREATEST change in a grassy field over time? (A) The time of day (B) Amount of yearly rainfall (C) Number of birds nesting (D) Seasonal migration of animals
+sample_out: The answer is (B) Amount of yearly rainfall.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>grass is a kind of plant. rainfall is the amount of rain an area receives. rainfall is the amount of rain an area receives. rain is a form of water. plants require water to grow. rainfall is the amount of rain an area receives. generally, the more rain a plant receives, the more it will grow, up until a threshold. rainfall is the amount of rain an area receives. rainfall is the amount of rain an area receives. to little water and a plant will not grow. too much water and a plant will not grow. a field is a kind of area. growth is a kind of change. grass is a kind of plant. rainfall is the amount of rain an area receives. rain is a form of water. plants require water to grow. generally, the more rain a plant receives, the more it will grow, up until a threshold.
+expl_opt: Grass is a kind of plant.  Rainfall is the amount of rain an area receives.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.  Growth is a kind of change.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  To little water and a plant will not grow.  Too much water and a plant will not grow.
+prediction_x: Grass is a kind of plant.  Rain is a form of water.  Plants require water to grow.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  A field is a kind of area.  Growth is a kind of change.  Grass is a kind of plant.  Rain is a form of water.  Plants require water to grow.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  A field is a kind of area.
+vinfo: 890.2674560546875
+-----------77-----------
+sample_in: This is a science exam question and answer.<|exp|>Max is doing an experiment on tomato plants. His hypothesis is, "A tomato plant will not grow in a shady area."� On which of these relationships did Max base his hypothesis? (A) Warm temperature causes plant growth. (B) Sunlight causes plant growth. (C) Tall plants cause shade. (D) New plants need fresh water.
+sample_out: The answer is (B) Sunlight causes plant growth..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Green plants provide food for themselves and animals.  Plants require sunlight to grow.  Shade is the absence of sunlight.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object. 
+expl_opt: Plants require sunlight to grow.  Shade is the absence of sunlight.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object. 
+prediction_x: Green plants provide food for themselves and animals.  Plants require sunlight to grow.  Shade is the absence of sunlight.  When light can not reach an object, it can not be absorbed by that object.
+vinfo: 1288.8851318359375
+-----------78-----------
+sample_in: This is a science exam question and answer.<|exp|>Which tools are best used to determine the speed of a turtle as it walks along a path? (A) Meter stick and graduated cylinder (B) Stopwatch and meter stick (C) Balance and metric ruler (D) Balance and stopwatch
+sample_out: The answer is (B) Stopwatch and meter stick.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Speed is a measure of how fast an object is moving. The speed is the distance that an object moves in a given direction in a given amount of time. The speed is measured in kilometres per hour (km/h) or km/h or m/s or mph. A meter stick is a tool used to determine and measure distance. A stopwatch is a tool used to measure time. As you can see, walking is a kind of slow moving.
+expl_opt: Speed is a measure of how fast an object is moving.  Speed is the distance that an object moves in a given amount of time.  Speed is measured in km/h or m/s or mph.  A meter stick is a tool used to measure distance.  A stopwatch is a tool used to measure time.  Walking is a kind of moving. 
+prediction_x: Speed is a measure of how fast an object is moving.  The speed is the distance that an object moves in a given direction in a given amount of time.  The speed is measured in kilometres per hour (km/h) or km/h or m/s or mph.  A meter stick is a tool used to determine and measure distance.  A stopwatch is a tool used to measure time.  As you can see, walking is a kind of slow moving.
+vinfo: 983.28271484375
+-----------79-----------
+sample_in: This is a science exam question and answer.<|exp|>Max is doing an experiment on tomato plants. His hypothesis is, "A tomato plant will not grow in a shady area."� On which of these relationships did Max base his hypothesis? (A) Warm temperature causes plant growth. (B) Sunlight causes plant growth. (C) Tall plants cause shade. (D) New plants need fresh water.
+sample_out: The answer is (B) Sunlight causes plant growth..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Plants require sunlight to grow.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  Shade is the absence of sunlight.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object. 
+expl_opt: Plants require sunlight to grow.  Shade is the absence of sunlight.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object. 
+prediction_x: Plants require sunlight to grow.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  Shade occurs when an object blocks sunlight.  When light can not reach an object, it can not be absorbed by that object.
+vinfo: 1288.880859375
+-----------80-----------
+sample_in: This is a science exam question and answer.<|exp|>Which causes the GREATEST change in a grassy field over time? (A) The time of day (B) Amount of yearly rainfall (C) Number of birds nesting (D) Seasonal migration of animals
+sample_out: The answer is (B) Amount of yearly rainfall.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>grass is a kind of plant. rainfall is the amount of rain an area receives in a given period. average rainfall is the average amount of rain an area receives. a field is a kind of area. rain is a form of water. "i think growth is a kind of change." generally, the more rain a plant receives, the more it will grow, up until a threshold. to little water and a plant will not grow. too much water and a plant will not grow.
+expl_opt: Grass is a kind of plant.  Rainfall is the amount of rain an area receives.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.  Growth is a kind of change.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  To little water and a plant will not grow.  Too much water and a plant will not grow.
+prediction_x: Grass is a kind of plant.  Rain is a form of water.  A field is a kind of area.  A field is a kind of area.  A field is a kind of area.  A field is a kind of area.
+vinfo: 890.2713623046875
+-----------81-----------
+sample_in: This is a science exam question and answer.<|exp|>Both hurricanes and tornadoes always (A) cause flooding (B) are hundreds of miles wide (C) have high winds (D) produce light snow
+sample_out: The answer is (C) have high winds.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a hurricane is a kind of storm with high winds. a tornado is a strong wind storm with a funnel cloud that moves in a circle. high means a lot of something. strong means a lot of something.
+expl_opt: A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm that moves in a circle.  High means a lot of something.  Strong means a lot of something.
+prediction_x: A hurricane is a kind of storm with high winds.  A tornado is a strong wind storm with a funnel cloud that moves in a circle.  High means a lot of something.  Strong means a lot of something.
+vinfo: 717.511962890625
+-----------82-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of the following is the best observation of the refraction of light? (A) Looking at oneself in a mirror (B) Looking at a shadow of an object (C) Viewing an object through an open window (D) Viewing an object partially in water
+sample_out: The answer is (D) Viewing an object partially in water.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>refraction is the bending of light. refraction happens when light passes from one medium to another medium. water is a kind of medium for heat and a kind of medium for light. air is a kind of medium for light. when an object is partially in water, it is also partially in air. viewing is observing light.
+expl_opt: Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  Water is a kind of medium for light.  Air is a kind of medium for light.  When an object is partially in water, it is also partially in air.  Viewing is observing light. 
+prediction_x: refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  Water is a kind of medium for light.  When an object is partially in water, it is also partially in air.  Seeing is observing light.
+vinfo: 1089.55322265625
+-----------83-----------
+sample_in: This is a science exam question and answer.<|exp|>Which causes the GREATEST change in a grassy field over time? (A) The time of day (B) Amount of yearly rainfall (C) Number of birds nesting (D) Seasonal migration of animals
+sample_out: The answer is (B) Amount of yearly rainfall.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Grass is a kind of plant.  A rain forest is a kind of forest.  Rainfall is the amount of rain an area receives.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.  Growth is a kind of change.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  To little water and a plant will not grow.  Too much water and a plant will not grow. 
+expl_opt: Grass is a kind of plant.  Rainfall is the amount of rain an area receives.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.  Growth is a kind of change.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  To little water and a plant will not grow.  Too much water and a plant will not grow.
+prediction_x: Grass is a kind of plant.  A rain forest is a kind of forest.  Rainfall is the amount of rain an area receives.  A field is a kind of area.  Rain is a form of water.  Plants require water to grow.  Growth is a kind of change.  Generally, the more rain a plant receives, the more it will grow, up until a threshold.  To little water and a plant will not grow.  Too much water and a plant will not grow.
+vinfo: 890.270751953125
+-----------84-----------
+sample_in: This is a science exam question and answer.<|exp|>When ice cream is left out of a freezer, the ice cream changes from a ___. (A) solid to a gas (B) gas to a liquid (C) solid to a liquid (D) liquid to a gas
+sample_out: The answer is (C) solid to a liquid.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Changing from a solid to a liquid is called melting.  Melting happens when solids are heated.  Heating means adding heat.  A freezer makes things cold.  Changing from a liquid to a gas is called boiling.  A freezer takes away heat from objects.  Taking something out of a freezer causes it to increase temperature.  Increasing temperature meand adding heat.  Ice cream is a kind of solid. 
+expl_opt: Changing from a solid to a liquid is called melting.  Melting happens when solids are heated.  Heating means adding heat.  A freezer makes things cold.  A freezer takes away heat from objects.  Taking something out of a freezer causes it to increase temperature.  Increasing temperature meand adding heat.   Ice cream is a kind of solid. 
+prediction_x: Changing from a solid to a liquid is called melting.  Melting happens when solids are heated.  Heating means adding heat.  A freezer makes things cold.  Changing from a liquid to a gas is called boiling.  A freezer takes away heat from objects.  Taking something out of a freezer causes it to increase temperature.  Increasing temperature Meand adding heat.  Ice cream is a kind of solid.
+vinfo: 930.1345825195312
+-----------85-----------
+sample_in: This is a science exam question and answer.<|exp|>Which part of a bicycle BEST moves in a circle? (A) Seat (B) Frame (C) Foot pedal (D) Kickstand
+sample_out: The answer is (C) Foot pedal.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A bicycle contains a frame, two wheels, and two pedals.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward.
+expl_opt: A bicycle contains two pedals.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward.
+prediction_x: A bicycle contains a frame, two wheels, and two pedals.  A bicycle is a kind of object.  A bicycle is a kind of object.  A bicycle is a kind of object.
+vinfo: 677.6697387695312
+-----------86-----------
+sample_in: This is a science exam question and answer.<|exp|>Pumice is formed when lava from a volcano cools. Which rock type is pumice? (A) Gaseous rock (B) Igneous rock (C) Sedimentary rock (D) Metamorphic rock
+sample_out: The answer is (B) Igneous rock.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>pumice is a kind of igneous rock. igneous rocks are formed from magma. lava is magma that flows onto the earth's surface. the roots of a plant can slowly break down rocks as the roots grow.
+expl_opt: Pumice is a kind of Igneous rock.  Igneous rocks are formed from magma.  Lava is magma that flows onto the Earth's surface. 
+prediction_x: Pumice is a kind of igneous rock.
+vinfo: 956.7083740234375
+-----------87-----------
+sample_in: This is a science exam question and answer.<|exp|>Early scientists most likely saw a discharge of electricity for the first time when observing a (A) waterfall (B) rainbow (C) lightning storm (D) volcano erupting
+sample_out: The answer is (C) lightning storm.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Lightning is a kind of electricity.  Lightning is an electrical discharge.  An electric toothbrush is an electric device. 
+expl_opt: Lightning is a kind of electricity.  Lightning is an electrical discharge.
+prediction_x: Lightning is a kind of electrical discharge.  An electric toothbrush is an electric device.
+vinfo: 757.392578125
+-----------88-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these describes water in a solid state? (A) Vapor rising in the sky (B) Hail during a storm (C) Waves crashing on the seashore (D) Rain falling from the clouds
+sample_out: The answer is (B) Hail during a storm.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Hail is a kind of ice.  Shaking is a kind of motion.  Ice is a kind of solid. 
+expl_opt: Hail is a kind of ice.  Ice is a kind of solid. 
+prediction_x: Hail is a kind of ice.  Hail is a kind of solid.
+vinfo: 890.2694702148438
+-----------89-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities most relies on high-quality soil? (A) Hiking (B) Hunting (C) Coal mining (D) Growing crops
+sample_out: The answer is (D) Growing crops.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Plants require soil to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.Nitrogen is an essential nutrient for plants, and all plants require nutrients to grow. 
+expl_opt: Plants require soil to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow. 
+prediction_x: Plants require soil to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  NEGATIVE is an essential nutrient for plants, and all plants require nutrients to grow.
+vinfo: 717.5291137695312
+-----------90-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a function of a leaf? (A) Carrying nutrients throughout the plant (B) Converting solar energy into sugar (C) Creating shade for the plant (D) Absorbing water from the ground
+sample_out: The answer is (B) Converting solar energy into sugar.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>a leaf is a part of a plant. the two main functions of a leaf are photosynthesis and gas exchange. photosynthesis converts sunlight into sugars that a plant cell uses as food for the plant and a source of energy. sunlight means solar energy and solar energy means solar energy..
+expl_opt: A leaf is a part of a plant.  The main functions of a leaf are photosynthesis and gas exchange.  Photosynthesis converts sunlight into sugars that a plant cell uses as food and a source of energy.  Sunlight means solar energy. 
+prediction_x: A leaf is a part of a plant.  The two main functions of a leaf are photosynthesis and gas exchange.  Photosynthesis converts sunlight into sugars that a plant cell uses as food for the plant and a source of energy.  Sunlight means solar energy and solar energy means solar energy.
+vinfo: 956.6881103515625
+-----------91-----------
+sample_in: This is a science exam question and answer.<|exp|>Pumice is formed when lava from a volcano cools. Which rock type is pumice? (A) Gaseous rock (B) Igneous rock (C) Sedimentary rock (D) Metamorphic rock
+sample_out: The answer is (B) Igneous rock.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Pumice is a kind of Igneous rock. Igneous rocks are formed from magma. Seasons are caused by the tilt of the Earth's axis.
+expl_opt: Pumice is a kind of Igneous rock.  Igneous rocks are formed from magma.  Lava is magma that flows onto the Earth's surface. 
+prediction_x: Pumice is a kind of rock.  Ice is a kind of liquid.  Pumice is a kind of rock.   Pumice is a kind of rock.
+vinfo: 956.7080078125
+-----------92-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these is a nonliving part of a forest? (A) Tree (B) Soil (C) Worm (D) Mushroom
+sample_out: The answer is (B) Soil.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A tree is a living thing [MASK ]Tree is a living thing Tree is a living thing Tree is a living thing Tree is a living thing Tree is a living thing thing thing thing thing thing [  A worm is a living thing.  A mushroom is a living thing.  
+expl_opt: A tree is a living thing.  A worm is a living thing.  A mushroom is a living thing.  
+prediction_x: A tree is a living thing.  A worm is a living thing.  A mushroom is a living thing.
+vinfo: 677.66943359375
+-----------93-----------
+sample_in: This is a science exam question and answer.<|exp|>How are a tree and grass alike? (A) Both make wood. (B) Both have roots. (C) Both need moonlight. (D) Both have short lives.
+sample_out: The answer is (B) Both have roots..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>plants have roots. plants have roots. plants have roots. plants have roots. a tree can live for hundreds of years. living for hundreds of years is considered a long life to a human. grass can live up to 35 years. a tree is a kind of plant. grass is a kind of plant. grass does not contain wood. plants have roots. trees contain wood. a tree can live for hundreds of years. living for hundreds of years is considered a long life to a human. grass can live up to 35 years.
+expl_opt: Plants have roots. A tree is a kind of plant.  Grass is a kind of plant.  Trees contain wood.  Grass does not contain wood.  A tree can live for hundreds of years.  Living for hundreds of years is considered a long life to a human.  Grass can live up to 35 years.   
+prediction_x: Plants have roots.  A tree can live for hundreds of years.  Living for hundreds of years is considered a long life to a human.  Grass does not contain wood.  Trees contain wood.  A tree can live for hundreds of years.  A tree is a kind of plant.  Grass does not contain wood.
+vinfo: 810.5462646484375
+-----------94-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these describes water in a solid state? (A) Vapor rising in the sky (B) Hail during a storm (C) Waves crashing on the seashore (D) Rain falling from the clouds
+sample_out: The answer is (B) Hail during a storm.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Hail is a kind of ice. Ice is a cruel of solid.
+expl_opt: Hail is a kind of ice.  Ice is a kind of solid. 
+prediction_x: Hail is a kind of ice.  Hail is a kind of ice.  Hail is a kind of ice.
+vinfo: 890.27099609375
+-----------95-----------
+sample_in: This is a science exam question and answer.<|exp|>Which part of a bicycle BEST moves in a circle? (A) Seat (B) Frame (C) Foot pedal (D) Kickstand
+sample_out: The answer is (C) Foot pedal.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A bicycle contains two pedals.  A component means a part of.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward. 
+expl_opt: A bicycle contains two pedals.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward.
+prediction_x: A bicycle contains two pedals.  A component means a part of.  Pedalling a bicycle involves moving the medals in a circular motion to move the bicycle forward.
+vinfo: 677.6694946289062
+-----------96-----------
+sample_in: This is a science exam question and answer.<|exp|>A paper bag is ripped into pieces. Which of these BEST describes the pieces of the bag? (A) Stronger than the whole bag (B) Thicker than the whole bag (C) Smaller than the whole bag (D) Darker than the whole bag
+sample_out: The answer is (C) Smaller than the whole bag.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A piece is a smaller part of a whole something.A piece of an object is a smaller part of a whole , larger object.  A paper bag is an object.  A piece of a paper bag is smaller than a whole bag.
+expl_opt: A piece is a smaller part of a whole something.  A piece of an object is a smaller part of a whole object.  A paper bag is an object.  A piece of a paper bag is smaller than a whole bag.
+prediction_x: A piece is a smaller part of a whole something.  A piece of an object is a smaller part of a whole.  A paper bag is an object.  A piece of a paper bag is smaller than a whole bag.
+vinfo: 1076.2813720703125
+-----------97-----------
+sample_in: This is a science exam question and answer.<|exp|>A company plants trees on a bare hillside. Which of these is the BEST reason for planting the trees? (A) The trees provide oxygen for the soil. (B) The trees prevent soil from washing away. (C) The trees make shade for animals living there. (D) The trees cause animals to move to other places.
+sample_out: The answer is (B) The trees prevent soil from washing away..
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Soil erosion is the loss of soil from water or wind.  A drought means decreasing the amount of water.  Soil erosion means soil is moved away, usually by water or wind.  Washing away means being moved by water.  Erosion is harmful.  The roots of plants can prevent erosion by helping hold soil in place.  A tree is a kind of plant.  Preventing something means making it not happen. 
+expl_opt: Soil erosion is the loss of soil from water or wind.  Soil erosion means soil is moved away, usually by water or wind. Washing away means being moved by water.  Erosion is harmful.  The roots of plants can prevent erosion by helping hold soil in place.  A tree is a kind of plant.  Preventing something means making it not happen. 
+prediction_x: Soil erosion is the loss of soil from water or wind.  A drought means decreasing the amount of water.  Soil erosion means soil is moved away, usually by water or wind.  Washing away means being moved by water.  Erosion is harmful.  The roots of plants can prevent erosion by helping hold soil in place.  A tree is a kind of plant.  Preventing something means making it not happen.
+vinfo: 1275.6024169921875
+-----------98-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of these human activities most relies on high-quality soil? (A) Hiking (B) Hunting (C) Coal mining (D) Growing crops
+sample_out: The answer is (D) Growing crops.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>Plants require soil to survive.Soil contains nutrients that plants can absorb through their roots and take up through their leaves.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow. 
+expl_opt: Plants require soil to survive.  Soil contains nutrients that plants absorb through their roots.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow. 
+prediction_x: Plants require soil to survive.  Soil contains nutrients that plants can absorb through their roots and take up through their leaves.  The amount of nutrients in soil are one factor that determines soil quality.  Crops are a kind of plant.  Plants require nutrients to grow.
+vinfo: 717.5272216796875
+-----------99-----------
+sample_in: This is a science exam question and answer.<|exp|>Which structure surrounds and protects an animal cell? (A) Nucleus (B) Vacuole (C) Cytoplasm (D) Cell membrane
+sample_out: The answer is (D) Cell membrane.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>A cell membrane is around the cell of all living things.Sometimes being around something means surrounding it. 
+expl_opt: A cell membrane is around the cell of all living things.  Being around something means surrounding it. 
+prediction_x: Cell membranes protect against harm.  Protecting something means preventing harm.  Protecting something means preventing harm.
+vinfo: 730.8126831054688
+-----------100-----------
+sample_in: This is a science exam question and answer.<|exp|>Which of the following is the best observation of the refraction of light? (A) Looking at oneself in a mirror (B) Looking at a shadow of an object (C) Viewing an object through an open window (D) Viewing an object partially in water
+sample_out: The answer is (D) Viewing an object partially in water.
+expl_ipt: Let's explain a science exam question and answer.<|exp|>refraction is the bending of light. refraction happens when light passes from one medium to another medium. refraction happens when light passes from one medium to another medium. refraction happens when light passes from one medium to another medium. refraction happens when light passes from one medium to another medium. viewing is observing light. water is a kind of medium for light. air is a kind of medium for light. when an object is partially in water, it is also partially in air. refraction is the bending of light. refraction happens when light passes from one medium to another medium. viewing is observing light.
+expl_opt: Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  Water is a kind of medium for light.  Air is a kind of medium for light.  When an object is partially in water, it is also partially in air.  Viewing is observing light. 
+prediction_x: Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially in air.  Refraction is the bending of light.  Refraction happens when light passes from one medium to another medium.  When an object is partially in water, it is also partially i
+vinfo: 1089.5491943359375

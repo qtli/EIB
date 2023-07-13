@@ -1,0 +1,938 @@
+-----------0-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Four entertainers dressed in Roman style garb are performing at an outdoor theater. Hypothesis is Professional actors are doing summer stock. Update is It begins to snow during their performance.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and it begins to snow during their performance imply that it then have fun.  The facts that several young african americans giving an outdoor dance performance and the dancers are in ethnic clothing imply that as a result, several young african americans wants to have fun. 
+expl_opt: The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and it begins to snow during their performance imply that it then have fun.
+prediction_x: The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and it begins to snow during their performance imply that it then have fun.
+vinfo: 1036.4300537109375
+-----------1-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is A picture of the two men having fun is on the fridge behind them.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that one men cooking, one stirring a stand while making a funny face while the other points at him and a picture of the two men having fun is on the fridge behind them imply that as a result, others want to laugh at two men.
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and a picture of the two men having fun is on the fridge behind them imply that as a result, others want to laugh at two men.
+prediction_x: The facts that one men cooking, one stirring a stand while making a funny face while the other points at him and a picture of the two men having fun is on the fridge behind them imply that as a result, others want to laugh at two men.
+vinfo: 1169.1953125
+-----------2-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is The men tell jokes and have fun.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the men tell jokes and have fun imply that as a result, others want to be entertained.  The facts that two women are reading, one woman has a magazine with a dior ad on the back of it, while the other woman is reading fro ma hard cover book and the two women sit and read with rows of bookshelves around them imply that as a result, others want to be entertained. 
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the men tell jokes and have fun imply that as a result, others want to be entertained.
+prediction_x: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the men tell jokes and have fun imply that as a result, others want to be entertained.
+vinfo: 1076.2750244140625
+-----------3-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The crowd is excited by the game.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd is excited by the game imply that as a result of the game, people are having fun. several people feels to have fun.
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd is excited by the game imply that as a result, several people feels to have fun.
+prediction_x: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd is excited by the game imply that as a result of the game, people are having fun.
+vinfo: 1063.0128173828125
+-----------4-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The canoe is dark and gets hot easily.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two dogs swimming and someone needs help in the lake imply that as a result, someone wants to have fun.  The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is dark and gets hot easily imply that as a result, others want to see the lake. 
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is dark and gets hot easily imply that as a result, others want to see the lake.
+prediction_x: The facts that two dogs swimming and someone needs help in the lake imply that as a result, someone wants to have fun. The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is dark and gets hot easily imply that as a result, others want to see the lake.
+vinfo: 1275.61376953125
+-----------5-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is a man giving two thumbs up to a crowd. Hypothesis is He has just won the competition Update is People surged onto the track as he stood panting with exertion.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a man giving two thumbs up to a crowd and people surged onto the track as he stood panting with exertion imply that he is seen as proud.However, we cannot rule out the possibility that the observed pattern of associations is due to chance alone.
+expl_opt: The facts that a man giving two thumbs up to a crowd and people surged onto the track as he stood panting with exertion imply that he is seen as proud.
+prediction_x: The facts that a man giving two thumbs up to a crowd and people surged onto the track as he stood panting with exertion imply that he is seen as proud.
+vinfo: 1023.1469116210938
+-----------6-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is The light is red, so the cars have stopped while the pedestrian crosses the street.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The video will start in 8 CancelGet daily updates directly to your inbox + Subscribe Thank you for subscribing! Could not subscribe, try again later Invalid EmailThese are the facts that pedestrian walking on the street and the light is red, so the cars have stopped while the pedestrian crosses the street imply that the pedestrian is seen as in a hurry.
+expl_opt: The facts that pedestrian walking on the street and the light is red, so the cars have stopped while the pedestrian crosses the street imply that the pedestrian is seen as in a hurry.
+prediction_x: The video will start in 8 CancelGet daily updates directly <|exp|> The video will start in 8 CancelGet daily updates directly to your inbox
+vinfo: 1023.1461791992188
+-----------7-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Walls and a ceiling can be seen.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and walls and a ceiling can be seen imply that as a result,others feel to have fun.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and walls and a ceiling can be seen imply that as a result, others feel to have fun.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. Wit and walls and a ceiling can be seen imply that as a result,others feel to have fun.
+vinfo: 1063.01025390625
+-----------8-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Woman running in a park while listening to music. Hypothesis is A woman exercising for the day. Update is She wants to lose 30 pounds.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a group of people at a 4th of july celebration, with one man standing on a stage with american flag colored decorations around him and the man is playing music for the audience imply that as a result, others want to have fun.  The facts that woman running in a park while listening to music and she wants to lose 30 pounds imply that as a result, others want to have fun. 
+expl_opt: The facts that woman running in a park while listening to music and she wants to lose 30 pounds imply that as a result, others want to have fun.
+prediction_x: The facts that a group of people at a 4th of July celebration, with one man standing on a stage with American flag colored decorations around him and the man is playing music for the audience imply that as a result, others want to have fun.
+vinfo: 943.4253540039062
+-----------9-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skater is cold.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>these are the facts that in a chain link fence enclosed skate park a skater goes over one of the obstacles. wit and the skater is cold imply that as a result, a chain link feels to go home.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skater is cold imply that as a result, a chain link feels to go home.
+prediction_x: These are the facts that in a chain link fence enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1036.4376220703125
+-----------10-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The sun is visible.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Based on the facts that in a chain link enclosed skate park a skater goes over one of the obstacles before he hits the ground.wit and the sun is visible imply that as a result, a chain link wants to go home.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the sun is visible imply that as a result, a chain link wants to go home.
+prediction_x: Based on the facts that in a chain link enclosed skate park a skater goes over one of the obstacles before he hits the ground. Wit and the sun are visible imply that as a result, a chain link wants to go home.
+vinfo: 1023.1353149414062
+-----------11-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Walls and a ceiling can be seen.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.  wit and walls and a ceiling can be seen imply that as a result, others feel to have fun.  The facts that two people walk up to a brick building with a colorful mural on its side and the two people recreate the mural they had posed for before imply that as a result, the two people feels to have fun. 
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and walls and a ceiling can be seen imply that as a result, others feel to have fun.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that two people walk up to a brick building with a colorful mural on its side and the two people recreate the mural they had posed for before imply that as a result, the two people feels to have fun.
+vinfo: 1063.0087890625
+-----------12-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The boy is in a bathtub in front of a wall.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow and a few boys are sleeping next to him and there are bowls of pretzels and candy around imply that young boy then eat the snacks.  The facts that a boy with no shirt is standing in water and the boy is in a bathtub in front of a wall imply that a boy then gets wet. 
+expl_opt: The facts that a boy with no shirt is standing in water and the boy is in a bathtub in front of a wall imply that a boy then gets wet.
+prediction_x: The facts that young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow and a few boys are sleeping next to him and there are bowls of pretzels and candy around imply that boy then eat the snacks.
+vinfo: 983.2871704101562
+-----------13-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The blue team is winning!
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that several people are playing an intense game of paintball while others watch from the sidelines and the blue team is winning! imply that several people is seen as happy.  The facts that a group of people sit on benches at a park outside a building and they are eating lunch imply that as a result, they feels happy. 
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the blue team is winning! imply that several people is seen as happy.
+prediction_x: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the blue team is winning! The fact that a group of people sit on benches at a park outside a building and they are eating lunch implies that as a result, they feels happy.
+vinfo: 1036.4322509765625
+-----------14-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The boy is taking a bath.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the boy is taking a shower or having a bath imply that as a result, the boy feels clean.
+expl_opt: The facts that a boy with no shirt is standing in water and the boy is taking a bath imply that as a result, the boy feels clean.
+prediction_x: The facts that a boy with no shirt is standing in water and the boy is taking a shower or having a bath imply that as a result, the boy feels clean.
+vinfo: 903.5613403320312
+-----------15-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Woman running in a park while listening to music. Hypothesis is A woman exercising for the day. Update is She screams as her attacker draws nearer.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that woman running in a park while listening to music and she screams as her attacker draws nearer imply that others then run away.w
+expl_opt: The facts that woman running in a park while listening to music and she screams as her attacker draws nearer imply that others then run away.
+prediction_x: The facts that woman running in a park while listening to music and she screams as her attacker draws nearer imply that others then run away.
+vinfo: 956.7109985351562
+-----------16-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The air conditioning went out, making the skater very hot.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater can get hurt if another skater goes over one of the obstacles. wit and the air conditioning went out, making the skater very hot imply that as a result, a chain link feels to take a shower.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the air conditioning went out, making the skater very hot imply that as a result, a chain link feels to take a shower.
+prediction_x: The facts that in a chain link enclosed skate park a skater can get hurt if another skater goes over one of the obstacles.
+vinfo: 1129.445068359375
+-----------17-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy and girl kissing in the sunset. Hypothesis is A boy kisses his girlfriend on the beach. Update is The boy and girl are covered in sand.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy and girl kissing in the sunset and the boy and girl are covered in sand imply that a boy and girl kiss and then kisses again.
+expl_opt: The facts that a boy and girl kissing in the sunset and the boy and girl are covered in sand imply that a boy then kisses again.
+prediction_x: The facts that a boy and girl kiss in the sunset and the boy and girl are covered in sand imply that a boy and girl kiss and then kisses again.
+vinfo: 983.2872924804688
+-----------18-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is The man passes over some chopped vegetables.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two men in orange uniforms stand before a train and do some work and the two men in orange uniforms check their emails while eating lunch imply that as a result, the two men in wants to finish their work.  The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the man passes over some chopped vegetables imply that two men then eats the vegetables. 
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the man passes over some chopped vegetables imply that two men then eats the vegetables.
+prediction_x: The facts that two men in orange uniforms stand before a train and do some work and the two men in orange uniforms check their emails while eating lunch imply that as a result, the two men in wants to finish their work.
+vinfo: 1076.294921875
+-----------19-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two women are laughing and smiling while they eat a meal together. Hypothesis is Lilly and Sally were laughing while eating lunch. Update is The women are workers and their name tags say "Brenda" and "Jane."
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say "brenda" and "jane. " imply that others then have fun. play and fun have similar meanings.
+expl_opt: The facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say "brenda" and "jane." imply that others then have fun.
+prediction_x: The facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say ""Brenda" and ""Jane."
+vinfo: 1142.732177734375
+-----------20-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is A picture of the two men having fun is on the fridge behind them.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and a picture of the two men having fun is on the fridge behind them imply that as a result, others want to laugh at two men.  The facts that a woman wearing a black shirt with a cigarette in her right hand is smiling at the camera and the woman is standing on a studio set imply that as a result, others want to ask a woman questions. 
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and a picture of the two men having fun is on the fridge behind them imply that as a result, others want to laugh at two men.
+prediction_x: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and a picture of the two men having fun is on the fridge behind them imply that as a result, others want to laugh at two men.
+vinfo: 1169.2984619140625
+-----------21-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is There are no cars or other people.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young man takes a walk carrying a backpack and camera and the man is traveling alone imply that as a result, a young man feels to get to their destination.  The facts that pedestrian walking on the street and there are no cars or other people imply that pedestrian is seen as alone. 
+expl_opt: The facts that pedestrian walking on the street and there are no cars or other people imply that pedestrian is seen as alone.
+prediction_x: The facts that a young man takes a walk carrying a backpack and camera and the man is traveling alone imply that as a result, a young man feels to get to their destination.
+vinfo: 903.560302734375
+-----------22-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is The man kisses the other.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>It is based on the facts that two men cooking together. one stirring a pot while making a funny face while the other points at him and the man kisses the other imply that others then kiss back.
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the man kisses the other imply that others then kiss back.
+prediction_x: It is based on the facts that two men cooking together. One stirring a pot while making a funny face while the other points at him and the man kisses the other imply that others then kiss back.
+vinfo: 1049.700927734375
+-----------23-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is A man swings a tennis racket while in motion.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and a man swings a tennis racket while in the midst of a running motion imply that a man is seen as to be competitive.
+expl_opt: The facts that a young male is running while playing tennis against another person and a man swings a tennis racket while in motion imply that a man is seen as to be competitive.
+prediction_x: The facts that a young male is running while playing tennis against another person and a man swings a tennis racket while in the midst of a running motion imply that a man is seen as to be competitive.
+vinfo: 1009.8629760742188
+-----------24-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is a man giving two thumbs up to a crowd. Hypothesis is He has just won the competition Update is The man is standing on the low part of the winner's stand.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that a man giving two thumbs up to a crowd and the man is standing on the low part of the winner's stand imply that as a result, a man wants to make a speech. the facts that two men are playing during a basketball game and a crowd of students is standing in the crowd chanting imply that as a result, others want to win the game. the facts that a young man is standing staring at something and a women remarks that he has a pretty eye color imply that as a result,
+expl_opt: The facts that a man giving two thumbs up to a crowd and the man is standing on the low part of the winner's stand imply that as a result, a man wants to make a speech.
+prediction_x: The facts that a man giving two thumbs up to a crowd and the man is standing on the low part of the winner's stand imply that as a result, a man wants to make a speech. The facts that two men are playing during a basketball game and a crowd of students is standing in the crowd chanting imply that as a result, others want to win the game.
+vinfo: 1023.1471557617188
+-----------25-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is A long line of cars is waiting at a red traffic light.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Therefore, the facts that pedestrian walking on the street and a long line of cars that is waiting at a red traffic light imply that pedestrian is seen as impatient .
+expl_opt: The facts that pedestrian walking on the street and a long line of cars is waiting at a red traffic light imply that pedestrian is seen as impatient.
+prediction_x: Therefore, the facts that pedestrian walking on the street and a long line of cars that is waiting at a red traffic light imply that pedestrian is seen as impatient.
+vinfo: 969.9984130859375
+-----------26-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is They have run out of paint.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that several people are playing an intense game of paintball while others watch from the sidelines and they have run out of paint imply that as a result,several people feels to be the best way to clean up.
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and they have run out of paint imply that as a result, several people feels to clean up.
+prediction_x: The facts that several people are playing an intense game of paintball while others watch from the sidelines and they have run out of paint imply that as a result,several people feels to be the best way to clean up.
+vinfo: 1049.721435546875
+-----------27-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two women are laughing and smiling while they eat a meal together. Hypothesis is Lilly and Sally were laughing while eating lunch. Update is The women are workers and their name tags say "Brenda" and "Jane."
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say "brenda" and "jane. " imply that others then imply that others then have fun.
+expl_opt: The facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say "brenda" and "jane." imply that others then have fun.
+prediction_x: The facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say ""Brenda" and ""Jane."
+vinfo: 1142.720458984375
+-----------28-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three women talk to each other next to another woman sitting on a motorcycle. Hypothesis is A group of women went for a motorcycle ride. Update is The women are all holding helmets in their hands.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that third women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.
+expl_opt: The facts that three women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.
+prediction_x: The facts that third women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.
+vinfo: 1089.5794677734375
+-----------29-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Roof lights are shining.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and roof lights are shining imply that as a result, a chain link wants to have fun. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and roof lights are shining imply that as a result, a chain link wants to have fun.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1023.1505126953125
+-----------30-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting. Hypothesis is The audience watches as the actors in the dim haze, ready their lines for the first scene. Update is They each take turns speaking to the audience.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting and they each take turns speaking to the audience imply that as a result, others feel to be heard.  The facts that a group of men are sitting and standing a courtyard, some of them are reading books and some are talking and a group of males are outside reaping and sighing imply that as a result, some of feels to have fun. 
+expl_opt: The facts that five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting and they each take turns speaking to the audience imply that as a result, others feel to be heard.
+prediction_x: The facts that five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting and they each take turns speaking to the audience imply that as a result, others feel to have fun.
+vinfo: 1302.1748046875
+-----------31-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The white canoe sat high in the water.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a man in a white shirt is sitting on a crate and a cane is leaning against the crate imply that as a result, a man feels happy.  The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the white canoe sat high in the water imply that a man with is seen as adventurous. 
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the white canoe sat high in the water imply that a man with is seen as adventurous.
+prediction_x: The facts that a man in a white shirt is sitting on a crate and a cane is leaning against the crate imply that as a result, a man feels happy.
+vinfo: 1275.61376953125
+-----------32-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two women are laughing and smiling while they eat a meal together. Hypothesis is Lilly and Sally were laughing while eating lunch. Update is Sally Field and Lilly Tomlin are on lunch break from their movie.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that some people standing outside next to a flower vendor and across the street from a mcdonald's on a rainy day and they are on the set of a cgi movie imply that as a result, some people wants to have fun.  The facts that two women are laughing and smiling while they eat a meal together and sally field and lilly tomlin are on lunch break from their movie imply that as a result, others want to have fun. 
+expl_opt: The facts that two women are laughing and smiling while they eat a meal together and sally field and lilly tomlin are on lunch break from their movie imply that as a result, others want to have fun.
+prediction_x: The facts that some people standing outside next to a flower vendor and across the street from a McDonald's on a rainy day and they are on the set of a cgi movie imply that as a result, some people wants to have fun.
+vinfo: 1102.8675537109375
+-----------33-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is He is wearing sunglasses because it's so bright out.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and he is wearing sunglasses because it's so bright out imply that as a result, he wants to go home and get some sleep.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and he is wearing sunglasses because it's so bright out imply that as a result, he wants to go home.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. He is wearing sunglasses because it's so bright out imply that as a result, he wants to go home and get some sleep.
+vinfo: 1102.874267578125
+-----------34-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The male is 40 years old.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a young male is seen as athletic.The results of the present study suggest that the combination of prophylactic and therapeutic treatment is a safe and effective way to reduce the risk of developing the disease.
+expl_opt: The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a young male is seen as athletic.
+prediction_x: The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a young male is seen as athletic.
+vinfo: 969.9960327148438
+-----------35-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is a man giving two thumbs up to a crowd. Hypothesis is He has just won the competition Update is The man quickly joined the other runners at the starting line.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a man giving two thumbs up to a crowd and the man quickly joined the other runners at the starting line imply that the man is seen as proud.These results indicate that the expression of IL-6, TNF-alpha and IL-1beta is increased in the sera of patients with COVID-19 and that these cytokines may play a role in the pathogenesis of COVID-19.
+expl_opt: The facts that a man giving two thumbs up to a crowd and the man quickly joined the other runners at the starting line imply that the man is seen as proud.
+prediction_x: The facts that a man giving two thumbs up to a crowd and the man quickly joined the other runners at the starting line imply that the man is seen as proud.
+vinfo: 996.5614013671875
+-----------36-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Four entertainers dressed in Roman style garb are performing at an outdoor theater. Hypothesis is Professional actors are doing summer stock. Update is The performers are all part of the same college fraternity.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that three people posing for a camera and the people are posing for a sorority advertisement imply that as a result, three people wants to take pictures.  The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and the performers are all part of the same college fraternity imply that four entertainers is seen as part of the same fraternity. 
+expl_opt: The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and the performers are all part of the same college fraternity imply that four entertainers is seen as part of the same fraternity.
+prediction_x: The facts that three people posing for a camera and the people are posing for a sorority advertisement imply that as a result, three people wants to take pictures.
+vinfo: 1076.272705078125
+-----------37-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The people watching are friends of the players and are amused.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching are friends of the players and are amused imply that as a result,It is a great way to get together with friends and family, and it is also a great way to make new friends. several people wants to have fun
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching are friends of the players and are amused imply that as a result, several people wants to have fun.
+prediction_x: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching are friends of the players and are amused imply that as a result, they are not interested in playing the game.
+vinfo: 1116.163818359375
+-----------38-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skater is cold.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and the skater is cold imply that as a result, a chain link feels to go home. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skater is cold imply that as a result, a chain link feels to go home.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1036.436767578125
+-----------39-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two women are laughing and smiling while they eat a meal together. Hypothesis is Lilly and Sally were laughing while eating lunch. Update is Sally Field and Lilly Tomlin are on lunch break from their movie.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two women are laughing and smiling while they eat a meal together and sally field and lilly tomlin are on lunch break from their movie imply that as a result, others want to have fun.  The facts that a woman wearing a black shirt with a cigarette in her right hand is smiling at the camera and the woman is standing on a studio set imply that as a result, others want to ask a woman questions. 
+expl_opt: The facts that two women are laughing and smiling while they eat a meal together and sally field and lilly tomlin are on lunch break from their movie imply that as a result, others want to have fun.
+prediction_x: The facts that a woman wearing a black shirt with a cigarette in her right hand is smiling at the camera and the woman is standing on a studio set imply that as a result, others want to have fun.
+vinfo: 1102.8692626953125
+-----------40-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three women talk to each other next to another woman sitting on a motorcycle. Hypothesis is A group of women went for a motorcycle ride. Update is The women are all holding helmets in their hands.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that three women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women."I'm not sure if it's a good thing or a bad thing," he said.
+expl_opt: The facts that three women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.
+prediction_x: The facts that three women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.
+vinfo: 1089.579345703125
+-----------41-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Band plays in tight quarters. Hypothesis is The four members of the band are in tight quarters. Update is The Beatles played in some really small dives back in the early days.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that band plays in tight quarters and the beatles played in some really small dives back in the early days imply that band then gets yelled at.As a result, the government has announced a series of measures to improve the lives of people living with mental health conditions.
+expl_opt: The facts that band plays in tight quarters and the beatles played in some really small dives back in the early days imply that band then gets yelled at.
+prediction_x: The facts that band plays in tight quarters and the beatles played in some really small dives back in the early days imply that band then gets yelled at.
+vinfo: 1036.4365234375
+-----------42-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The crowd holds up signs that protest the violence of paintball.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd holds up signs that support the peace of paintball imply that as a result, others want to win the game.
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd holds up signs that protest the violence of paintball imply that as a result, others want to win the game.
+prediction_x: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd holds up signs that support the peace of paintball imply that as a result, others want to win the game.
+vinfo: 1129.4495849609375
+-----------43-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is A man sits on a tennis court.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result,others feel the same way and are happy to play.
+expl_opt: The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result, others feel happy to play.
+prediction_x: The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result,others feel the same way and are happy to play.
+vinfo: 983.2872924804688
+-----------44-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is The man is surround by other people and a crosswalk signal is green.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that pedestrian walking on the street and the man is surround by other people and a car is waiting for him and the crosswalk signal is green imply that pedestrian then gets into car.
+expl_opt: The facts that pedestrian walking on the street and the man is surround by other people and a crosswalk signal is green imply that pedestrian then gets into car.
+prediction_x: The facts that pedestrian walking on the street and the man is surround by other people and a car is waiting for him and the crosswalk signal is green imply that pedestrian then gets into car.
+vinfo: 996.57373046875
+-----------45-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The male is 12 years old.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is shown in the picture jumping and running while playing tennis against another person and the male is 12 years old imply that a young male is seen as athletic.
+expl_opt: The facts that a young male is running while playing tennis against another person and the male is 12 years old imply that a young male is seen as athletic.
+prediction_x: The facts that a young male is shown in the picture jumping and running while playing tennis against another person and the male is 12 years old imply that a young male is seen as athletic.
+vinfo: 969.9963989257812
+-----------46-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Trees surround the fence.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and trees surround the fence imply that as a result, trees feels to be safe. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and trees surround the fence imply that as a result, trees feels to be safe.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1023.1494140625
+-----------47-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three women talk to each other next to another woman sitting on a motorcycle. Hypothesis is A group of women went for a motorcycle ride. Update is Only one motorcycle can be seen anywhere.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that three women sit together near woven walls and the woven walls are an assortment of colors imply that as a result, three women wants to be comfortable.  The facts that three women talk to each other next to another woman sitting on a motorcycle and only one motorcycle can be seen anywhere imply that as a result, others feel to get to their destination. 
+expl_opt: The facts that three women talk to each other next to another woman sitting on a motorcycle and only one motorcycle can be seen anywhere imply that as a result, others feel to get to their destination.
+prediction_x: The facts that three women sit together near woven walls and the woven walls are an assortment of colors imply that as a result, three women wants to be comfortable.
+vinfo: 1062.991943359375
+-----------48-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two women are laughing and smiling while they eat a meal together. Hypothesis is Lilly and Sally were laughing while eating lunch. Update is The two women are in business attire.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two women are laughing and smiling while they eat a meal together and the two women are in business attire imply that as a result, they wants to make money.The results of the study were published in the Journal of the American Medical Association.
+expl_opt: The facts that two women are laughing and smiling while they eat a meal together and the two women are in business attire imply that as a result, they wants to make money.
+prediction_x: The facts that two women are laughing and smiling while they eat a meal together and the two women are in business attire imply that as a result, they wants to make money.
+vinfo: 1023.1382446289062
+-----------49-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Woman running in a park while listening to music. Hypothesis is A woman exercising for the day. Update is She wants to lose 30 pounds.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The fact of the matter is that the facts that woman running in a park while listening to music and she wants to lose 30 pounds imply that as a result, others want to have fun.
+expl_opt: The facts that woman running in a park while listening to music and she wants to lose 30 pounds imply that as a result, others want to have fun.
+prediction_x: The fact of the matter is that the facts that woman running in a park while listening to music and she wants to lose 30 pounds imply that as a result, others want to have fun.
+vinfo: 943.4234619140625
+-----------50-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The young male is a child.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and the young male is a child imply that as a result, a young male wants to have fun.  The facts that a young girl with water wings leaps into a crowded pool and there are no adults in the pool imply that as a result, a young girl wants to have fun. 
+expl_opt: The facts that a young male is running while playing tennis against another person and the young male is a child imply that as a result, a young male wants to have fun.
+prediction_x: The facts that a young girl with water wings jumps into a crowded pool and there are no adults in the pool imply that as a result, a young girl wants to have fun.
+vinfo: 969.9998779296875
+-----------51-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The red canoe was very noticeable.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that man in white t-shirt, black shorts, walking along side female with a white tank top, beige shorts, and an older woman with black hair, white shirt, black shorts and the family is on vacation imply that man then have fun.  The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the red canoe was very noticeable imply that others then go with a man with. 
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the red canoe was very noticeable imply that others then go with a man with.
+prediction_x: The facts that man in white t-shirt, black shorts, walking along side female with a white tank top, beige shorts, and an older woman with black hair, white shirt, black shorts and the family is on vacation imply that man then have fun.
+vinfo: 1249.039306640625
+-----------52-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The white canoe sat high in the water.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the white canoe sat high in the water imply that a man with is seen as adventurous.  The facts that man in white t-shirt, black shorts, walking along side female with a white tank top, beige shorts, and an older woman with black hair, white shirt, black shorts and the women with the man are wearing white lab coats imply that the women with then in a lab coat. 
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the white canoe sat high in the water imply that a man with is seen as adventurous.
+prediction_x: The facts that man in white t-shirt, black shorts, walking along side female with a white tank top, and an older woman with black hair, white shirt, black shorts and the women with the man are wearing white lab coats imply that the women with then in a lab coat.
+vinfo: 1275.6146240234375
+-----------53-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The lights are on.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a typical open-air or chain link enclosed skate park a skater goes over one of the obstacles. wit and the lights are on imply that a chain link is seen as happy.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the lights are on imply that a chain link is seen as happy.
+prediction_x: The facts that in a typical open-air or chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1023.1481323242188
+-----------54-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Four entertainers dressed in Roman style garb are performing at an outdoor theater. Hypothesis is Professional actors are doing summer stock. Update is There is an audience waiting for them to appear on stage.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a group of men are sitting and standing a courtyard, some of them are reading books and some are talking and a lot of idle chatter can be heard in the gardens imply that as a result, others feel to be entertained.  The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and there is an audience waiting for them to appear on stage imply that as a result, four entertainers feels to be entertained. 
+expl_opt: The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and there is an audience waiting for them to appear on stage imply that as a result, four entertainers feels to be entertained.
+prediction_x: The facts that a group of men are sitting and standing a courtyard, some of them are reading books and some are talking and a lot of idle chatter can be heard in the gardens imply that as a result, others feel to be entertained.
+vinfo: 1089.581787109375
+-----------55-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The red canoe was very noticeable.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the red canoe was very noticeable imply that others then go with a man with."We have a responsibility to make sure that we have the right policies and procedures in place to make sure we are doing everything we can to protect the health and safety of our employees and our patients," he said.
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the red canoe was very noticeable imply that others then go with a man with.
+prediction_x: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the red canoe was very noticeable imply that others then go with a man with blue trunks and white and blue shirt.
+vinfo: 1249.0361328125
+-----------56-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skater wore lots of sunblock.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and the fact that the skater wore lots of sunblock imply that as a result, the skater feels to be warm.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skater wore lots of sunblock imply that as a result, the skater feels to be warm.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The fact that the skater wore lots of sunblock implies that as a result, the skater feels to be warm.
+vinfo: 1076.29443359375
+-----------57-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two women are laughing and smiling while they eat a meal together. Hypothesis is Lilly and Sally were laughing while eating lunch. Update is The women are workers and their name tags say "Brenda" and "Jane."
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say "brenda" and "jane. the facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say "brenda" and "jane.
+expl_opt: The facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say "brenda" and "jane." imply that others then have fun.
+prediction_x: The facts that two women are laughing and smiling while they eat a meal together and the women are workers and their name tags say ""brenda."
+vinfo: 1142.728759765625
+-----------58-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The canoe is light and almost blinding.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>I think that the facts that on a bright and sunny and bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is light and almost blinding imply that a man with then take a picture.
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is light and almost blinding imply that a man with then take a picture.
+prediction_x: I think that the facts that on a bright and sunny and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is light and almost blinding imply that a man with then take a picture.
+vinfo: 1262.32568359375
+-----------59-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is He is wearing sunglasses because it's so bright out.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that four speed skaters representing different countries are racing across ice in front of camera people and there ice is surrounded by stadium style seating imply that four speed skaters is seen as to have fun. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and he is wearing sunglasses because it's so bright out imply that as a result, he wants to go home.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and he is wearing sunglasses because it's so bright out imply that as a result, he wants to go home.
+prediction_x: The facts that four speed skaters representing different countries are racing across ice in front of camera people and there ice is surrounded by stadium style seating imply that four speed skaters is seen as to have fun. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1102.873291015625
+-----------60-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young boy in green shorts balances on a pipe above a river. Hypothesis is A clever person balancing. Update is The boy is thinking to himself how stupid he was to get into this situation.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he was to get into this situation imply that as a result, a young boy feels to have fun.If you want to use the power of the Internet in your business, you need to make sure that you are using the right tools to help you grow your business.
+expl_opt: The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he was to get into this situation imply that as a result, a young boy feels to have fun.
+prediction_x: The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he was to get into this situation imply that as a result, a young boy feels to have fun.
+vinfo: 1089.587158203125
+-----------61-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A youth skateboards by a mural of a griffin wielding a flaming sword. Hypothesis is A youth skateboards by a mural that has been vandalised. Update is The mural is covered in spray paint.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the mural is covered in spray paint imply that as a result,a youth group that teaches kids how to skateboards feels to have fun.
+expl_opt: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the mural is covered in spray paint imply that as a result, a youth skateboards feels to have fun.
+prediction_x: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the mural is covered in spray paint imply that as a result, a youth group that teaches kids how to skateboards feels to have fun.
+vinfo: 1116.16064453125
+-----------62-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is There are no cars on the streets this time of day, so it's safe for pedestrians.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that likely walking on the street and there are no cars on the streets this time of day, so it's safe for pedestrians imply that pedestrian then gets to their destination.
+expl_opt: The facts that pedestrian walking on the street and there are no cars on the streets this time of day, so it's safe for pedestrians imply that pedestrian then gets to their destination.
+prediction_x: The facts that likely walking on the street and there are no cars on the streets this time of day, so it's safe for pedestrians imply that pedestrian then gets to their destination.
+vinfo: 1049.7252197265625
+-----------63-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two friends having a laugh. Hypothesis is Two friends are laughing at people on the street. Update is They are pointing at people in the street.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two friends having a laugh in the street, and they are pointing at people in the street imply that two friends then gets yelled at.
+expl_opt: The facts that two friends having a laugh and they are pointing at people in the street imply that two friends then gets yelled at.
+prediction_x: The facts that two friends having a laugh in the street, and they are pointing at people in the street imply that two friends then gets yelled at.
+vinfo: 956.7098999023438
+-----------64-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background. Hypothesis is The employee is wearing a blue shirt. Update is Blue is the official uniform color of Best Buy.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that an aisle at best buy with an employee standing at the computer and a geek squad sign in the background and blue is the official uniform color of best buy imply that as a result, an aisle feels to look good.  The facts that an asian woman in a red skirt sits near the ground with another woman standing next to her and the women are resting after a long day of shopping on black friday imply that as a result, an asian woman wants to go home. 
+expl_opt: The facts that an aisle at best buy with an employee standing at the computer and a geek squad sign in the background and blue is the official uniform color of best buy imply that as a result, an aisle feels to look good.
+prediction_x: The facts that an Asian woman in a red skirt sits near the ground with another Asian woman standing next to her and the women are resting after a long day of shopping on black Friday imply that as a result, an Asian woman wants to go home.
+vinfo: 1142.7283935546875
+-----------65-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is a man giving two thumbs up to a crowd. Hypothesis is He has just won the competition Update is The man has bandages on their thumbs and they are grimacing in pain
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a man is standing in the corner of a baseball field, dressed in a white dress suit, having a cameraman pointing a camera towards him and there is a microphone in front of him imply that others then answer the question.  The facts that a man giving two thumbs up to a crowd and the man has bandages on their thumbs and they are grimacing in pain imply that a man then yells in pain. 
+expl_opt: The facts that a man giving two thumbs up to a crowd and the man has bandages on their thumbs and they are grimacing in pain imply that a man then yells in pain.
+prediction_x: The facts that a man is standing in the corner of a baseball field, dressed in a white dress suit, having a cameraman pointing a camera towards him and there is a microphone in front of him imply that others then answer the question.
+vinfo: 1036.436279296875
+-----------66-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The water is in a bathtub.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the water is in a tub, and that the boy is standing in a bathtub imply that as a result of the others want to swim in the tub.
+expl_opt: The facts that a boy with no shirt is standing in water and the water is in a bathtub imply that as a result, others want to swim in the tub.
+prediction_x: The facts that a boy with no shirt is standing in water and the water is in a tub, and that the boy is standing in a bathtub imply that as a result of the others want to swim in the tub.
+vinfo: 916.8457641601562
+-----------67-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is a man giving two thumbs up to a crowd. Hypothesis is He has just won the competition Update is The man just fell but wasn't injured
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the men feels happy. the facts that a man giving two thumbs up to a crowd and the man just fell but wasn't injured imply that a man is seen as happy.
+expl_opt: The facts that a man giving two thumbs up to a crowd and the man just fell but wasn't injured imply that a man is seen as happy.
+prediction_x: The men feels happy. The facts that a man giving two thumbs up to a crowd and the man just fell but wasn't injured imply that a man is seen as happy.
+vinfo: 943.3330688476562
+-----------68-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is They have run out of paint.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a group of people walking across the street some carrying large black and red flags and there are floats going down the street imply that as a result, some wants to have fun.  The facts that several people are playing an intense game of paintball while others watch from the sidelines and they have run out of paint imply that as a result, several people feels to clean up. 
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and they have run out of paint imply that as a result, several people feels to clean up.
+prediction_x: The facts that a group of people walking across the street some carrying large black and red flags and there are floats going down the street imply that as a result, some wants to have fun. The facts that several people are playing an intense game of paintball while others watch from the sidelines and they have run out of paint imply that as a result, some people feels to clean up.
+vinfo: 1049.72314453125
+-----------69-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is The other man is yelling loudly.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that dark-haired man wearing a watch and oven mitt about to cook some meat in the kitchen and he is hurrying up checking the time imply that as a result, haired man wants to eat the meat.  The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the other man is yelling loudly imply that others then run away. 
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the other man is yelling loudly imply that others then run away.
+prediction_x: The facts that dark-haired man wearing a watch and oven mitt about to cook some meat in the kitchen and he is hurrying up checking the time imply that as a result, haired man wants to eat the meat.
+vinfo: 1062.9969482421875
+-----------70-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is a man giving two thumbs up to a crowd. Hypothesis is He has just won the competition Update is The man quickly joined the other runners at the starting line.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a man giving two thumbs up to a crowd and the man quickly joined the other runners at the starting line imply that the man is seen as proud.[1][2][3][4][5][6][7][8][9][10][11][12][13][14][ 
+expl_opt: The facts that a man giving two thumbs up to a crowd and the man quickly joined the other runners at the starting line imply that the man is seen as proud.
+prediction_x: The facts that a man giving two thumbs up to a crowd and the man quickly joined the other runners at the starting line imply that the man is seen as proud.
+vinfo: 996.3528442382812
+-----------71-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The lights are on.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and the lights are on imply that a chain link is seen as a happy place.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the lights are on imply that a chain link is seen as happy.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1023.149658203125
+-----------72-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is a man giving two thumbs up to a crowd. Hypothesis is He has just won the competition Update is The man has bandages on their thumbs and they are grimacing in pain
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a man giving two thumbs up to a crowd and the man has bandages on their thumbs and they are grimacing in pain imply that a man then yells in pain.It's important to note that these are not the only options available when it comes to getting the most bang for your buck when shopping online.
+expl_opt: The facts that a man giving two thumbs up to a crowd and the man has bandages on their thumbs and they are grimacing in pain imply that a man then yells in pain.
+prediction_x: The facts that a man giving two thumbs up to a crowd and the man has bandages on their thumbs and they are grimacing in pain imply that a man then yells in pain.
+vinfo: 1036.4354248046875
+-----------73-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A youth skateboards by a mural of a griffin wielding a flaming sword. Hypothesis is A youth skateboards by a mural that has been vandalised. Update is The artist just finished it an hour ago.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the artist just finished it an hour ago imply that the artist then finish the painting.  The facts that a boy on a skateboard ramp and the boy is holding a hammer and nails imply that the boy then gets hurt. 
+expl_opt: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the artist just finished it an hour ago imply that the artist then finish the painting.
+prediction_x: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the artist just finished it an hour ago imply that the artist then finish the painting.
+vinfo: 1129.4515380859375
+-----------74-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The people watching appear bored.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching appear bored imply that as a result, several people feels to be entertained.  The facts that a girl wearing black is riding a giant unicycle on the beach and the girl is training for her act during the off season imply that as a result, others want to have fun. 
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching appear bored imply that as a result, several people feels to be entertained.
+prediction_x: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching appear bored imply that as a result, some people wants to have fun.
+vinfo: 1036.434814453125
+-----------75-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is they start running as traffic gets closer.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that pedestrian walking on the street and they start running as traffic gets closer imply that as a result, they feels happy.  The facts that a large amount of persons flying kites in a park and the trees have new, green leaves imply that as a result, a large amount feels happy. 
+expl_opt: The facts that pedestrian walking on the street and they start running as traffic gets closer imply that as a result, they feels happy.
+prediction_x: The facts that pedestrians walking on the street and they start running as traffic gets closer imply that as a result, they feels happy.
+vinfo: 903.4559326171875
+-----------76-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is He is wearing sunglasses because it's so bright out.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that a young man wearing a green shirt and a hat attempts a trick on a skateboard while riding it in a skate park next to a beach and the man paid $50 in competition entry fees earlier that day imply that others then win the competition. wit and he is wearing sunglasses because it's so bright out imply that as a result, he wants to go home.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and he is wearing sunglasses because it's so bright out imply that as a result, he wants to go home.
+prediction_x: The facts that in a chain link enclosed skate park a skateboard goes over one of the obstacles. The facts that a young man wearing a green shirt and a hat attempts a trick on a skateboard while riding it in a skate park next to a beach and the man paid $50 in competition entry fees earlier that day imply that others then win the competition.
+vinfo: 1102.8729248046875
+-----------77-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The air conditioning went out, making the skater very hot.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the air conditioning went out, making the skater very hot imply that as a result,a chain link feels to be used as a curtain when you take a shower.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the air conditioning went out, making the skater very hot imply that as a result, a chain link feels to take a shower.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the air conditioning went out, making the skater very hot imply that as a result, a chain link feels to be used as a curtain when you take a shower.
+vinfo: 1129.4493408203125
+-----------78-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The crowd watches quietly.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that likely people are playing an intense game of paintball while others watch from the sidelines and the crowd watches quietly imply that as a result, several people feels to be entertained.
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd watches quietly imply that as a result, several people feels to be entertained.
+prediction_x: The facts that likely people are playing an intense game of paintball while others watch from the sidelines and the crowd watches quietly imply that as a result, several people feels to be entertained.
+vinfo: 1023.09912109375
+-----------79-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is They are in an industrial kitchen
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that two men cooking, one stirring a pot while making a funny foot while the other points at him and they are in an industrial kitchen imply that as a result, one men wants to cook food.
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and they are in an industrial kitchen imply that as a result, two men wants to cook food.
+prediction_x: The facts that two men cooking, one stirring a pot while making a funny foot while the other points at him and they are in an industrial kitchen imply that as a result, one men wants to cook food.
+vinfo: 1049.689697265625
+-----------80-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The sun is visible.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and the sun is visible imply that as a result, a chain link wants to go home. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the sun is visible imply that as a result, a chain link wants to go home.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1023.1500854492188
+-----------81-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Woman running in a park while listening to music. Hypothesis is A woman exercising for the day. Update is The woman appears to be in very fit shape.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that woman running in a park while listening to music and the woman appears to be in very fit shape imply that as a result, others want to have fun.  The facts that woman running in a park while listening to music and she wants to lose 30 pounds imply that as a result, others want to have fun. 
+expl_opt: The facts that woman running in a park while listening to music and the woman appears to be in very fit shape imply that as a result, others want to have fun.
+prediction_x: The facts that woman running in a park while listening to music and the woman appears to be in very fit imply that as a result, others want to have fun.
+vinfo: 983.28662109375
+-----------82-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is An aisle at Best Buy with an employee standing at the computer and a Geek Squad sign in the background. Hypothesis is The employee is wearing a blue shirt. Update is Blue is the official uniform color of Best Buy.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that an aisle at best buy with an employee standing at the computer and a geek squad sign in the background and blue is the official uniform color of best buy imply that as a result, an aisle feels to look good.-
+expl_opt: The facts that an aisle at best buy with an employee standing at the computer and a geek squad sign in the background and blue is the official uniform color of best buy imply that as a result, an aisle feels to look good.
+prediction_x: The facts that an aisle at best buy with an employee standing at the computer and a geek Squad sign in the background and blue is the official uniform color of Best Buy imply that as a result, an aisle feels to look good.
+vinfo: 1142.735107421875
+-----------83-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skater wore lots of sunblock.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed area such as a skate park a skater goes over one of the obstacles.wit and the skater wore lots of sunblock imply that as a result, the skater feels to be warm.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skater wore lots of sunblock imply that as a result, the skater feels to be warm.
+prediction_x: The facts that in a chain link enclosed area such as a skate park a skater goes over one of the obstacles. The skater wore lots of sunblock.
+vinfo: 1076.298095703125
+-----------84-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The game he is playing is tennis which requires movement.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that pedestrian walking on the street and they start running as traffic gets closer imply that as a result, they feels happy.  The facts that a young male is running while playing tennis against another person and the game he is playing is tennis which requires movement imply that as a result, which wants to get exercise. 
+expl_opt: The facts that a young male is running while playing tennis against another person and the game he is playing is tennis which requires movement imply that as a result, which wants to get exercise.
+prediction_x: The facts that a young male is running while playing tennis against another person and the game he is playing is tennis which requires movement imply that as a result, they feels happy.
+vinfo: 1023.1469116210938
+-----------85-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is A man sits on a tennis court.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result, others feel happy to play.[] [ … … 
+expl_opt: The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result, others feel happy to play.
+prediction_x: The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result, others feel happy to play.
+vinfo: 983.2860717773438
+-----------86-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Four entertainers dressed in Roman style garb are performing at an outdoor theater. Hypothesis is Professional actors are doing summer stock. Update is There is an audience waiting for them to appear on stage.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and there is an audience waiting for them to appear on stage imply that as a result, four entertainers feels to be entertained.The results of the study were published in the journal Nature Communications.
+expl_opt: The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and there is an audience waiting for them to appear on stage imply that as a result, four entertainers feels to be entertained.
+prediction_x: The facts that four entertainers dressed in roman style garb are performing at an outdoor theater and there is an audience waiting for them to appear on stage imply that as a result, four entertainers feels to be entertained.
+vinfo: 1089.575927734375
+-----------87-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three women talk to each other next to another woman sitting on a motorcycle. Hypothesis is A group of women went for a motorcycle ride. Update is The three women have the car windows rolled down.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that three women sit together near woven walls and the woven walls are an assortment of colors imply that as a result, three women wants to be comfortable.  The facts that three women talk to each other next to another woman sitting on a motorcycle and the three women have the car windows rolled down imply that three women is seen as friendly. 
+expl_opt: The facts that three women talk to each other next to another woman sitting on a motorcycle and the three women have the car windows rolled down imply that three women is seen as friendly.
+prediction_x: The facts that three women sit together near woven walls and the woven walls are an assortment of colors imply that as a result, three women wants to be comfortable.
+vinfo: 1089.5791015625
+-----------88-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The boy is enjoying the rain.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the boy is enjoying the rain imply that as a result, the boy feels happy.-
+expl_opt: The facts that a boy with no shirt is standing in water and the boy is enjoying the rain imply that as a result, the boy feels happy.
+prediction_x: The facts that a boy with no shirt is standing in water and the boy is enjoying the rain imply that as a result, the boy feels happy.-
+vinfo: 903.5568237304688
+-----------89-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three women talk to each other next to another woman sitting on a motorcycle. Hypothesis is A group of women went for a motorcycle ride. Update is The women are all holding helmets in their hands.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that three women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.In addition, there is a need for a method of fabricating the semiconductor device that is capable of reducing the size of the semiconductor device.
+expl_opt: The facts that three women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.
+prediction_x: The facts that three women talk to each other next to another woman sitting on a motorcycle and the women are all holding helmets in their hands imply that others then talk to the women.
+vinfo: 1089.58056640625
+-----------90-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three women talk to each other next to another woman sitting on a motorcycle. Hypothesis is A group of women went for a motorcycle ride. Update is Three other motorcycles are leaning against the garage.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that third women talk to each other next to another woman stand on a motorcycle and three other motorcycles are leaning against the garage imply that others then talk to three women.
+expl_opt: The facts that three women talk to each other next to another woman sitting on a motorcycle and three other motorcycles are leaning against the garage imply that others then talk to three women.
+prediction_x: The facts that third women talk to each other next to another woman stand on a motorcycle and three other motorcycles are leaning against the garage imply that others then talk to three women.
+vinfo: 1076.294189453125
+-----------91-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The man is carrying a paddle.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a man standing on a green boat and the boat has a motor on the back imply that a man then gets wet from the water.  The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the man is carrying a paddle imply that a man with then gets wet from paddling. 
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the man is carrying a paddle imply that a man with then gets wet from paddling.
+prediction_x: The facts that a man standing on a green boat and the boat has a motor on the back imply that a man then gets wet from the water. The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the man is carrying a paddle imply that a man with then gets wet from paddling.
+vinfo: 1249.0404052734375
+-----------92-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Walls and a ceiling can be seen.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.  The facts that a young man wearing black jumps off a height while people clap and the man is a trapeze artist imply that as a result, others want to have fun.  wit and walls and a ceiling can be seen imply that as a result, others feel to have fun. 
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and walls and a ceiling can be seen imply that as a result, others feel to have fun.
+prediction_x: The facts that in a chain link enclosed skate park a skateater goes over one of the obstacles. The facts that a young man wearing black jumps off a height while people clap and the man is a trapeze artist imply that as a result, others want to have fun.
+vinfo: 1062.986572265625
+-----------93-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three men dancing as a group of people watch. Hypothesis is three men are a dancer Update is The men are on a stage in front of an audience
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that three men dancing as a group of people watch and the men are on a stage in front of an audience imply that three men is seen as entertained.'sThe Tale of the TubThe Tale of the Dun CowThe Tale of the Two BrothersThe Tale of the Three CrowsThe Tale of the Fox and the GrapesThe Tale of the Cat and the MoonThe Tale The  .. .
+expl_opt: The facts that three men dancing as a group of people watch and the men are on a stage in front of an audience imply that three men is seen as entertained.
+prediction_x: The facts that three men dancing as a group of people watch and the men are on a stage in front of an audience imply that three men is seen as entertained.
+vinfo: 969.9947509765625
+-----------94-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skater is cold.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>based on the facts that in a chain link enclosed skate park a skater goes over one of each of the obstacles. wit and the skater is cold imply that as a result, a chain link feels to go home.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skater is cold imply that as a result, a chain link feels to go home.
+prediction_x: Based on the facts that in a chain link enclosed skate park a skater goes over one of each of the obstacles.
+vinfo: 1036.43701171875
+-----------95-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A youth skateboards by a mural of a griffin wielding a flaming sword. Hypothesis is A youth skateboards by a mural that has been vandalised. Update is The only painting there is the griffin and sword
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the only painting there is the griffin and sword imply that a youth skateboards is seen as artistic.-
+expl_opt: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the only painting there is the griffin and sword imply that a youth skateboards is seen as artistic.
+prediction_x: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the only painting there is the griffin and sword imply that a youth skateboards is seen as artistic.-
+vinfo: 1142.736572265625
+-----------96-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A youth skateboards by a mural of a griffin wielding a flaming sword. Hypothesis is A youth skateboards by a mural that has been vandalised. Update is The griffin is painted over something
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the griffin is painted over something imply that as a result,In the video,  a youth skateboards wants to paint the mural.
+expl_opt: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the griffin is painted over something imply that as a result, a youth skateboards wants to paint the mural.
+prediction_x: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the griffin is painted over something imply that as a result, the youth skateboards wants to paint the mural.
+vinfo: 1102.875244140625
+-----------97-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skater is cold.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and the skater is cold imply that as a result, a chain link feels to go home. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skater is cold imply that as a result, a chain link feels to go home.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1036.4366455078125
+-----------98-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A youth skateboards by a mural of a griffin wielding a flaming sword. Hypothesis is A youth skateboards by a mural that has been vandalised. Update is The mural is pristine.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Do the facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the mural is pristine imply that a youth skateboards then gets a tattoo of a griffin?
+expl_opt: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the mural is pristine imply that a youth skateboards then gets a tattoo.
+prediction_x: Do the facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the mural is pristine imply that a youth skateboards then gets a tattoo of a griffin?
+vinfo: 1076.3004150390625
+-----------99-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The boy is taking a bath.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the boy is taking a bath imply that as a result, the boy feels clean.  The facts that one boy sitting off to the side all alone and the boy is sitting at a desk imply that as a result, one boy wants to be alone. 
+expl_opt: The facts that a boy with no shirt is standing in water and the boy is taking a bath imply that as a result, the boy feels clean.
+prediction_x: The facts that a boy with no shirt is standing in water and the boy is taking a bath imply that as a result, the boy feels clean.
+vinfo: 903.56103515625
+-----------100-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is The men tell jokes and have fun.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the men tell jokes and have fun imply that as a result, others want to be entertained.  The facts that a large number of people are watching men dressed in kilts, one of whom has thrown a long pole and the people are drinking green beer imply that as a result, a large number of wants to have fun. 
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the men tell jokes and have fun imply that as a result, others want to be entertained.
+prediction_x: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and the men tell jokes and have fun imply that as a result, others want to be entertained.
+vinfo: 1076.279052734375
+-----------101-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The canoe is light and almost blinding.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that on a bright and sonny day a man in a white and blue canoe, a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is light and almost blinding imply that a man with then take a picture.
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is light and almost blinding imply that a man with then take a picture.
+prediction_x: The facts that on a bright and sonny day a man in a white and blue canoe, a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the canoe is light and almost blinding imply that a man with then take a picture.
+vinfo: 1262.314697265625
+-----------102-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Roof lights are shining.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a half pipe or a chain link enclosed skate park a skater goes over one of the obstacles. wit and roof lights are shining imply that as a result, a chain link wants to have fun.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and roof lights are shining imply that as a result, a chain link wants to have fun.
+prediction_x: The facts that in a half pipe or a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1023.1467895507812
+-----------103-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The male is 12 years old.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that a young male is running while playing person against another person and the male is 12 years old imply that a young female is seen as athletic.
+expl_opt: The facts that a young male is running while playing tennis against another person and the male is 12 years old imply that a young male is seen as athletic.
+prediction_x: The facts that a young male is running while playing person against another person and the male is 12 years old imply that a young female is seen as athletic.
+vinfo: 969.9949951171875
+-----------104-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Woman running in a park while listening to music. Hypothesis is A woman exercising for the day. Update is She is escaping from her abusive husband.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that woman running in a park while listening to music and she is escaping from her abusive husband imply that woman then have fun.  The facts that a woman is walking her dog along a snowy ground and the dog is walking around in circles and sniffing imply that a woman then gets sore feet. 
+expl_opt: The facts that woman running in a park while listening to music and she is escaping from her abusive husband imply that woman then have fun.
+prediction_x: The facts that woman running in a park while listening to music and she is escaping from her abusive husband imply that woman then have fun.
+vinfo: 956.7125244140625
+-----------105-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skater wore lots of sunblock.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and the skater wore lots of sunblock imply that as a result, the skater feels to be warm. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skater wore lots of sunblock imply that as a result, the skater feels to be warm.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1076.2991943359375
+-----------106-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two women are laughing and smiling while they eat a meal together. Hypothesis is Lilly and Sally were laughing while eating lunch. Update is It is dark outside.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that two women are laughing and smiling while they eat a meal together and it is dark outside stick that they is seen as happy.
+expl_opt: The facts that two women are laughing and smiling while they eat a meal together and it is dark outside imply that they is seen as happy.
+prediction_x: The facts that two women are laughing and smiling while they eat a meal together and it is dark outside stick that they is seen as happy.
+vinfo: 983.272705078125
+-----------107-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young boy in green shorts balances on a pipe above a river. Hypothesis is A clever person balancing. Update is The boy is thinking to himself how stupid he was to get into this situation.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he was to get into this situation imply that as a result,a young boy feels to have fun [MASK ED][MASKED][MASKED][MASKED][MASKED][MASKED][MASKED][MASKED]
+expl_opt: The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he was to get into this situation imply that as a result, a young boy feels to have fun.
+prediction_x: The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he was to get into this situation imply that as a result,a young boy feels to have fun
+vinfo: 1089.581787109375
+-----------108-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is On a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride Hypothesis is A man is about to take a ride in a white canoe. Update is The man is carrying a paddle.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The reason for the pun is that the facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the man is carrying a paddle imply that a man with then gets wet from paddling.
+expl_opt: The facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the man is carrying a paddle imply that a man with then gets wet from paddling.
+prediction_x: The reason for the pun is that the facts that on a bright and sonny day a man with blue trunks and white and blue shirt appears to be preparing to take a canoe ride and the man is carrying a paddle imply that a man with then gets wet from paddling.
+vinfo: 1249.035888671875
+-----------109-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The people watching are grinning.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>To me, the facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching are grinning imply that as a result, others want to have fun.
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching are grinning imply that as a result, others want to have fun.
+prediction_x: To me, the facts that several people are playing an intense game of paintball while others watch from the sidelines and the people watching are grinning imply that as a result, others want to have fun.
+vinfo: 1036.4312744140625
+-----------110-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Two men cooking, one stirring a pot while making a funny face while the other points at him. Hypothesis is Friends are preparing a meal. Update is One man is a host on a cooking show.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>"With all due respect, I don't think you can ignore the facts that there are two men cooking, one stirring a pot while making a funny face while the other points at him and one man is a host on a cooking show imply that as a result, two men wants to be entertained.
+expl_opt: The facts that two men cooking, one stirring a pot while making a funny face while the other points at him and one man is a host on a cooking show imply that as a result, two men wants to be entertained.
+prediction_x: With all due respect, I don't think you can ignore the facts that there are two men cooking, one stirring a pot while making a funny face while the other points at him and one man is a host on a cooking show imply that as a result, two men wants to be entertained.
+vinfo: 1102.8577880859375
+-----------111-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A youth skateboards by a mural of a griffin wielding a flaming sword. Hypothesis is A youth skateboards by a mural that has been vandalised. Update is The only painting there is the griffin and sword
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young man wearing a green shirt and a hat attempts a trick on a skateboard while riding it in a skate park next to a beach and he is in high school imply that as a result, a young man wearing and hat feels to have fun.  The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the only painting there is the griffin and sword imply that a youth skateboards is seen as artistic. 
+expl_opt: The facts that a youth skateboards by a mural of a griffin wielding a flaming sword and the only painting there is the griffin and sword imply that a youth skateboards is seen as artistic.
+prediction_x: The facts that a young man wearing a green shirt and a hat attempts a trick on a skateboard while riding it in a skate park next to a beach and he is in high school imply that as a result, a young man wearing and hat feels to have fun.
+vinfo: 1142.7386474609375
+-----------112-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The sun is visible.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. wit and the sun is visible imply that as a result, a chain link wants to go home. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the sun is visible imply that as a result, a chain link wants to go home.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1023.1473388671875
+-----------113-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Roof lights are shining.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.The wit and roof lights are shining imply that as a a result, a chain link wants to have fun.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and roof lights are shining imply that as a result, a chain link wants to have fun.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The wit and roof lights are shining imply that as a result, a chain link wants to have fun.
+vinfo: 1023.1502685546875
+-----------114-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The male is 40 years old.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that two young men in unusual clothing are jumping in a gym and the men are not talking to each other imply that as a result, two young men feels nervous.  The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a young male is seen as athletic. 
+expl_opt: The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a young male is seen as athletic.
+prediction_x: The facts that two young men in unusual clothing are jumping in a gym and the men are not talking to each other imply that as a result, two young men feels nervous.
+vinfo: 969.9927978515625
+-----------115-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young boy in green shorts balances on a pipe above a river. Hypothesis is A clever person balancing. Update is The boy is thinking to himself how stupid he was to get into this situation.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he is and how very stupid he was to get into this situation imply that as a result, a young boy feels to have fun.
+expl_opt: The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he was to get into this situation imply that as a result, a young boy feels to have fun.
+prediction_x: The facts that a young boy in green shorts balances on a pipe above a river and the boy is thinking to himself how stupid he is and how very stupid he was to get into this situation imply that as a result, a young boy feels to have fun.
+vinfo: 1089.58349609375
+-----------116-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is The street is very quiet.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that pedestrian walking on the street and the street is very quiet imply that as a result, pedestrian wants to go home.  The facts that the cyclist rides on a wooded path and it's getting dark and they want to get home imply that as a result, they wants to eat dinner. 
+expl_opt: The facts that pedestrian walking on the street and the street is very quiet imply that as a result, pedestrian wants to go home.
+prediction_x: The facts that pedestrian walking on the street and the street is very quiet imply that as a result, they wants to go home.
+vinfo: 876.9854125976562
+-----------117-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Woman running in a park while listening to music. Hypothesis is A woman exercising for the day. Update is The woman appears to be in very fit shape.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that some people are relaxing in front of a large red building and the people are spread out along and sparse imply that as a result, some people wants to have fun.  The facts that woman running in a park while listening to music and the woman appears to be in very fit shape imply that as a result, others want to have fun. 
+expl_opt: The facts that woman running in a park while listening to music and the woman appears to be in very fit shape imply that as a result, others want to have fun.
+prediction_x: The facts that woman running in a park while listening to music and the woman appears to be in very fit imply that as a result, some people wants to have fun.
+vinfo: 983.2869262695312
+-----------118-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The boy is standing in a lake.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that a boy with no person is standing in water and the boy is standing in a lake imply that as a result, a boy feels scared.
+expl_opt: The facts that a boy with no shirt is standing in water and the boy is standing in a lake imply that as a result, a boy feels scared.
+prediction_x: The facts that a boy with no person is standing in water and the boy is standing in a lake imply that as a result, a boy feels scared.
+vinfo: 916.8443603515625
+-----------119-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The water is in a bathtub.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the water is in a bathtub imply that as a result,Some people want to swim in the ocean. . others want to swim in the tub.
+expl_opt: The facts that a boy with no shirt is standing in water and the water is in a bathtub imply that as a result, others want to swim in the tub.
+prediction_x: The facts that a boy with no shirt is standing in water and the water is in a bathtub imply that as a result, some people want to swim in the ocean.
+vinfo: 916.844482421875
+-----------120-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is Walls and a ceiling can be seen.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.A wit and walls and a ceiling can be seen imply that as a result of his death. others feel to have fun.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and walls and a ceiling can be seen imply that as a result, others feel to have fun.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. A wit and walls and a ceiling can be seen imply that as a result of his death. Others feel to have fun.
+vinfo: 1063.005615234375
+-----------121-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The male is 40 years old.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a 40-year-old young male is seen as athletic.
+expl_opt: The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a young male is seen as athletic.
+prediction_x: The facts that a young male is running while playing tennis against another person and the male is 40 years old imply that a 40-year-old young male is seen as athletic.
+vinfo: 969.9942626953125
+-----------122-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is pedestrian walking on the street Hypothesis is A person crossing a busy street intersection. Update is Many cars pass by.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that pedestrian walking is the most common activity on the street and many cars pass by imply that as a result, pedestrian wants to keep walking.
+expl_opt: The facts that pedestrian walking on the street and many cars pass by imply that as a result, pedestrian wants to keep walking.
+prediction_x: The facts that pedestrian walking is the most common activity on the street and many cars pass by imply that as a result, pedestrian wants to keep walking.
+vinfo: 863.6939086914062
+-----------123-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The boy is in a bathtub in front of a wall.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the boy is in a bathtub in front of a wall imply that a boy then gets wet.  The facts that a child turning a crank with benches behind him and the child is opening up a table umbrella on the patio imply that the child then gets wet. 
+expl_opt: The facts that a boy with no shirt is standing in water and the boy is in a bathtub in front of a wall imply that a boy then gets wet.
+prediction_x: The facts that a boy with no shirt is standing in water and the boy is in a bathtub in front of a wall imply that a boy then gets wet.
+vinfo: 983.2857666015625
+-----------124-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skate park was once an indoor hockey rink until they remodeled it in to what it is today.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.  wit and the skate park was once an indoor hockey rink until they remodeled it in to what it is today imply that they is seen as a rink.  Ice rink is a type of rink. 
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skate park was once an indoor hockey rink until they remodeled it in to what it is today imply that they is seen as a rink.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.  Wit and the skate park were once an indoor hockey rink until they remodeled it in to what it is today imply that they are seen as a rink.
+vinfo: 1234.904296875
+-----------125-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is The young male is a child.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and the young male is a child imply that as a result, a young male wants to have fun.[email protected] […… [ 
+expl_opt: The facts that a young male is running while playing tennis against another person and the young male is a child imply that as a result, a young male wants to have fun.
+prediction_x: The facts that a young male is running while playing tennis against another person and the young male is a child imply that as a result, a young male wants to have fun.
+vinfo: 969.99853515625
+-----------126-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A young male is running while playing tennis against another person. Hypothesis is A man moves while playing a game Update is A man sits on a tennis court.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result of the running... others feel happy to play.
+expl_opt: The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result, others feel happy to play.
+prediction_x: The facts that a young male is running while playing tennis against another person and a man sits on a tennis court imply that as a result of the running... others feel happy to play.
+vinfo: 983.2867431640625
+-----------127-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The air conditioning went out, making the skater very hot.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that construction workers are standing upon on a wooden bridge and the workers get off immediately in case it breaks imply that construction workers then they go home.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the air conditioning went out, making the skater very hot imply that as a result, a chain link feels to take a shower.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that construction workers are standing upon a wooden bridge and the workers get off immediately in case it breaks imply that construction workers then they go home.
+vinfo: 1129.4478759765625
+-----------128-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The sun is shining down on the boy.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the sun is shining down on the boy imply that as a result, a boy wants to take a shower.-
+expl_opt: The facts that a boy with no shirt is standing in water and the sun is shining down on the boy imply that as a result, a boy wants to take a shower.
+prediction_x: The facts that a boy with no shirt is standing in water and the sun is shining down on the boy imply that as a result, a boy wants to take a shower.-
+vinfo: 930.1327514648438
+-----------129-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Three women talk to each other next to another woman sitting on a motorcycle. Hypothesis is A group of women went for a motorcycle ride. Update is The three women have the car windows rolled down.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that three women talk to each other next to another woman sitting on a motorcycle and the three women have the car windows rolled down imply that three women is seen as friendly and not a social faux pas.
+expl_opt: The facts that three women talk to each other next to another woman sitting on a motorcycle and the three women have the car windows rolled down imply that three women is seen as friendly.
+prediction_x: The facts that three women talk to each other next to another woman sitting on a motorcycle and the three women have the car windows rolled down imply that three women is seen as friendly and not a social faux pas.
+vinfo: 1089.575439453125
+-----------130-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is A boy with no shirt is standing in water. Hypothesis is He is outside. Update is The boy is in a bathtub in front of a wall.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that a boy with no shirt is standing in water and the boy with no shirt and pants is in a bathtub in front of a wall imply that a boy then gets wet.
+expl_opt: The facts that a boy with no shirt is standing in water and the boy is in a bathtub in front of a wall imply that a boy then gets wet.
+prediction_x: The facts that a boy with no shirt is standing in water and the boy with no shirt and pants is in a bathtub in front of a wall imply that a boy then gets wet.
+vinfo: 983.2870483398438
+-----------131-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is Several people are playing an intense game of paintball while others watch from the sidelines. Hypothesis is The people watching from the sidelines cheer. Update is The crowd is excited by the game.
+sample_out: The label is Strength
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd is excited by the game imply that as a result,But several people feels to have a fun time.
+expl_opt: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd is excited by the game imply that as a result, several people feels to have fun.
+prediction_x: The facts that several people are playing an intense game of paintball while others watch from the sidelines and the crowd is excited by the game imply that as a result, they feel to have a fun time.
+vinfo: 1063.0128173828125
+-----------132-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The skate park was once an indoor hockey rink until they remodeled it in to what it is today.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a opposite goes over one of the obstacles. wit and the skate park was once an indoor hockey rink until they remodeled it in to what it is today imply that they is seen as a rink.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the skate park was once an indoor hockey rink until they remodeled it in to what it is today imply that they is seen as a rink.
+prediction_x: The facts that in a chain link enclosed skate park a opposite goes over one of the obstacles. The facts that in a chain link enclosed skate park a opposite goes over one of the obstacles.
+vinfo: 1234.892578125
+-----------133-----------
+sample_in: This is a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>Premise is In a chain link enclosed skate park a skater goes over one of the obstacles.Wit. Hypothesis is The park is outside. Update is The air conditioning went out, making the skater very hot.
+sample_out: The label is Weak
+expl_ipt: Let's explain a premise, hypothesis, update, and a label about whether the update weakens or strengthens the entailment of the hypothesis by the premise.<|exp|>the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. the facts that in a chain link enclosed skate park a skater goes over one of the obstacles. making the skater very hot imply that as a result, a chain link feels to take a shower. wit and the air conditioning went out, the facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+expl_opt: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.wit and the air conditioning went out, making the skater very hot imply that as a result, a chain link feels to take a shower.
+prediction_x: The facts that in a chain link enclosed skate park a skater goes over one of the obstacles. The facts that in a chain link enclosed skate park a skater goes over one of the obstacles.
+vinfo: 1129.445068359375

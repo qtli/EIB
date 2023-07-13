@@ -1,0 +1,1342 @@
+-----------0-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is College students usually learn the same courses. Sentence 2 is College students can learn different courses.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>to make mistake is not good in study.  College students have different majors. 
+expl_opt: College students have different majors
+prediction_x: College students have different majors.  College students have different majors.  College students have different majors
+vinfo: 597.9442138671875
+-----------1-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is taking summer vacation caused lots of stress. Sentence 2 is taking final exams caused lots of stress.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>taking a vacation is very relaxing.  Eating is a real action. 
+expl_opt: taking a vacation is very relaxing
+prediction_x: taking a vacation is very relaxing.  Taking a vacation is very relaxing.
+vinfo: 611.2164306640625
+-----------2-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the horses water the cowboy everyday. Sentence 2 is a cowboy waters the horses everyday.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>You'd think a bunch of cowboys can drink water by themselves
+expl_opt: cowboys can drink water by themselves
+prediction_x: You'd think a bunch of cowboys can drink water by themselves    water is a kind of drink <|bos|> You'd think a bunch of cowboys can drink water by themselves
+vinfo: 584.650146484375
+-----------3-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is College students usually learn the same courses. Sentence 2 is College students can learn different courses.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>College students have different majors.  the bar is often too noisy for people to concentrate on preparing for exam. 
+expl_opt: College students have different majors
+prediction_x: College students have different majors
+The bar is often too noisy for people to concentrate on preparing for exam
+vinfo: 597.9429321289062
+-----------4-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is maggie told a joke to lighten the mood of the conversation. Sentence 2 is maggie remained quiet to lighten the mood of the conversation.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Spoon is used for eating and too small.  quietness is a sign of dull conversation. 
+expl_opt: quietness is a sign of dull conversation
+prediction_x: quietness is a sign of dull conversation.  quietness is a sign of dull conversation
+vinfo: 757.390625
+-----------5-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is designers show outdated clothes in a fashion show. Sentence 2 is designers show avant-garde clothes in a fashion show.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people go to the cinema for fun.  the fashion show is held to exhibit the latest achievements. 
+expl_opt: the fashion show is held to exhibit the latest achievements
+prediction_x: the fashion show is held to exhibit the latest achievements
+ <|bos|> the fashion show is held to exhibit the latest achievements
+vinfo: 690.9580078125
+-----------6-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I can take part in the soccer game in formal clothes. Sentence 2 is I can take part in the soccer game in athletic clothes.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>noodles are not for running.  formal clothes are not designed for sports at all. 
+expl_opt: formal clothes are not designed for sports at all
+prediction_x: noodles are not for running. Noodles are not for running
+vinfo: 717.5322265625
+-----------7-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Rats can't bite metal furniture. Sentence 2 is Rats can't bite wood furniture.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>rat's teeth are harder than wood.
+expl_opt: Rat's teeth are harder than wood
+prediction_x: rats' teeth are harder than wood
+The true sentence is Sentence 2 <|bos|> rats' teeth are harder than wood
+vinfo: 584.6519775390625
+-----------8-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is when you borrowed a car you can sell it to others. Sentence 2 is when you borrowed a car you can show it to others.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>I can't lose my car when I'm driving. you don't own the thing you borrowed.
+expl_opt: you don't own the thing you borrowed
+prediction_x: you don't own the thing you borrowed
+
+ <|bos|> you don't own the thing you borrowed
+vinfo: 717.5098876953125
+-----------9-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People can read newspapers to know what has happened recently. Sentence 2 is People can read newspapers to know what will happen in the future.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>It is impossible for human to reach the edge of the universe.  The future is unpredictable. 
+expl_opt: The future is unpredictable
+prediction_x: The future is unpredictable.  The future is unpredictable.  The future is unpredictable
+vinfo: 717.5308837890625
+-----------10-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the balloon expanded as he blew into it. Sentence 2 is the balloon expanded as he pricked it.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>if a balloon is pricked it will shrink immediatel I think this is a great idea and I am going to try it myself.
+expl_opt: if a balloon is pricked it will shrink immediately
+prediction_x: if a balloon is pricked it will shrink immediatel I think this is a great idea and I am going to try it myself
+vinfo: 637.7980346679688
+-----------11-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we can eat noodles with knives. Sentence 2 is we can eat noodles with forks.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>we can't access noddles from bows by knives conveniently. hats can't stop the infection.
+expl_opt: we can't access noddles from bows by knives conveniently
+prediction_x: we can't access noodles from forks conveniently. Hats can't stop the infection
+vinfo: 584.65576171875
+-----------12-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People can read newspapers to know what has happened recently. Sentence 2 is People can read newspapers to know what will happen in the future.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The future is uncertainThe future is uncertainThe future is uncertainThe future is uncertainThe future is uncertainThe future is uncertainThe future is uncertainThe future is uncertainThe future is uncertainThe future is uncertain unpredictable
+expl_opt: The future is unpredictable
+prediction_x: The future is uncertainThe future is uncertainThe future is uncertainThe future is uncertain
+vinfo: 717.5289916992188
+-----------13-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Sweat will be secreted when the sand touches eyes. Sentence 2 is Tears will be secreted when the sand touches eyes.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>there are no sweat glands in the facethere are no sweat glands in the eyes
+expl_opt: there are no sweat glands in the eyes
+prediction_x: there are no sweat glands in the eyes
+
+ <|bos|> there are no sweat glands in the eyes
+vinfo: 704.2401733398438
+-----------14-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the deaf man can't hear me yelling. Sentence 2 is the blind man can't hear me yelling.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>blind men can't see but they can hear the sound.
+expl_opt: blind men can't see but they can hear the sound
+prediction_x: blind men can't hear the sound.  deaf men can't hear the sound
+vinfo: 637.8024291992188
+-----------15-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is professional soccer players earn money by selling footballs. Sentence 2 is professional soccer players earn money by playing football games.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>football players kick footballs but don't sell them. Basketball has no edges.
+expl_opt: football players kick footballs but don't sell them
+prediction_x: football players kick footballs but don't sell them. Basketball has no edges
+vinfo: 664.3814086914062
+-----------16-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I stop eating salt food to lose weight. Sentence 2 is I stop eating sweet food to lose weight.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Eating more salt food has little to do with gaining weight
+expl_opt: salt food has little to do with gaining weight
+prediction_x: Eating more salt food has little to do with gaining weight
+ <|bos|> Eating more salt food has little to do with gaining weight
+vinfo: 637.8060913085938
+-----------17-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is The longest nonstop flight by a bird is eight days. Sentence 2 is The longest nonstop flight by a dog is eight days.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a dog can't fly. the human can't eat wood.
+expl_opt: a dog can't fly
+prediction_x: a dog can't fly. A dog can't fly.  A dog can't fly. <|bos|> a dog can't fly
+vinfo: 716.8048706054688
+-----------18-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is parents will praise children when kids did something well. Sentence 2 is children will praise parents when kids did something well.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>speaking to mother is a normal thing.  the person being praised should be the one who did the good thing. 
+expl_opt: the person being praised should be the one who did the good thing
+prediction_x: speaking to mother is a normal thing.  The person being praised should be the one who did the good thing
+vinfo: 664.3818359375
+-----------19-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Dry towels need to hang up to dry. Sentence 2 is Wet towels need to hang up to dry.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>you don't need to dry towels that are already dry.
+expl_opt: you don't need to dry towels that are already dry
+prediction_x: you don't need to dry towels that are already dry
+ <|bos|> you don't need to dry towels that are already dry
+vinfo: 637.8082275390625
+-----------20-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the filthy car needs to be washed. Sentence 2 is the filthy car needs to be painted.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>it's improper to paint on dust and stains.
+expl_opt: it's improper to paint on dust and stains
+prediction_x: it's improper to paint on dust and stains
+The dirty car needs to be painted <|bos|> it's improper to paint on dust and stains
+vinfo: 611.2265625
+-----------21-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we can eat noodles with knives. Sentence 2 is we can eat noodles with forks.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>we can't access noddles from bows by knives conveniently. tableware makes eating more convenient.
+expl_opt: we can't access noddles from bows by knives conveniently
+prediction_x: we can't access noodles from forks easily. tableware makes eating more convenient
+vinfo: 584.6513061523438
+-----------22-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is air leaked out of the beach ball because it had a picture on it. Sentence 2 is air leaked out of the beach ball because it had a hole on it.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Some people are allergic to peanuts.  a picture has nothing to do with air tightness in a ball. 
+expl_opt: a picture has nothing to do with air tightness in a ball
+prediction_x: Air tightness in a ball is a sign of tightness in a ball
+vinfo: 797.255126953125
+-----------23-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Frogs will die with enough water. Sentence 2 is Frogs will die without enough water.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>frogs can live given enough food and enough water
+expl_opt: frogs can live given enough water
+prediction_x: frogs can live given enough food and enough water
+ <|bos|> frogs can live given enough food and enough water
+vinfo: 611.2315063476562
+-----------24-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I should indulge myself when I fail. Sentence 2 is I should refresh myself when I fail.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>jpg)This image has been removed due to legal reasons. weakness is not good quality
+expl_opt: weakness is not good quality
+prediction_x: weakness is not good quality  weakness is not good quality  weakness is not good quality
+vinfo: 610.731201171875
+-----------25-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People usually enter the park from the entrance. Sentence 2 is People usually enter the park from the fence.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The law is for keeping from people doing something. People shouldn't go through the fence.
+expl_opt: People shouldn't go through the fence
+prediction_x: People shouldn't go through the fence. People shouldn't go through the fence <|bos|> People shouldn't go through the fence
+vinfo: 637.8035278320312
+-----------26-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Shoes are meant to protect feet. Sentence 2 is Shoes are meant to protect hands.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>you wear shoes on your feetyou use your feet instead of your hands
+expl_opt: you wear shoes on your feet instead of your hands
+prediction_x: you wear shoes on your feet instead of your hands
+ <|bos|> you wear shoes on your feet instead of your hands
+vinfo: 584.5992431640625
+-----------27-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Kate made books with a microwave oven. Sentence 2 is Kate made popcorn with a microwave oven.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>microwave ovens are used to heat and cook food
+expl_opt: microwave ovens are used to heat food
+prediction_x: microwave ovens are used to heat and cook food
+  microwave ovens are used to heat and cook food
+vinfo: 611.2315063476562
+-----------28-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is dina visited her family because she distrusted them. Sentence 2 is dina visited her family because she missed them.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people don't visit those they distrust. a meeting doesn't hold in water. people don't visit those they distrust
+expl_opt: people don't visit those they distrust
+prediction_x: people don't visit those they distrust
+People don't visit those they distrust
+vinfo: 690.8280029296875
+-----------29-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is julia pressed down on a piano key to play a music. Sentence 2 is julia pressed down on a piano key to make a sound.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>music is usually composed of several different sounds.  Dancing can make people tired. 
+expl_opt: music is usually composed of several different sounds
+prediction_x: music is usually composed of several different sounds.  Dancing can make people tired
+vinfo: 744.1064453125
+-----------30-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People usually put curtains on the windows. Sentence 2 is People usually put curtains on the walls.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The sectional area of the walls is greater than that of the roof, and the sectional area of the roof is greater than that of the walls. walls  are usually opaqu
+expl_opt: Walls are usually opaque
+prediction_x: wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaqu wall is usually opaq
+vinfo: 611.2298583984375
+-----------31-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Sheep usually like wolves. Sentence 2 is Sheep usually hate wolves.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Wolves eat shee plikeWolves eat sheeplikeWolves eat sheeplikeWolves eat sheeplikeWolves eat sheeplikeWolves eat sheeplikeWolves eat sheeplike
+expl_opt: Wolves eat sheep
+prediction_x: Wolves eat sheeplikeWolves eat sheeplikeWolves eat sheeplike
+vinfo: 531.5042724609375
+-----------32-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is vehicles travelled slowly in cloudy days. Sentence 2 is vehicles travelled slowly in foggy days.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the moon just reflect the light of the sun.  vehicles have lights for cloudy days. 
+expl_opt: vehicles have lights for cloudy days
+prediction_x: vehicles have lights for cloudy days
+ <|bos|> vehicles have lights for cloudy days
+vinfo: 597.920654296875
+-----------33-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we grow Christmas trees in December every year. Sentence 2 is we buy Christmas trees in December every year.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Christmas trees are artificial products.  sugar will corrode teeth. 
+expl_opt: Christmas trees are artificial products
+prediction_x: Christmas trees are artificial products. Christmas trees are artificial products.  Sugar will corrode teeth
+vinfo: 637.8052978515625
+-----------34-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the players will buy a cup of beer before the basketball game begins. Sentence 2 is the audience will buy a cup of beer before the basketball game begins.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Bob cannot work efficiently when sleepy.  drinking before the game will make the player performs worse. 
+expl_opt: drinking before the game will make the player performs worse
+prediction_x: Bob cannot work efficiently when sleepy. Drinking before the game will make the player perform worse
+vinfo: 770.6806640625
+-----------35-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People should rub water on their skin before giving an injection. Sentence 2 is People should rub ethyl alcohol on their skin before giving an injection.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>See also DisinfectionReferencesExternal links Category:Water disinfectionCategory:Water safetyCategory:Water pollutionCategory:Water qualityCategory:Water treatmentCategory:Water chemistryCategory:Water quality water water water water water water water water water  disinfect disinfect disinfect disinfects-water-water-waterwaterwaterwaterwaterwaterwaterwaterwaterwaterwater water cannot disinfect the skin
+expl_opt: water cannot disinfect the skin
+prediction_x: Water cannot disinfect the skin.  disinfect means to remove or reduce the amount of something.
+vinfo: 744.1073608398438
+-----------36-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is going to the zoo is for being seen. Sentence 2 is going to the zoo is for seeing animals.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>sharks may eat humans. zoo visitors' attention is all on the animals.
+expl_opt: zoo visitors' attention is all on the animals
+prediction_x: Zoo visitors' attention is all on the animals.  Zoo visitors' attention is all on the animals
+vinfo: 637.8074951171875
+-----------37-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Kate made books with a microwave oven. Sentence 2 is Kate made popcorn with a microwave oven.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>water cups are used to retain liquids.  microwave ovens are used to heat food. 
+expl_opt: microwave ovens are used to heat food
+prediction_x: Microwave ovens are used to heat food
+The microwave ovens are used to heat food
+vinfo: 611.2329711914062
+-----------38-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is couples would divorce if they believed each other. Sentence 2 is couples would divorce if they betrayed each other.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>couples believed each other would continue to have a child if they continued to live together
+expl_opt: couples believed each other would continue to live together
+prediction_x: couples believed each other would continue to have a child if they continued to live together
+vinfo: 637.8037719726562
+-----------39-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is if you fail the exam you should cheat next time. Sentence 2 is if you fail the exam you should study harder for next time.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>formal clothes are not designed for sports at all.  cheating is bad and prohibited. 
+expl_opt: cheating is bad and prohibited
+prediction_x: cheating is bad and prohibited
+Cheating is bad and prohibited
+Cheating is bad and prohibited
+vinfo: 717.5304565429688
+-----------40-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Bob sang a picture yesterday. Sentence 2 is Bob painted a picture yesterday.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>you can catch a fish without singing.  only songs can be sung. 
+expl_opt: only songs can be sung
+prediction_x: only songs can be sung.  Only songs can be sung.  Only songs can be sung
+vinfo: 558.0781860351562
+-----------41-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is when a relative dies, we held a funeral for him. Sentence 2 is when a relative dies, we held a party for him.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>A party is held to celebrate happy things
+expl_opt: party is held to celebrate happy things
+prediction_x: a party is held to celebrate happy things
+ <|bos|> a party is held to celebrate happy things
+vinfo: 717.5302734375
+-----------42-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Dry towels need to hang up to dry. Sentence 2 is Wet towels need to hang up to dry.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>plastic can't suck water. you don't need to dry towels that are already dry.
+expl_opt: you don't need to dry towels that are already dry
+prediction_x: you don't need to dry towels that are already dry
+The true sentence is Sentence 1 <|exp|> plastic can't suck water
+vinfo: 637.8082885742188
+-----------43-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is He caught a cold and had a hot shower. Sentence 2 is He caught a cold and had a cold shower.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>having a cold shower will worsen the col itis.
+expl_opt: having a cold shower will worsen the cold
+prediction_x: having a cold shower will worsen the col itis.  having a cold shower will worsen the col itis <|bos|> having a cold shower will worsen the col itis
+vinfo: 664.38037109375
+-----------44-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the young man offered his seat to the old lady on the bus. Sentence 2 is the driver offered his seat to the old lady on the bus.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>drivers need to sit in their seat to drive the bus, passengers need to sit in the seats to ride the bus
+expl_opt: drivers need to sit in their seat to drive the bus
+prediction_x: drivers need to sit in their seats to ride the bus, passengers need to sit in the seats to ride the bus
+vinfo: 757.3941650390625
+-----------45-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I should indulge myself when I fail. Sentence 2 is I should refresh myself when I fail.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>1)ConclusionThis weakness is not good quality
+expl_opt: weakness is not good quality
+prediction_x: Failure is not good quality Failure is not good quality <|bos|> Failure is not good quality
+vinfo: 611.068603515625
+-----------46-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my jaw dropped open when I was shocked. Sentence 2 is my jaw dropped open when I was unhappy.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>an unhappy person usually keeps his lips closed tightly.  Diseases usually make people uncomfortable. 
+expl_opt: an unhappy person usually keeps his lips closed tightly
+prediction_x: an unhappy person usually keeps his lips closed tight.  Diseases usually make people uncomfortable
+vinfo: 637.7991943359375
+-----------47-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I had plastic surgery in the hospital. Sentence 2 is I had plastic surgery in the pharmacy.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>most people don't have big enough houses to drive a car. the pharmacy doesn't have equipment to do surgery. the pharmacy doesn't have equipment to do surgery
+expl_opt: the pharmacy doesn't have equipment to do surgery
+prediction_x: the pharmacy doesn't have equipment to do surgery
+ <|bos|> the pharmacy doesn't have equipment to do surgery
+vinfo: 611.231201171875
+-----------48-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People can make wires from metal. Sentence 2 is People can make wires from plastics.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>baskets have many gaps and can't hold liquid.  Plastics cannot conduct electricity. 
+expl_opt: Plastics cannot conduct electricity
+prediction_x: Plastics cannot conduct electricity
+ <|bos|> Plastics cannot conduct electricity
+
+ <|bos|> Plastics cannot conduct electricity
+vinfo: 584.655517578125
+-----------49-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Marry lit up firewoods to make a campfire. Sentence 2 is Marry lit up rocks to make a campfire.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the water will make people wet while taking a shower.  rocks will not burn. 
+expl_opt: rocks will not burn
+prediction_x: rock will not burn
+The true sentence is Sentence 2 <|bos|> the water will make people wet while taking a shower
+vinfo: 704.2206420898438
+-----------50-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is sun bathing removes dirt from the body. Sentence 2 is water bathing removes dirt from the body.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>sun bathing can't make things cleaner. brushing your teeth can make your teeth cleaner.
+expl_opt: sun bathing can't make things cleaner
+prediction_x: sun bathing can't make things cleaner
+  sun bathing can't make things cleaner
+vinfo: 611.226318359375
+-----------51-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I can take part in the soccer game in formal clothes. Sentence 2 is I can take part in the soccer game in athletic clothes.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>formal clothes are not designed for sports at all.  wearing oversize clothes makes people uncomfortable. 
+expl_opt: formal clothes are not designed for sports at all
+prediction_x: formal clothes are not designed for sports at all
+ <|bos|> formal clothes are not designed for sports at all
+vinfo: 717.5339965820312
+-----------52-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Sheep usually like wolves. Sentence 2 is Sheep usually hate wolves.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Wolves eat shee plike thingsIf you've ever wondered what a wolf looks like, here's a close-up of a wolf's tongue.
+expl_opt: Wolves eat sheep
+prediction_x: Wolves eat shee plike thingsIf you've ever wondered what a wolf looks like, here's a close-up of a wolf's tongue
+vinfo: 531.503662109375
+-----------53-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Bob is cooking while eating dinner. Sentence 2 is Bob is chewing while eating dinner.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people usually cannot cook and eat at the same tim ings.No comments:Post a CommentFollow by EmailAbout MeI am a stay at home mom, wife, daughter, sister, friend, co-worker, and daughter in law. I love to to to to to to to to to to to to
+expl_opt: people usually cannot cook and eat at the same time
+prediction_x: people usually cannot cook and eat at the same timings. No comment:Post a CommentFollow by EmailAbout MeI am a stay at home mom, wife, daughter, sister, co-worker, and daughter in law
+vinfo: 584.6551513671875
+-----------54-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we can travel on the sea by boat. Sentence 2 is we can travel on the sea by train.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the train can't float on water
+expl_opt: the train can't float on water
+prediction_x: the train can't float on water <|bos|> the train can't float on water
+vinfo: 637.8068237304688
+-----------55-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is A rat can survive a fall from a five-floor building. Sentence 2 is A person can survive a fall from a five-floor building.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a human will not survive such a fall without any protection.  a gym is too heavy for humans to lift. 
+expl_opt: a human will not survive such a fall without any protection
+prediction_x: a human will not survive such a fall without any protection
+The true sentence is Sentence 2 <|exp|> a human will not survive such a fall without any protection
+vinfo: 744.0721435546875
+-----------56-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is you can use ink to write things. Sentence 2 is you can use a link to write things.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>link is not a material object and can't be touched. A car can't move forward without wheels.
+expl_opt: link is not a material object and can't be touched
+prediction_x: link is not a material object and can't be touched
+The link is not a material object and can't be touched <|bos|> link is not a material object and can't be touched
+vinfo: 624.5135498046875
+-----------57-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Running is a good exercise. Sentence 2 is Resting is a good exercise.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>resting is not a kind of exercise.  working without rest is tiring. 
+expl_opt: resting is not a kind of exercise
+prediction_x: working without rest is tiring.  working without rest is tiring.
+vinfo: 571.362548828125
+-----------58-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People can talk chat with living people. Sentence 2 is People can chat with the dead.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>dead people can't hear and talk
+expl_opt: Dead people can't hear and talk
+prediction_x: dead people can't hear and talk dead people can't talk dead people can't talk dead <|bos|> dead people can't talk dead
+vinfo: 597.9445190429688
+-----------59-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is you can use money to buy some products to live longer. Sentence 2 is you can use money to buy some health to live longer.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>health can't be bought. doing homework can't make you healthier. health can't be bought
+expl_opt: health can't be bought
+prediction_x: health can't be bought  health can't be bought  health can't be bought
+vinfo: 717.5333251953125
+-----------60-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is most people consider it to be cold when it is below zero degrees. Sentence 2 is most people consider it to be cold when it is above ninety degrees.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>it's very hot when it is above ninety degrees.
+expl_opt: it's very hot when it is above ninety degrees
+prediction_x: it's very hot when it is above ninety degrees
+The true sentence is Sentence 2 <|exp|> it's very hot when it is above ninety degrees
+vinfo: 770.6834716796875
+-----------61-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Kate made books with a microwave oven. Sentence 2 is Kate made popcorn with a microwave oven.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>microwave ovens are used to heat and cook food
+expl_opt: microwave ovens are used to heat food
+prediction_x: microwave ovens are used to heat and cook food
+
+ <|bos|> microwave ovens are used to heat and cook food
+vinfo: 611.2255249023438
+-----------62-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Cookies and milk make a great dessert. Sentence 2 is Computers and milk make a great dessert.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Do not eat breakfast will make people malnutrition.  computers are not desserts. 
+expl_opt: computers are not desserts
+prediction_x: Computers are not desserts
+ <|bos|> Computers are not desserts
+
+ <|bos|> Computers are not desserts
+vinfo: 624.518310546875
+-----------63-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People open their doors when they go out of the home. Sentence 2 is People close their doors when they go out of the home.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Rude neighbors can disrupt your life.  things in an opening house are easy to be stolen. 
+expl_opt: things in an opening house are easy to be stolen
+prediction_x: Rude neighbors can disrupt your life
+The true sentence is Sentence 1 <|bos|> Rude neighbors can disrupt your life
+vinfo: 717.505859375
+-----------64-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is passengers need to undergo a rigorous safety check before boarding the plane. Sentence 2 is passengers need to undergo a rigorous safety check before taking a taxi.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>A safety check before taking a taxi is meaningles 
+expl_opt: safety check before taking a taxi is meaningless
+prediction_x: Safety checks before taking a taxi is not <|bos|> Safety checks before taking a taxi is not a taxi
+vinfo: 744.0673828125
+-----------65-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I stop eating salt food to lose weight. Sentence 2 is I stop eating sweet food to lose weight.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>eating too much can't help you lose weight.  salt food has little to do with gaining weight. 
+expl_opt: salt food has little to do with gaining weight
+prediction_x: eating too much can't help you lose weight.  salt food has little to do with gaining weight
+vinfo: 637.80615234375
+-----------66-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Programmers usually don't use computers. Sentence 2 is Programmers often use computers.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Programmers need computers to programme.  Software development requires machine support and human resources. 
+expl_opt: Programmers need computers to programme
+prediction_x: Software development requires machine support and human resources
+ <|bos|> Software development requires machine support and human resources
+vinfo: 584.6342163085938
+-----------67-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my jaw dropped open when I was shocked. Sentence 2 is my jaw dropped open when I was unhappy.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>an unhappy person usually keeps his lips closed tightly.  people usually enjoy eating nice food. 
+expl_opt: an unhappy person usually keeps his lips closed tightly
+prediction_x: an unhappy person usually keeps his lips closed tight.  People usually enjoy eating nice food
+vinfo: 635.4518432617188
+-----------68-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is fortunately the fat man lost weight by working hard. Sentence 2 is fortunately the fat man lost fingers by working hard.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>losing fingers is not a fortunate thin ning of the book."The book is available for pre-order now.The book will be released on October 1st, 2017.You can pre-order the book here.You can pre-order the audiobook here.
+expl_opt: losing fingers is not a fortunate thing
+prediction_x: Losing fingers is not a fortunate thin Ning of the book.  You can pre-order the book here
+vinfo: 664.269775390625
+-----------69-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is The longest nonstop flight by a bird is eight days. Sentence 2 is The longest nonstop flight by a dog is eight days.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a dog can't fly
+expl_opt: a dog can't fly
+prediction_x: a dog can't fly  a dog can't fly <|bos|> a dog can't fly
+vinfo: 717.4842529296875
+-----------70-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Bob sang a picture yesterday. Sentence 2 is Bob painted a picture yesterday.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>only songs can be sung.  a stone cannot be used for heating. 
+expl_opt: only songs can be sung
+prediction_x: a stone cannot be used for heating
+ <|bos|> a stone cannot be used for heating
+vinfo: 558.0794067382812
+-----------71-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the conversation gradually lulled to silence as more people left. Sentence 2 is the conversation gradually lulled to silence as more people joined.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a conversation is usually more active with more people.  an older version of computer hardware is usually less efficient. 
+expl_opt: a conversation is usually more active with more people
+prediction_x: an older version of computer hardware is usually less efficient.  An older version of computer hardware is usually less efficient
+vinfo: 715.9403076171875
+-----------72-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I want to find a quiet place to have a sleep. Sentence 2 is I want to find a noisy place to have a sleep.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>it's difficult to fall asleep in a noisy place. normally,
+expl_opt: it's difficult to fall asleep in a noisy place
+prediction_x: it's difficult to fall asleep in a noisy place. normally, it's noisy
+vinfo: 717.5322875976562
+-----------73-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the filthy car needs to be washed. Sentence 2 is the filthy car needs to be painted.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>it's improper to paint on dust and stains.
+expl_opt: it's improper to paint on dust and stains
+prediction_x: it's improper to paint on dust and stains
+ <|bos|> it's improper to paint on dust and stains
+vinfo: 611.220947265625
+-----------74-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Kate made books with a microwave oven. Sentence 2 is Kate made popcorn with a microwave oven.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>hamburgers are not healthy.  microwave ovens are used to heat food. 
+expl_opt: microwave ovens are used to heat food
+prediction_x: a microwave oven is used to heat food
+ <|bos|> a microwave oven is used to heat food
+vinfo: 611.2291259765625
+-----------75-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my friend paid for my ticket so I got on the bus. Sentence 2 is my friend paid for my ticket so I didn't get on the bus.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a bus ticket is used to take a bus no matter who buys i Commentscomments
+expl_opt: a ticket is used to take a bus no matter who buys it
+prediction_x: a bus ticket is used to take a bus no matter who buys i Commentscomments
+vinfo: 770.4494018554688
+-----------76-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is passengers need to undergo a rigorous safety check before boarding the plane. Sentence 2 is passengers need to undergo a rigorous safety check before taking a taxi.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>driving doesn't require drivers to balance themselves.  safety check before taking a taxi is meaningless. 
+expl_opt: safety check before taking a taxi is meaningless
+prediction_x: safety check before taking a taxi is meaningless.  safety check before taking a taxi is meaningless
+vinfo: 744.0674438476562
+-----------77-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is She goes skiing while watching TV. Sentence 2 is She eats snacks while watching TV.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Also, people usually cannot ski and watch tv at the same tim . CommentscommentsRelated Posts:
+expl_opt: people usually cannot ski and watch TV at the same time
+prediction_x: People usually cannot ski and watch tv at the same tim.  People usually cannot ski and watch tv at the same time.
+vinfo: 584.6542358398438
+-----------78-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People usually roast meat with cold water. Sentence 2 is People usually roast meat over fire.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>People need to cook meat at a high temperature to roast meat
+expl_opt: People need high temperature to roast meat
+prediction_x: People need to cook meat at a high temperature to roast meat
+ <|bos|> People need to cook meat at a high temperature to roast meat
+vinfo: 597.9310302734375
+-----------79-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the boy lost hold of the soap because it's fragrant. Sentence 2 is the boy lost hold of the soap because it's slippery.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>His ability to hold the soap relies on the texture of his hand and the soap
+expl_opt: to hold the soap relies on the texture of his hand and the soap
+prediction_x: His ability to hold the soap relies on the texture of his hand and the soap
+vinfo: 730.8199462890625
+-----------80-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I bought a pan for drinking fresh juice. Sentence 2 is I bought a juicer for drinking fresh juice.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the pan can't squeeze the juice contained in the fruit. humans can't eat iron.
+expl_opt: the pan can't squeeze the juice contained in the fruit
+prediction_x: the pan can't squeeze the juice contained in the fruit
+The true sentence is Sentence 1 <|bos|> the pan can't squeeze the juice contained in the fruit
+vinfo: 651.095458984375
+-----------81-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People usually enter the park from the entrance. Sentence 2 is People usually enter the park from the fence.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>we can't drink other people's breath. People shouldn't go through the fence.
+expl_opt: People shouldn't go through the fence
+prediction_x: People shouldn't go through the fence. People shouldn't go through the fence
+vinfo: 637.7387084960938
+-----------82-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the clothes are still dirty because I forgot to add laundry water. Sentence 2 is the clothes are still dirty because I forgot to add laundry detergent.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>clothes are used to keep people warm. the clothes can't be washed without water. the clothes can't be washed without water
+expl_opt: the clothes can't be washed without water
+prediction_x: clothes are used to keep people warm. clothes can't be washed without water
+vinfo: 757.3955078125
+-----------83-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People open their doors when they go out of the home. Sentence 2 is People close their doors when they go out of the home.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>things in an opening house are easy to be stolen.  a security guard won't let anyone who's behaving strangely pass easily. 
+expl_opt: things in an opening house are easy to be stolen
+prediction_x: a security guard won't let anyone who's behaving strangely pass easily
+ <|bos|> a security guard won't let anyone who's behaving strangely pass easily
+vinfo: 717.527587890625
+-----------84-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Bob is cooking while eating dinner. Sentence 2 is Bob is chewing while eating dinner.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people usually cannot cook and eat a meal at the same time
+expl_opt: people usually cannot cook and eat at the same time
+prediction_x: people usually cannot cook and eat a meal at the same time  people usually cannot cook and eat a meal at the same time
+vinfo: 584.6549682617188
+-----------85-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is sprinters' legs are usually strong. Sentence 2 is sprinters' arms are usually strong.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>what is used in the sprint are the legs instead of arms
+expl_opt: what is used in the sprint are legs instead of arms
+prediction_x: what is used in the sprint are the legs instead of arms
+ <|bos|> what is used in the sprint are the legs instead of arms
+vinfo: 611.2230224609375
+-----------86-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Rats can't bite metal furniture. Sentence 2 is Rats can't bite wood furniture.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>rat's teeth are harder than wood.
+expl_opt: Rat's teeth are harder than wood
+prediction_x: rats' teeth are harder than wood
+ <|bos|> rats' teeth are harder than wood
+vinfo: 584.6167602539062
+-----------87-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People open their doors when they go out of the home. Sentence 2 is People close their doors when they go out of the home.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>things in an opening house are easy to be stolen.  mountains are much more higher than cupboards. 
+expl_opt: things in an opening house are easy to be stolen
+prediction_x: things in an opening house are easy to be stolen.  mountains are much more high than cupboards
+vinfo: 717.519775390625
+-----------88-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I'm waiting for a clear night to observe stars. Sentence 2 is I'm waiting for a cloudy night to observe stars.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The equatorial areas is the hottest place on earth.  clouds will block the sight of observation of the stars. 
+expl_opt: clouds will block the sight of observation of the stars
+prediction_x: Clouds will block the sight of observation of the stars
+The sun is the closest star to the earth
+vinfo: 690.9488525390625
+-----------89-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the alarm ringing announced that the class was over. Sentence 2 is the bell ringing announced that the class was over.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The radio can't connect to the Internet.  the alarm ringing announces emergency. 
+expl_opt: the alarm ringing announces emergency
+prediction_x: The alarm ringing announces emergency
+The alarm ringing announces emergency
+ <|bos|> The alarm ringing announces emergency
+vinfo: 664.3836059570312
+-----------90-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we use the microscope to learn about the microcosm. Sentence 2 is we use the microscope to learn about the universe.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the microscope is used to look at the inside of a cellthe microscope is used to magnify tiny things
+expl_opt: the microscope is used to magnify tiny things
+prediction_x: the microscope is used to magnify tiny things
+ <|bos|> the microscope is used to magnify tiny things
+vinfo: 690.9554443359375
+-----------91-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is A rat can survive a fall from a five-floor building. Sentence 2 is A person can survive a fall from a five-floor building.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a human will not survive such a fall without any protectio AdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisement
+expl_opt: a human will not survive such a fall without any protection
+prediction_x: a human will not survive such a fall without any protectio AdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisementAdvertisement
+vinfo: 744.0272216796875
+-----------92-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is animals are pets. Sentence 2 is pets are animals.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>many animals haven't been tamed
+expl_opt: many animals haven't been tamed
+prediction_x: many animals haven't been tamed  animals haven't been tamed  animals haven't been tamed <|bos|> many animals haven't been tamed
+vinfo: 504.8821716308594
+-----------93-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is a hammer dropped on Bill's foot and his toe was broken. Sentence 2 is a hammer dropped on Bill's foot and his finger was broken.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Fire will burn people's hands.  a finger is a limb of a human hand. 
+expl_opt: a finger is a limb of a human hand
+prediction_x: a hammer is a limb of a human hand
+The true sentence is Sentence 2 <|exp|> a hammer is a limb of a human hand
+vinfo: 743.849365234375
+-----------94-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Shoes are meant to protect feet. Sentence 2 is Shoes are meant to protect hands.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>you wear your shoes on your feet instead of your hands
+expl_opt: you wear shoes on your feet instead of your hands
+prediction_x: you wear your shoes on your feet instead of your hands
+ <|bos|> you wear your shoes on your feet instead of your hands
+vinfo: 584.6273193359375
+-----------95-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Barry went under an umbrella to stay dry on a rainy day. Sentence 2 is Barry went under an umbrella to stay wet on a rainy day.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>an umbrella will keep you dry in the rai If you have any questions, please feel free to contact us.
+expl_opt: an umbrella will keep you dry in the rain
+prediction_x: an umbrella will keep you dry in the rai If you have any questions, please feel free to contact us
+vinfo: 744.1006469726562
+-----------96-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is dina visited her family because she distrusted them. Sentence 2 is dina visited her family because she missed them.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people don't visit those they distrust
+expl_opt: people don't visit those they distrust
+prediction_x: people don't visit those they distrust people don't visit people don't visit <|bos|> people don't visit those they distrust
+vinfo: 690.9421997070312
+-----------97-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Wang is eating with poles. Sentence 2 is Wang is eating with chopsticks.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>slippers are too informal for weddings.  poles are too long to be used as a tableware. 
+expl_opt: poles are too long to be used as a tableware
+prediction_x: poles are too long to be used as a tableware
+The pole is too long to be used as a tableware
+vinfo: 571.3670654296875
+-----------98-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my father sold the best products to become the best salesman. Sentence 2 is my father sold the best salesmen to become the best product.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>humans can't be sold. human can't eat stones.
+expl_opt: humans can't be sold
+prediction_x: human can't eat stones
+The true sentence is Sentence 2 <|bos|> humans can't be sold
+vinfo: 730.8175659179688
+-----------99-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we can travel on the sea by boat. Sentence 2 is we can travel on the sea by train.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the train can't float on water. it's meaningless to water the plants when they are already dead.
+expl_opt: the train can't float on water
+prediction_x: the train can't float on water
+The true sentence is Sentence 2 <|exp|> the train can't float on water
+vinfo: 637.8054809570312
+-----------100-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Wang is eating with poles. Sentence 2 is Wang is eating with chopsticks.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>poles are too long to be used as a tableware.  short sleeves have poor protection. 
+expl_opt: poles are too long to be used as a tableware
+prediction_x: poles are too long to be used as a tableware.  short sleeves have poor protection
+vinfo: 571.3653564453125
+-----------101-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I bought a ticket for the train I took. Sentence 2 is I bought a ticket for the taxi I took.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>taking a taxi doesn't require tickets
+expl_opt: taking a taxi doesn't require tickets
+prediction_x: taking a taxi doesn't require tickets
+ <|bos|> taking a taxi doesn't require tickets
+vinfo: 664.3721923828125
+-----------102-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People can talk chat with living people. Sentence 2 is People can chat with the dead.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>dead people can't hear and talk
+expl_opt: Dead people can't hear and talk
+prediction_x: dead people can't hear and talk
+ <|bos|> dead people can't hear and talk
+vinfo: 597.942138671875
+-----------103-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my friend paid for my ticket so I got on the bus. Sentence 2 is my friend paid for my ticket so I didn't get on the bus.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a ticket is used to take a bus no matter who or what buys i have a ticket for a bus
+expl_opt: a ticket is used to take a bus no matter who buys it
+prediction_x: a ticket is used to take a bus no matter who or what buys i have a ticket for a bus
+vinfo: 770.593994140625
+-----------104-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is birds' milk is nutrient. Sentence 2 is goats' milk is nutrient.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>See alsoList of birds of the United StatesReferencesExternal links   *Category:Taxonomy articles created by PolbotCategory:Birds of the United StatesCategory:Birds birds are not mammals
+expl_opt: birds are not mammals
+prediction_x: Birds are not mammals are not mammals are not mammals are not mammals are not mammals are not mammals are not mammals are not mammals are not mammals <|bos|> Birds are not mammals are not mammals are not mammals
+vinfo: 558.0570678710938
+-----------105-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we built a factory to produce creative ideas. Sentence 2 is we built a factory to produce creative goods.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The good ideas can only come out from your mind
+expl_opt: good ideas can only come out from your mind
+prediction_x: the good ideas can only come out from your mind
+ <|bos|> the good ideas can only come out from your mind
+vinfo: 637.806640625
+-----------106-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the clouds were getting darker so I brought my umbrella to work. Sentence 2 is the clouds were getting darker so I brought my laptop to work.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>darker clouds is a forecast of rain.  when umbrellas are folded they don't provide shelter from the rain. 
+expl_opt: darker clouds is a forecast of rain
+prediction_x: darker clouds is a forecast of rain.  When umbrellas are folded they don't provide shelter from the rain
+vinfo: 744.0425415039062
+-----------107-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Eating a lot of instant noodles is healthy. Sentence 2 is Eating a lot of instant noodles is unhealthy.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>instant noodles are junk foo dooi'm so sorryyou're not aloneyou're not aloneyou're not aloneyou're not aloneyou're not aloneyou're not aloneyou're not aloneyou're noti............
+expl_opt: instant noodles are junk food
+prediction_x: instant noodles are junk foo dooi'm so sorryyou're not aloneyou're not aloneyou're not aloneyou're not
+vinfo: 637.8076782226562
+-----------108-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I bought a ticket for the train I took. Sentence 2 is I bought a ticket for the taxi I took.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>taking a taxi doesn't require tickets
+expl_opt: taking a taxi doesn't require tickets
+prediction_x: taking a taxi doesn't require tickets  <|bos|> taking a taxi doesn't require tickets
+vinfo: 664.3311157226562
+-----------109-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is a bed can rest a pillow. Sentence 2 is a bed can rest a person.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a dog isn't good at cleaning an apartment. pillows don't have lives and can't feel rest. pillows don't have lives and can't feel rest
+expl_opt: pillows don't have lives and can't feel rest
+prediction_x: pillows don't have lives and can't feel rest
+
+ <|bos|> pillows don't have lives and can't feel rest
+vinfo: 584.6575927734375
+-----------110-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Humans smell through their ears. Sentence 2 is Humans smell through their noses.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a broom cannot be used to brush teeth.  ears are for listening instead of smelling. 
+expl_opt: ears are for listening instead of smelling
+prediction_x: Ear are for listening instead of smelling
+ <|bos|> Ear are for listening instead of smelling
+vinfo: 558.078857421875
+-----------111-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People usually put curtains on the windows. Sentence 2 is People usually put curtains on the walls.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Walls are usually either translucent, semi-translucent, or opaque
+expl_opt: Walls are usually opaque
+prediction_x: Walls are usually either opaque, semi-translucent, or opaque
+ <|bos|> Walls are usually opaque, semi-translucent, or opaque
+vinfo: 611.2313842773438
+-----------112-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Dry towels need to hang up to dry. Sentence 2 is Wet towels need to hang up to dry.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>you don't need to dry towels that are already dry.
+expl_opt: you don't need to dry towels that are already dry
+prediction_x: you don't need to dry towels that are already dry
+ <|bos|> you don't need to dry towels that are already dry
+vinfo: 637.8048095703125
+-----------113-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is a wall is the boundary of a house. Sentence 2 is a wall is the entrance of a house.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people can't go through the wall. People who can't swim may drown.
+expl_opt: people can't go through the wall
+prediction_x: People can't go through the wall. People who can't swim may drown
+vinfo: 637.8055419921875
+-----------114-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People can make wires from metal. Sentence 2 is People can make wires from plastics.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Plastics cannot conduct electricit Plastics cannot conduct electric currentThe fact that plastics cannot conduct electric current means that they are not electrically conductive.
+expl_opt: Plastics cannot conduct electricity
+prediction_x: Plastics cannot conduct electric current means that they are not electrically conductive
+vinfo: 584.652587890625
+-----------115-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is museum exhibits artifacts for everyone to learn. Sentence 2 is museum exhibits artifacts for sale.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>nobody can buy artifacts in the museum.  street lamps light for everyone. 
+expl_opt: nobody can buy artifacts in the museum
+prediction_x: nobody can buy artifacts in the museum.  street lamps light for everyone
+vinfo: 584.609130859375
+-----------116-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the clothes are still dirty because I forgot to add laundry water. Sentence 2 is the clothes are still dirty because I forgot to add laundry detergent.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>an elder sister usually wear clothes of larger sizes. the clothes can't be washed without water. the clothes can't be washed without water
+expl_opt: the clothes can't be washed without water
+prediction_x: the clothes can't be washed without water
+ <|bos|> the clothes can't be washed without water
+vinfo: 757.3951416015625
+-----------117-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is lauren gained weight so she had to get her suit altered. Sentence 2 is lauren gained weight so she had to get her shoes shined.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a human only has one mouth.  the change of human figure reflects on the size of the clothes. 
+expl_opt: the change of human figure reflects on the size of the clothes
+prediction_x: the change of human figure reflects on the size of the clothes.  the change of human figure reflects on the size of the clothes
+vinfo: 757.394775390625
+-----------118-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the company fired some employees because of continued losses. Sentence 2 is the company hired more employees because of continued losses.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>hiring employees will increase the company's losses.
+expl_opt: hiring employees will increase the company's losses
+prediction_x: employees will increase the company's losses
+
+ <|bos|> employees will increase the company's losses
+vinfo: 664.358642578125
+-----------119-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Marry lit up firewoods to make a campfire. Sentence 2 is Marry lit up rocks to make a campfire.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>[mask  rocks will not burn
+expl_opt: rocks will not burn
+prediction_x: rock will not burn wood will not burn wood will not burn wood will not burn wood <|bos|> rock will not burn wood will not burn wood
+vinfo: 704.23876953125
+-----------120-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is you can use money to buy some products to live longer. Sentence 2 is you can use money to buy some health to live longer.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>health can't be bought. football players kick footballs but don't sell them.
+expl_opt: health can't be bought
+prediction_x: health can't be bought. football players kick footballs but don't sell them
+vinfo: 717.5277099609375
+-----------121-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is dina visited her family because she distrusted them. Sentence 2 is dina visited her family because she missed them.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people don't visit those they distrust
+expl_opt: people don't visit those they distrust
+prediction_x: people don't visit those they distrust
+ <|bos|> people don't visit those they distrust
+vinfo: 690.8388671875
+-----------122-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my boss checks read messages carefully every day. Sentence 2 is my boss checks unread emails carefully every day.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>read messages are messages that have already been checked beforeread messages are messages that have already been checked before
+expl_opt: read messages are messages that have already been checked before
+prediction_x: read messages are messages that have already been checked before read messages are messages that have already been checked before
+vinfo: 651.0804443359375
+-----------123-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is meeting my friends is for business. Sentence 2 is meeting my friends is for pleasure.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>friends aren't those doing business with you. seeing old friends is a happy thing.
+expl_opt: friends aren't those doing business with you
+prediction_x: friends aren't those doing business with youFriends aren't those doing business with you
+vinfo: 584.6546630859375
+-----------124-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is taking summer vacation caused lots of stress. Sentence 2 is taking final exams caused lots of stress.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>meeting with friends usually makes a person happy.  taking a vacation is very relaxing. 
+expl_opt: taking a vacation is very relaxing
+prediction_x: taking a vacation is very relaxing.  taking a vacation is very relaxing.
+vinfo: 611.227294921875
+-----------125-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I should indulge myself when I fail. Sentence 2 is I should refresh myself when I fail.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>weakness is a kind of weakness, it is a weakness that is not good quality
+expl_opt: weakness is not good quality
+prediction_x: weakness is a kind of weakness, it is a weakness that is not good quality
+vinfo: 611.0010986328125
+-----------126-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is couples would divorce if they believed each other. Sentence 2 is couples would divorce if they betrayed each other.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>couples believed each other 's lies and that they would continue to live together
+expl_opt: couples believed each other would continue to live together
+prediction_x: couples believed each other's lies and that they would continue to live together
+vinfo: 637.802734375
+-----------127-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is chickens' eggs is delicious. Sentence 2 is pigs' eggs are delicious.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The study also showed that pigs are mammal .
+expl_opt: pigs are mammals
+prediction_x: The study also showed that pigs are mammal.  The study also showed that pigs are mammals
+vinfo: 558.0745849609375
+-----------128-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is chickens' eggs is delicious. Sentence 2 is pigs' eggs are delicious.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>pigs are mammals.  most viruses will make humans sick. 
+expl_opt: pigs are mammals
+prediction_x: most viruses will make humans sick
+ <|bos|> most viruses will make humans sick
+
+vinfo: 558.071044921875
+-----------129-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People open their doors when they go out of the home. Sentence 2 is People close their doors when they go out of the home.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>things in an opening house are easy to be stolen.  Mice can spread diseases and bite things. 
+expl_opt: things in an opening house are easy to be stolen
+prediction_x: things in an opening house are easy to be stolen.  Mice can spread diseases and bite things
+vinfo: 717.5292358398438
+-----------130-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is adults change clothes according to the weather every day. Sentence 2 is adults change clothes according to their height every day.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>feet aren't at the end of your arms. the height of an adult basically doesn't change.
+expl_opt: the height of an adult basically doesn't change
+prediction_x: the height of an adult basically doesn't change.  The height of an adult basically doesn't change
+vinfo: 664.3781127929688
+-----------131-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we are vaccinated for the cure of the disease. Sentence 2 is we are vaccinated for disease prevention.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>But it is important to remember that the vaccine can only prevent disease
+expl_opt: vaccine can only prevent disease
+prediction_x: the vaccine can only prevent disease
+ <|bos|> the vaccine can only prevent disease
+
+vinfo: 624.51806640625
+-----------132-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we can travel on the sea by boat. Sentence 2 is we can travel on the sea by train.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the train can't float on water. water does not influence people's reaction speed. the train can't float on water
+expl_opt: the train can't float on water
+prediction_x: the train can't float on water
+
+ <|bos|> the train can't float on water
+vinfo: 637.7951049804688
+-----------133-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is he was fined for smoking in his home. Sentence 2 is he was fined for smoking in the airplane.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Married people usually wear rings on their ring fingers.  people have the freedom to smoke in their home. 
+expl_opt: people have the freedom to smoke in their home
+prediction_x: people have the freedom to smoke in their home.  People have the freedom to smoke in their home
+vinfo: 637.8064575195312
+-----------134-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is passengers need to undergo a rigorous safety check before boarding the plane. Sentence 2 is passengers need to undergo a rigorous safety check before taking a taxi.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>safety check before taking a taxiDon't think that a safety check before taking a taxi is meaningless
+expl_opt: safety check before taking a taxi is meaningless
+prediction_x: safety check before taking a taxi is meaningless  safety check before taking a taxi is useless
+vinfo: 744.091064453125
+-----------135-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my jaw dropped open when I was shocked. Sentence 2 is my jaw dropped open when I was unhappy.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>an unhappy person usually keeps his lips closed tightly.  meeting with friends usually makes a person happy. 
+expl_opt: an unhappy person usually keeps his lips closed tightly
+prediction_x: an unhappy person usually keeps his lips closed tight.  meeting with friends usually makes a person happy
+vinfo: 637.8017578125
+-----------136-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is building workers risk injury by not wearing safety helmets. Sentence 2 is building workers risk injury by not wearing baseball caps.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>baseball capsBaseball caps are useless in protection of the head
+expl_opt: baseball caps are useless in protection of the head
+prediction_x: baseball caps are useless in protection of the head
+
+ <|bos|> baseball caps are useless in protection of the head
+vinfo: 664.3825073242188
+-----------137-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my father sold the best products to become the best salesman. Sentence 2 is my father sold the best salesmen to become the best product.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>aliens don't exist. humans can't be sold.
+expl_opt: humans can't be sold
+prediction_x: aliens don't exist. Humans can't be sold.  People can't be sold
+vinfo: 730.8177490234375
+-----------138-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Children in school use crayons for drawing. Sentence 2 is Children in school use cameras for drawing.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>cameras are not for drawing pictures.  Too bright lights can affect the effect of a movie playing. 
+expl_opt: cameras are not for drawing pictures
+prediction_x: cameras are not for drawing pictures.  Too bright lights can affect the effect of a movie playing
+vinfo: 637.774658203125
+-----------139-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is you can use ink to write things. Sentence 2 is you can use a link to write things.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>hardware can't be downloaded. link is not a material object and can't be touched.
+expl_opt: link is not a material object and can't be touched
+prediction_x: <|bos|> hardware can't be downloaded
+
+ <|bos|> hardware can't be touched
+vinfo: 624.5122680664062
+-----------140-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Running is a good exercise. Sentence 2 is Resting is a good exercise.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a bedroom is used for relaxing rather than cooking.  resting is not a kind of exercise. 
+expl_opt: resting is not a kind of exercise
+prediction_x: resting is not a kind of exercise.  resting is not a kind of exercise
+vinfo: 571.3690185546875
+-----------141-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is The longest nonstop flight by a bird is eight days. Sentence 2 is The longest nonstop flight by a dog is eight days.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a dog can't fly
+expl_opt: a dog can't fly
+prediction_x: a dog can't fly  a dog can't fly <|bos|> a dog can't fly
+vinfo: 717.2796020507812
+-----------142-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People usually like to wear oversize clothes. Sentence 2 is People usually like to wear fitted clothes.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>wearing oversize clothes makes people uncomfortabl Link to postShare on other sites
+expl_opt: wearing oversize clothes makes people uncomfortable
+prediction_x: wearing oversize clothes makes people uncomfortabl Link to postShare on other sites
+vinfo: 624.51806640625
+-----------143-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is studying requires violence. Sentence 2 is studying requires patience.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>rulers can't calculate numbers. violence can't help you learn knowledge.
+expl_opt: violence can't help you learn knowledge
+prediction_x: violence can't help you learn knowledge
+
+ <|bos|> violence can't help you learn knowledge
+vinfo: 504.88482666015625
+-----------144-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I want to find a quiet place to have a sleep. Sentence 2 is I want to find a noisy place to have a sleep.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>it's difficult to fall asleep in a noisy place.
+expl_opt: it's difficult to fall asleep in a noisy place
+prediction_x: it's difficult to fall asleep in a noisy place.  noisy places make people want sleep
+vinfo: 717.53173828125
+-----------145-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we built a factory to produce creative ideas. Sentence 2 is we built a factory to produce creative goods.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>I feel that good ideas can only come out from your mind
+expl_opt: good ideas can only come out from your mind
+prediction_x: I feel that good ideas can only come out from your mind
+ <|bos|> I feel that good ideas can only come out from your mind
+vinfo: 637.7822875976562
+-----------146-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People usually roast meat with cold water. Sentence 2 is People usually roast meat over fire.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the temperature of the soup doesn't affect its thickness.  People need high temperature to roast meat. 
+expl_opt: People need high temperature to roast meat
+prediction_x: People need high temperature to roast meat
+The true sentence is Sentence 1 <|bos|> The temperature of the soup doesn't affect its thickness
+vinfo: 597.9420776367188
+-----------147-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Running is a good exercise. Sentence 2 is Resting is a good exercise.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>resting is not a kind of sleep, it is a kind of exercise
+expl_opt: resting is not a kind of exercise
+prediction_x: resting is not a kind of exercise
+
+ <|bos|> resting is not a kind of exercise
+vinfo: 571.3690795898438
+-----------148-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Alice formed a habit of sleeping to keep fit. Sentence 2 is Alice formed a habit of jogging to keep fit.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>sleeping too much is unhealthy.  Too much smoking can lead to lung cancer. 
+expl_opt: sleeping too much is unhealthy
+prediction_x: Too much smoking can lead to lung cancer
+The true sentence is Sentence 1 <|exp|> sleeping too much is unhealthy
+vinfo: 677.6682739257812
+-----------149-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Something you might do while taking the bus is drawing an oil painting. Sentence 2 is Something you might do while taking the bus is reading a newspaper.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>it's too bumpy to draw paintings on a bus.
+expl_opt: it's too bumpy to draw paintings on a bus
+prediction_x: it's too bumpy to draw paintings on a bus.  It's too bumpy to draw paintings on a bus
+vinfo: 757.3955688476562
+-----------150-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is parents will praise children when kids did something well. Sentence 2 is children will praise parents when kids did something well.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>sellers are usually the one who give objects.  the person being praised should be the one who did the good thing. 
+expl_opt: the person being praised should be the one who did the good thing
+prediction_x: the person being praised should be the one who did the good thing
+The true sentence is Sentence 2 <|exp|> the person being praised should be the one who did the good thing
+vinfo: 664.3782958984375
+-----------151-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is a wall is the boundary of a house. Sentence 2 is a wall is the entrance of a house.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people can't go through the wall
+expl_opt: people can't go through the wall
+prediction_x: wall is the entrance of a house. <|bos|> wall is the entrance of a house
+vinfo: 637.7767333984375
+-----------152-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the ship hit the submarine yesterday. Sentence 2 is the ship hit the train yesterday.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The ships move in the water while the train moves in the land
+expl_opt: ships move in the water while the train moves in the land
+prediction_x: The ships move in the water while the train moves in the land
+ <|bos|> The ships move in the water while the train moves in the land
+vinfo: 584.6357421875
+-----------153-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is people expect enjoyment when they go to the cinema. Sentence 2 is people expect boredom when they go to the cinema.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people go to the cinema to watch moviespeople go to the cinema for fun
+expl_opt: people go to the cinema for fun
+prediction_x: people go to the cinema for fun people go to the cinema for fun people go to the cinema for fun
+vinfo: 664.3818359375
+-----------154-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is People can make wires from metal. Sentence 2 is People can make wires from plastics.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Plastics cannot conduct electricit iy, so they can't conduct electricity.
+expl_opt: Plastics cannot conduct electricity
+prediction_x: Plastics cannot conduct electricity
+
+ <|bos|> Plastics cannot conduct electricity
+
+
+vinfo: 584.6493530273438
+-----------155-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is we can find first class airplane seats in the wings of a plane. Sentence 2 is we can find first class airplane seats in the front of a plane.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>passengers will die if they sit outside the plane.  Passengers wait for a bus at the bus stop. 
+expl_opt: passengers will die if they sit outside the plane
+prediction_x: Passengers wait for a bus at the bus stop
+Passengers wait for a bus at the bus stop
+vinfo: 770.6764526367188
+-----------156-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is adults change clothes according to the weather every day. Sentence 2 is adults change clothes according to their height every day.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the height of an adult basically doesn't change. playing computer games doesn't help much in building muscles.
+expl_opt: the height of an adult basically doesn't change
+prediction_x: the height of an adult basically doesn't change. Playing computer games doesn't help much in building muscles
+vinfo: 664.3745727539062
+-----------157-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the company fired some employees because of continued losses. Sentence 2 is the company hired more employees because of continued losses.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>hiring employees will increase the company's losses. having a cold shower will worsen the cold.
+expl_opt: hiring employees will increase the company's losses
+prediction_x: having a cold shower will worsen the cold
+
+ <|bos|> having a cold shower will worsen the cold
+vinfo: 664.38037109375
+-----------158-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the filthy car needs to be washed. Sentence 2 is the filthy car needs to be painted.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>it's improper to paint on dust and stains.
+expl_opt: it's improper to paint on dust and stains
+prediction_x: it's improper to paint on dust and stains
+ <|bos|> it's improper to paint on dust and stains
+vinfo: 611.1383666992188
+-----------159-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my friend paid for my ticket so I got on the bus. Sentence 2 is my friend paid for my ticket so I didn't get on the bus.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>A bus ticket is a ticket that ticket is used to take a bus no matter who buys it
+expl_opt: a ticket is used to take a bus no matter who buys it
+prediction_x: a bus ticket is a ticket that ticket is used to take a bus no matter who buys it
+vinfo: 770.6024780273438
+-----------160-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is he was fined for smoking in his home. Sentence 2 is he was fined for smoking in the airplane.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people have the freedom to smoke wherever they want in their home
+expl_opt: people have the freedom to smoke in their home
+prediction_x: people have the freedom to smoke wherever they want in their home
+ <|bos|> people have the freedom to smoke wherever they want in their home
+vinfo: 637.80810546875
+-----------161-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is designers show outdated clothes in a fashion show. Sentence 2 is designers show avant-garde clothes in a fashion show.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>the fashion show is held to exhibit the latest trends and achievement in the industry.
+expl_opt: the fashion show is held to exhibit the latest achievements
+prediction_x: the fashion show is held to exhibit the latest trends and achievement in the industry
+vinfo: 690.9525756835938
+-----------162-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Amy is happy to know that her best friend has recovered from the illness. Sentence 2 is Amy is angry to know that her best friend has recovered from the illness.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people usually don't feel angry when they hear good news.
+expl_opt: people usually don't feel angry when they hear good news
+prediction_x: people usually don't feel angry when they hear good news.  People usually don't feel angry when they hear good news
+vinfo: 797.254638671875
+-----------163-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is He caught a cold and had a hot shower. Sentence 2 is He caught a cold and had a cold shower.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>having a cold shower will worsen the col itis symptoms.
+expl_opt: having a cold shower will worsen the cold
+prediction_x: having a cold shower will worsen the col itis symptoms.  having a cold shower will worsen the col itis symptoms
+vinfo: 664.3829956054688
+-----------164-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is julia pressed down on a piano key to play a music. Sentence 2 is julia pressed down on a piano key to make a sound.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Paper towels are made of grass.  music is usually composed of several different sounds. 
+expl_opt: music is usually composed of several different sounds
+prediction_x: Music is usually composed of several different sounds
+The true sentence is Sentence 1 <|exp|> Paper towels are made of grass.  Music is usually composed of several different sounds
+vinfo: 744.1015625
+-----------165-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I need to say goodbye to people on TV when I finish watching the TV show. Sentence 2 is I need to turn off the TV when I finish watching the TV show.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people on tv can't communicate with the audience. a radio can't hold other things. people on tv can't communicate with the audience
+expl_opt: people on TV can't communicate with the audience
+prediction_x: people on tv can't communicate with the audience
+People on tv can't communicate with the audience
+vinfo: 823.8287353515625
+-----------166-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the conversation gradually lulled to silence as more people left. Sentence 2 is the conversation gradually lulled to silence as more people joined.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people usually sleep on the bed.  a conversation is usually more active with more people. 
+expl_opt: a conversation is usually more active with more people
+prediction_x: a conversation is usually more active with more people
+The true sentence is Sentence 2 <|exp|> people usually sleep on the bed
+vinfo: 704.19677734375
+-----------167-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is when you borrowed a car you can sell it to others. Sentence 2 is when you borrowed a car you can show it to others.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>you don't own the thing you borrowed.
+expl_opt: you don't own the thing you borrowed
+prediction_x: you don't own the thing you borrowed
+The true sentence is Sentence 1 <|bos|> you don't own the thing you borrowed
+vinfo: 717.5304565429688
+-----------168-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I washed my computers twice a week. Sentence 2 is I washed my clothes twice a week.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>The computers will be damaged if they are washed
+expl_opt: computers will be damaged if they are washed
+prediction_x: the computers will be damaged if they are washed
+ <|bos|> the computers will be damaged if they are washed
+vinfo: 611.2294921875
+-----------169-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is the clouds were getting darker so I brought my umbrella to work. Sentence 2 is the clouds were getting darker so I brought my laptop to work.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>darker than the clouds is a forecast of rain
+expl_opt: darker clouds is a forecast of rain
+prediction_x: darker than the clouds is a forecast of rain
+ <|bos|> darker than the clouds is a forecast of rain
+vinfo: 744.1063232421875
+-----------170-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is Rats can't bite metal furniture. Sentence 2 is Rats can't bite wood furniture.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>Rat's teeth are harder than wood. human rarely eats the tiger meat.
+expl_opt: Rat's teeth are harder than wood
+prediction_x: Rat's teeth are harder than wood
+The true sentence is Sentence 2 <|bos|> Rat's teeth are harder than wood
+vinfo: 584.5194091796875
+-----------171-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my father sold the best products to become the best salesman. Sentence 2 is my father sold the best salesmen to become the best product.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>people cannot be purchased. humans can't be sold.
+expl_opt: humans can't be sold
+prediction_x: people can't be sold.  humans can't be sold.  People can't be sold
+vinfo: 730.8169555664062
+-----------172-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is my friend paid for my ticket so I got on the bus. Sentence 2 is my friend paid for my ticket so I didn't get on the bus.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>a ticket is used to take a bus no matter who buys i think it is a good idea
+expl_opt: a ticket is used to take a bus no matter who buys it
+prediction_x: a ticket is used to take a bus no matter who buys i think it is a good idea
+vinfo: 770.6751708984375
+-----------173-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I can take part in the soccer game in formal clothes. Sentence 2 is I can take part in the soccer game in athletic clothes.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>formal clothes are not designed for sports at all.  Down clothes will sink when they are wet, which will affect athletes' performance. 
+expl_opt: formal clothes are not designed for sports at all
+prediction_x: formal clothes are not designed for sports at all
+The true sentence is Sentence 1 <|exp|> formal clothes are not designed for sports at all
+vinfo: 717.5322875976562
+-----------174-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I used to step on the mountain to get the sugar on the op of the cupboard. Sentence 2 is I used to step on the stone to get the sugar on the top of the cupboard.
+sample_out: The true sentence is Sentence 1
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>mountains .comThe shelves are much more higher than cupboard .
+expl_opt: mountains are much more higher than cupboards
+prediction_x: mountains are much higher than cupboard.  The shelves are much more high than cupboard
+vinfo: 903.55908203125
+-----------175-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is I bought a ticket for the train I took. Sentence 2 is I bought a ticket for the taxi I took.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>taking a taxi doesn't require tickets. we don't wear umbrellas. taking a taxi doesn't require tickets
+expl_opt: taking a taxi doesn't require tickets
+prediction_x: taking a taxi doesn't require tickets
+ <|bos|> taking a taxi doesn't require tickets
+vinfo: 664.3780517578125
+-----------176-----------
+sample_in: There are two statements and select which one is true.<|exp|>Sentence 1 is passengers need to undergo a rigorous safety check before boarding the plane. Sentence 2 is passengers need to undergo a rigorous safety check before taking a taxi.
+sample_out: The true sentence is Sentence 2
+expl_ipt: Let's explain two statements where only one statement is true.<|exp|>safety check before taking a taxisafety check before taking a taxisafety check before taking a taxi is meaningles Safety Check
+expl_opt: safety check before taking a taxi is meaningless
+prediction_x: Safety check before taking a taxi is meaninglesSafety Check is meaninglesSafety Check <|bos|> Safety check before taking a taxi is meaninglesSafety Check is meaningles
+vinfo: 744.08349609375
