@@ -272,7 +272,7 @@ def evaluate(args, model, tokenizer, evaluate_metrics="ppl", prefix='0'):
     eval_output_dir = args.output_dir
 
     if prefix == 'test':
-        eval_data_file = os.path.join(args.data_file, args.test_data_file)
+        eval_data_file = os.path.join(args.data_file)
     elif prefix == 'train':
         eval_data_file = os.path.join(args.data_file, args.train_data_file)
     else:
@@ -334,7 +334,7 @@ def evaluate(args, model, tokenizer, evaluate_metrics="ppl", prefix='0'):
             batch = {key: batch[key].to(args.device) for key in batch}
 
         with torch.no_grad():
-            if 'bleu' in evaluate_metrics or 'dist' in evaluate_metrics:
+            if 'bleu' in evaluate_metrics or 'dist' in evaluate_metrics or 'generate' in evaluate_metrics:
                 if isinstance(model, torch.nn.DataParallel):
                     hypo_results = model.module.aotoreg_generate(state='eval', **batch)
                 else:
@@ -355,7 +355,7 @@ def evaluate(args, model, tokenizer, evaluate_metrics="ppl", prefix='0'):
         perplexity = torch.exp(torch.tensor(eval_loss))
         result["ppl"] = perplexity
 
-    if 'bleu' in evaluate_metrics or 'dist' in evaluate_metrics:
+    if 'bleu' in evaluate_metrics or 'dist' in evaluate_metrics or 'generate' in evaluate_metrics:
         references_x = [[[x for x in y.strip().split(' ')]] for y in expl_opt_list]  # each sample can have multiple references
         predictions_x = [xs[0].strip(' ').split(' ') for xs in gen_seqs_x]
 

@@ -4,26 +4,25 @@ DATA_PATH=$2
 SAVE_PATH=$3
 PRETRAIN_PATH=$4
 EXP_PRETRAIN_PATH=$4
+EVAL_METRICS=$5
 if [[ "$DATA_PATH" == *"ecqa"* ]]
 then
   DATA_TYPE=ecqa
-  TEST_DATA=prompt_ecqa_test.csv
 elif [[ "$DATA_PATH" == *"esnli"* ]]
 then
   DATA_TYPE=esnli
-  TEST_DATA=prompt_esnli_test.csv
-else
+elif [[ "$DATA_PATH" == *"test.csv"* ]]
   DATA_TYPE=mixexpl_test
-  TEST_DATA=test.csv
+else
+  DATA_TYPE=custom
 fi
 
-CUDA_VISIBLE_DEVICES=$5
+CUDA_VISIBLE_DEVICES=$6
 export CUDA_VISIBLE_DEVICES
 
 python -m torch.distributed.launch --nproc_per_node=1 --master_port 29502 train.py \
 --data_file ${DATA_PATH} \
 --data_type ${DATA_TYPE} \
---test_data_file ${TEST_DATA} \
 --output_dir ${SAVE_PATH} \
 --prediction_dir prediction_${DATA_TYPE} \
 --task_type ${TASK_NAME} \
@@ -49,7 +48,7 @@ python -m torch.distributed.launch --nproc_per_node=1 --master_port 29502 train.
 --per_gpu_eval_batch_size 1 \
 --workers 0 \
 --seed 42 \
---evaluate_metrics ppl_bleu_dist \
+--evaluate_metrics ${EVAL_METRICS} \
 --validate_steps -1 \
 --overwrite_output_dir \
 --num_train_epochs 20 \

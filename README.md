@@ -146,11 +146,49 @@ We have processed the test sets in Section [Prepare Out-of-domain Test tasks](#p
 
 ```bash
 cd code/EIB_model
-bash infer.sh 'EIB' '../../data/MixExpl' 'EIB_train_cpt/' '../../data/utils/gpt2' '0'
+bash infer.sh 'EIB' '../../data/MixExpl/prompt_filter_ecqa_test.csv' 'EIB_train_cpt/' '../../data/utils/gpt2' 'ppl_bleu_dist' '0'
+```
+The predictions are saved in directory `EIB_train_cpt/`.
+
+You could also use your own test sets for inference. Process your data into `csv` format which includes three columns: `task_ipt` (e.g., questions), `task_opt` (e.g., answers), `expl_ipt` (e.g., explanation candidates).
+
+```bash
+cd code/EIB_model
+bash infer.sh 'EIB' 'path_to_your_csv_file' 'EIB_train_cpt/' '../../data/utils/gpt2' 'generate' '0'
 ```
 
-### Baselines
-[todo]
+## Baselines
+
+
+### [BottleSum](https://github.com/peterwestuw/BottleSum)
+```bash
+co code/BottleSum
+bash run.sh 'data/ecqa_b1.txt' 'data/ecqa_sample.txt' 'data/ecqa_bs_result.txt'
+```
+Predictions are stored as `ecqa_bs_result.txt` or `esnli_bs_result.txt`.
+
+### [Prompting-Filter](https://github.com/allenai/few_shot_explanations)
+```bash
+cd code/Prompting-Filter
+bash run.sh '../../data/explanation_datasets/esnli/esnli_explanation_cands.csv' 'esnli_pf_result.json' 'esnli'
+bash run.sh '../../data/explanation_datasets/esnli/ecqa_explanation_cands.csv' 'ecqa_pf_result.json' 'ecqa'
+```
+Predictions are stored as `ecqa_pf_result.json` or `esnli_pf_result.json`.
+
+
+### Supervised
+Code for training:
+```bash
+cd code/Supervised
+bash train.sh 'ft_ecqa' '../../data/utils/gpt2' '0,1,2,3,4,5,6,7'
+```
+
+Code for inference:
+```bash
+cd code/Supervised
+bash infer.sh 'ft_ecqa' '../../data/utils/gpt2' '0'
+```
+Predictions are stored in `ft_ecqa` and `ft_esnli`.
 
 ## Contact
 
